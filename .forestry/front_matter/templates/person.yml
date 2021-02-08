@@ -1,0 +1,31 @@
+---
+label: Person
+hide_body: true
+fields:
+- type: text
+  name: first_name
+  label: First Name
+- type: text
+  name: last_name
+  label: Last Name
+- type: textarea
+  name: bio
+  label: Bio
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: file
+  name: photo
+  label: Photo
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: person
+  config:
+    required: true
+pages:
+- src/data/authors/jane-doe.yaml
+- src/data/authors/john-doe.yaml

@@ -1,0 +1,44 @@
+---
+label: Pricing Plan
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: subtitle
+  label: Subtitle
+- type: text
+  name: price
+  label: Price
+- type: textarea
+  name: details
+  label: Details
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: boolean
+  name: highlight
+  label: Highlight
+  description: Make the plan stand out by adding a distinctive style
+  default: false
+- type: field_group_list
+  name: actions
+  label: Action Buttons
+  fields:
+  - type: include
+    name: include_action
+    label: Action
+    template: action
+  config:
+    labelField: label
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: pricing_plan
+  config:
+    required: true

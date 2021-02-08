@@ -1,0 +1,75 @@
+---
+label: Contact Section
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: section_id
+  label: Section ID
+  description: 'A unique identifier of the section, must not contain whitespace'
+- type: text
+  name: title
+  label: Title
+  description: The title of the section
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The text shown below the title
+- type: textarea
+  name: content
+  label: Content
+  description: 'the content of the section, appears above the form'
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: select
+  name: background
+  label: Background
+  description: The background of the section
+  default: gray
+  config:
+    source:
+      type: custom
+    options:
+    - gray
+    - white
+- type: text
+  name: form_id
+  label: Form ID
+  description: 'A unique identifier of the form, must not contain whitespace'
+  config:
+    required: true
+- type: text
+  name: form_action
+  label: Form Action
+  description: >-
+    The path of your custom "success" page, if you want to replace the default
+    success message.
+- type: boolean
+  name: hide_labels
+  label: Hide labels of the form fields?
+  default: false
+- type: field_group_list
+  name: form_fields
+  label: Form Fields
+  fields:
+  - type: include
+    name: include_form_field
+    label: Form Field
+    template: form_field
+  config:
+    labelField: name
+- type: text
+  name: submit_label
+  label: Submit Button Label
+  config:
+    required: true
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: section_contact
+  config:
+    required: true

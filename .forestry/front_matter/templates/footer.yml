@@ -1,0 +1,52 @@
+---
+label: Footer Configuration
+hide_body: true
+display_field: content
+fields:
+- type: blocks
+  name: sections
+  label: Sections
+  description: Footer sections
+  template_types:
+  - footer_form
+  - footer_nav
+  - footer_text
+- type: boolean
+  name: has_nav
+  label: Enable Horizontal Navigation
+  description: Display the horizontal navigation menu bar in the footer
+  default: true
+- type: field_group_list
+  name: nav_links
+  label: Horizontal Navigation Links
+  description: List of horizontal navigation links
+  fields:
+  - type: include
+    name: include_action
+    label: Action
+    template: action
+  config:
+    labelField: label
+- type: text
+  name: content
+  label: Footer Content
+  description: The copyright text displayed in the footer
+- type: field_group_list
+  name: links
+  label: Links
+  description: A list of links displayed in the footer
+  fields:
+  - type: include
+    name: include_action
+    label: Action
+    template: action
+  config:
+    labelField: label
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: footer
+  config:
+    required: true

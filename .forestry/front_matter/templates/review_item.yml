@@ -1,0 +1,25 @@
+---
+label: Review Item
+hide_body: true
+display_field: author
+fields:
+- type: text
+  name: author
+  label: Author
+- type: file
+  name: avatar
+  label: Author Image
+- type: text
+  name: avatar_alt
+  label: Author Image Alt Text
+- type: textarea
+  name: content
+  label: Content
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: review_item
+  config:
+    required: true

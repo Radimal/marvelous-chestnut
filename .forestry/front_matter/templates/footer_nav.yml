@@ -1,0 +1,28 @@
+---
+label: Vertical Navigation
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the section
+- type: field_group_list
+  name: nav_links
+  label: Vertical Navigation Links
+  description: List of vertical navigation links
+  fields:
+  - type: include
+    name: include_action
+    label: Action
+    template: action
+  config:
+    labelField: label
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: footer_nav
+  config:
+    required: true

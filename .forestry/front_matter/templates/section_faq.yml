@@ -1,0 +1,44 @@
+---
+label: FAQ Section
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: section_id
+  label: Section ID
+  description: 'A unique identifier of the section, must not contain whitespace'
+- type: text
+  name: title
+  label: Title
+  description: The title of the section
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The subtitle of the section
+- type: select
+  name: background
+  label: Background
+  description: The background of the section
+  default: gray
+  config:
+    source:
+      type: custom
+    options:
+    - gray
+    - white
+- type: field_group_list
+  name: faq_items
+  label: FAQ Items
+  fields:
+  - type: include
+    name: include_faq_item
+    label: FAQ Item
+    template: faq_item
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: section_faq
+  config:
+    required: true
