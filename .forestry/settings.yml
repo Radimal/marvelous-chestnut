@@ -38,8 +38,14 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
+  preview_env:
+  - GATSBY_AUTH0_AUDIENCE=hasura
+  - GATSBY_AUTH0_CLIENT_ID=9KoW2iyJAGHrdlDzcKewzQ9QZwltqrqL
+  - GATSBY_AUTH0_DOMAIN=radimal.us.auth0.com
+  - GATSBY_HASURA_API_URL=http://hasuragraphqlapi-loadbalancer-290405511.us-east-1.elb.amazonaws.com/v1/graphql
+  - GATSBY_HASURA_GRAPHQL_ADMIN_SECRET=R$qalt22345678
   preview_output_directory: public
-  install_dependencies_command: npm install
+  install_dependencies_command: yarn
   preview_docker_image: forestryio/node:12
   mount_path: "/srv"
-  instant_preview_command: npm run develop
+  instant_preview_command: yarn run develop
