@@ -4,7 +4,7 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Smart Tools For Happy Vets
+  title: Smart Tools For Happy Vets zzzzz
   content: Accurate pet radiology reports delivered to your inbox in minutes.
   image: "/images/hero.svg"
   image_alt: animals
