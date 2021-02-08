@@ -61,7 +61,7 @@
 
     a:not(.button) {
       color: inherit;
-  
+
       &:hover {
         color: $gray-500;
       }
@@ -96,7 +96,7 @@
       background: #fff;
       position: -webkit-sticky;
       position: sticky;
-      top:0;
+      top: 0;
       z-index: 999;
 
       .has--scrolled & {
@@ -114,15 +114,16 @@
 
   .site-header {
     &:before {
-      background: rgba($gray-100, .75);
+      background: rgba($gray-100, 0.75);
       content: "";
       height: 100vh;
       left: 0;
       opacity: 0;
       position: absolute;
       top: 0;
-      -webkit-transition: opacity .15s ease-in-out,visibility 0s ease-in-out .15s;
-      transition: opacity .15s ease-in-out,visibility 0s ease-in-out .15s;
+      -webkit-transition: opacity 0.15s ease-in-out,
+        visibility 0s ease-in-out 0.15s;
+      transition: opacity 0.15s ease-in-out, visibility 0s ease-in-out 0.15s;
       visibility: hidden;
       width: 100%;
       z-index: 998;
@@ -167,8 +168,8 @@
     position: absolute;
     right: -400px;
     top: 0;
-    -webkit-transition: right .3s ease-in-out, visibility 0s .3s ease-in-out;
-    transition: right .3s ease-in-out, visibility 0s .3s ease-in-out;
+    -webkit-transition: right 0.3s ease-in-out, visibility 0s 0.3s ease-in-out;
+    transition: right 0.3s ease-in-out, visibility 0s 0.3s ease-in-out;
     visibility: hidden;
     width: 400px;
     z-index: 999;
@@ -225,8 +226,8 @@
 
     .site-navigation {
       right: 0;
-      -webkit-transition: right .3s ease-in-out;
-      transition: right .3s ease-in-out;
+      -webkit-transition: right 0.3s ease-in-out;
+      transition: right 0.3s ease-in-out;
       visibility: visible;
     }
 
