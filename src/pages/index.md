@@ -91,7 +91,7 @@ sections:
   reviews:
   - type: review_item
     template: review_item
-    author: JL, DACVR
+    author: JL, DVM
     avatar: images/review1.jpg
     avatar_alt: Eric Widget's photo
     content: Having that comfort and knowing that somebody is verifying that something
