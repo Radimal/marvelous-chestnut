@@ -45,3 +45,19 @@ export const onPreRouteUpdate = () => {
     window.onGatsbyPreRouteUpdate();
   }
 };
+
+const onRedirectCallback = (appState) => navigate(appState?.returnTo || "/");
+
+export const wrapRootElement = ({ element }) => {
+  return (
+    <Auth0Provider
+      audience={process.env.GATSBY_AUTH0_AUDIENCE}
+      clientId={process.env.GATSBY_AUTH0_CLIENT_ID}
+      domain={process.env.GATSBY_AUTH0_DOMAIN}
+      onRedirectCallback={onRedirectCallback}
+      redirectUri={process.env.GATSBY_REDIRECT_URI}
+    >
+      {element}
+    </Auth0Provider>
+  );
+};
