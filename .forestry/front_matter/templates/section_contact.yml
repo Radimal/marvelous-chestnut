@@ -6,7 +6,7 @@ fields:
 - type: text
   name: section_id
   label: Section ID
-  description: 'A unique identifier of the section, must not contain whitespace'
+  description: A unique identifier of the section, must not contain whitespace
 - type: text
   name: title
   label: Title
@@ -18,7 +18,7 @@ fields:
 - type: textarea
   name: content
   label: Content
-  description: 'the content of the section, appears above the form'
+  description: the content of the section, appears above the form
   config:
     wysiwyg: true
     schema:
@@ -37,15 +37,14 @@ fields:
 - type: text
   name: form_id
   label: Form ID
-  description: 'A unique identifier of the form, must not contain whitespace'
+  description: A unique identifier of the form, must not contain whitespace
   config:
     required: true
 - type: text
   name: form_action
   label: Form Action
-  description: >-
-    The path of your custom "success" page, if you want to replace the default
-    success message.
+  description: The path of your custom "success" page, if you want to replace the
+    default success message.
 - type: boolean
   name: hide_labels
   label: Hide labels of the form fields?

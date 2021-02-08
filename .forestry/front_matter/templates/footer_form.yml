@@ -10,7 +10,7 @@ fields:
 - type: textarea
   name: content
   label: Content
-  description: 'The content of the section, appears above the form'
+  description: The content of the section, appears above the form
   config:
     wysiwyg: true
     schema:
@@ -18,15 +18,14 @@ fields:
 - type: text
   name: form_id
   label: Form ID
-  description: 'A unique identifier of the form, must not contain whitespace'
+  description: A unique identifier of the form, must not contain whitespace
   config:
     required: true
 - type: text
   name: form_action
   label: Form Action
-  description: >-
-    The path of your custom "success" page, if you want to replace the default
-    success message.
+  description: The path of your custom "success" page, if you want to replace the
+    default success message.
 - type: boolean
   name: hide_labels
   label: Hide labels of the form fields?
