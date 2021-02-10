@@ -6,7 +6,7 @@ sections:
   section_id: features
   title: Radiology Reports Delivered in Minutes
   content: |-
-    Say hello to reports in minutes (not days!) that can help inform patient treatment Vets of all experience levels. If it looks normal to you, you'll know in minutes if it looks normal to Radimal too. If the patient needs treatment immediately, you'll know that just as quickly.
+    Say hello to reports in minutes (not days!) that can help inform patient treatment for Vets of all experience levels. If it looks normal to you, you'll know in minutes if it looks normal to Radimal too. If the patient needs treatment immediately, you'll know that just as quickly.
 
     * Radimal receives all of your cases automatically from your imaging station
     * Reports are received in minutes, with the opportunity to ask questions from an attending DAVCM
