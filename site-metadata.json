@@ -1,5 +1,5 @@
 {
-  "title": "Azimuth",
+  "title": "Radimal.ai",
   "palette": "blue",
   "base_font": "nunito-sans",
   "header": {
@@ -227,6 +227,6 @@
 
     ]
   },
-  "domain": "",
+  "domain": "https://radimal.ai",
   "favicon": ""
 }
