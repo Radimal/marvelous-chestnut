@@ -12,7 +12,7 @@ sections:
     * Reports are received in minutes, with the opportunity to ask questions from an attending DAVCM
 
     Sign up to enable your practice today!
-  image: "/images/radimalonphone.png"
+  image: "/images/radimalonphone-1.png"
   image_alt: App preview on a phone and tablet
   background: gray
   actions:
