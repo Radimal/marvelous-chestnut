@@ -4,18 +4,21 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
-    image: images/hero.png
-    image_alt: App preview
+    title: Smart Tools For Happy Vets
+    content: Accurate pet radiology reports delivered to your inbox in minutes.
+    image: /images/hero.svg
+    image_alt: animals
     actions:
       - type: action
         template: action
         label: Learn More
         url: /features
         style: primary
+        has_icon: false
+        icon: ''
+        icon_position: ''
+        new_window: false
+        no_follow: false
   - type: section_features
     template: section_features
     section_id: features
@@ -43,6 +46,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: false
+            no_follow: false
       - type: feature_item
         template: feature_item
         title: Awesome Feature of Your Services
@@ -61,6 +66,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: false
+            no_follow: false
       - type: feature_item
         template: feature_item
         title: Cool Feature of Your Services
@@ -79,6 +86,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: false
+            no_follow: false
   - type: section_reviews
     template: section_reviews
     section_id: reviews
@@ -90,12 +99,14 @@ sections:
     reviews:
       - type: review_item
         template: review_item
-        author: Eric Widget
+        author: 'JL, DVM'
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Having that comfort and knowing that somebody is verifying that
+          something is normal. that's every vet's greatest fear -- that you're
+          missing something. So this helps you know that you're giving the best
+          medicine to your patients.
       - type: review_item
         template: review_item
         author: Parsley Montana
@@ -116,19 +127,25 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Setup your whole team in minutes
+    subtitle: Receive your first report in minutes with a 10-minute setup call
     actions:
       - type: action
         template: action
         label: Get Started
         url: /signup
         style: primary
+        has_icon: false
+        icon: ''
+        icon_position: ''
+        new_window: false
+        no_follow: false
   - type: section_posts
     template: section_posts
     section_id: recent-posts
     title: Latest Posts
     background: gray
+    subtitle: ''
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
@@ -138,24 +155,35 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
+      relativeUrl: false
     - name: 'og:title'
       value: Stackbit Azimuth Theme
       keyName: property
+      relativeUrl: false
     - name: 'og:description'
       value: The preview of the Azimuth theme
       keyName: property
+      relativeUrl: false
     - name: 'og:image'
       value: images/hero.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
+      keyName: ''
+      relativeUrl: false
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
+      keyName: ''
+      relativeUrl: false
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
+      keyName: ''
+      relativeUrl: false
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+      keyName: ''
+  robots: []
 template: landing
 ---

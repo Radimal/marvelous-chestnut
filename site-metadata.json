@@ -1,12 +1,12 @@
 {
-    "title": "Azimuth",
+    "title": "Radimal.ai",
     "palette": "blue",
     "base_font": "nunito-sans",
     "header": {
         "type": "header",
         "template": "header",
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Logo",
+        "logo_img": "/images/logo.png",
+        "logo_img_alt": "Radimal",
         "has_nav": true,
         "nav_links": [
             {
@@ -14,35 +14,48 @@
                 "template": "action",
                 "label": "Home",
                 "url": "/",
-                "style": "link"
+                "style": "link",
+                "has_icon": false,
+                "icon": "",
+                "icon_position": "",
+                "new_window": false,
+                "no_follow": false
             },
             {
                 "type": "action",
                 "template": "action",
                 "label": "Features",
                 "url": "/features",
-                "style": "link"
+                "style": "link",
+                "has_icon": false,
+                "icon": "",
+                "icon_position": "",
+                "new_window": false,
+                "no_follow": false
             },
             {
                 "type": "action",
                 "template": "action",
                 "label": "Pricing",
                 "url": "/pricing",
-                "style": "link"
+                "style": "link",
+                "has_icon": false,
+                "icon": "",
+                "icon_position": "",
+                "new_window": false,
+                "no_follow": false
             },
             {
                 "type": "action",
                 "template": "action",
                 "label": "Style Guide",
                 "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
+                "style": "link",
+                "has_icon": false,
+                "icon": "",
+                "icon_position": "",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
@@ -56,7 +69,8 @@
                 "image": "images/logo-alt.svg",
                 "image_alt": "Footer logo",
                 "image_url": "/",
-                "content": "Stackbit theme demo"
+                "content": "Stackbit theme demo",
+                "title": ""
             },
             {
                 "type": "footer_nav",
@@ -68,28 +82,48 @@
                         "template": "action",
                         "label": "About Us",
                         "url": "/about",
-                        "style": "link"
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "",
+                        "icon_position": "",
+                        "new_window": false,
+                        "no_follow": false
                     },
                     {
                         "type": "action",
                         "template": "action",
                         "label": "Blog",
                         "url": "/blog",
-                        "style": "link"
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "",
+                        "icon_position": "",
+                        "new_window": false,
+                        "no_follow": false
                     },
                     {
                         "type": "action",
                         "template": "action",
                         "label": "Sign Up",
                         "url": "/signup",
-                        "style": "link"
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "",
+                        "icon_position": "",
+                        "new_window": false,
+                        "no_follow": false
                     },
                     {
                         "type": "action",
                         "template": "action",
                         "label": "Contact",
                         "url": "/contact",
-                        "style": "link"
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "",
+                        "icon_position": "",
+                        "new_window": false,
+                        "no_follow": false
                     }
                 ]
             },
@@ -106,7 +140,9 @@
                         "style": "link",
                         "has_icon": true,
                         "icon": "twitter",
-                        "icon_position": "left"
+                        "icon_position": "left",
+                        "new_window": false,
+                        "no_follow": false
                     },
                     {
                         "type": "action",
@@ -116,7 +152,9 @@
                         "style": "link",
                         "has_icon": true,
                         "icon": "linkedin",
-                        "icon_position": "left"
+                        "icon_position": "left",
+                        "new_window": false,
+                        "no_follow": false
                     },
                     {
                         "type": "action",
@@ -126,29 +164,11 @@
                         "style": "link",
                         "has_icon": true,
                         "icon": "github",
-                        "icon_position": "left"
+                        "icon_position": "left",
+                        "new_window": false,
+                        "no_follow": false
                     }
                 ]
-            },
-            {
-                "type": "footer_form",
-                "template": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
-                "form_id": "contactForm",
-                "hide_labels": true,
-                "form_fields": [
-                    {
-                        "type": "form_field",
-                        "template": "form_field",
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Enter email address",
-                        "is_required": true
-                    }
-                ],
-                "submit_label": "Subscribe"
             }
         ],
         "has_nav": true,
@@ -158,16 +178,29 @@
                 "template": "action",
                 "label": "Terms of Service",
                 "url": "/terms-of-service",
-                "style": "link"
+                "style": "link",
+                "has_icon": false,
+                "icon": "",
+                "icon_position": "",
+                "new_window": false,
+                "no_follow": false
             },
             {
                 "type": "action",
                 "template": "action",
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
-                "style": "link"
+                "style": "link",
+                "has_icon": false,
+                "icon": "",
+                "icon_position": "",
+                "new_window": false,
+                "no_follow": false
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
-    }
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
+        "links": []
+    },
+    "domain": "https://radimal.ai",
+    "favicon": ""
 }
