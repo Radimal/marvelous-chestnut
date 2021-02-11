@@ -130,7 +130,7 @@ sections:
     title: Setup your whole team in minutes
     subtitle: >-
       Sign up and schedule your ten minute setup call so we an connect to your
-      imaging machine. That's it.
+      imaging machine
     actions:
       - type: action
         template: action
