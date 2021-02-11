@@ -128,7 +128,7 @@ sections:
     template: section_cta
     section_id: call-to-action
     title: Setup your whole team in minutes
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'Once you sign up, '
     actions:
       - type: action
         template: action
