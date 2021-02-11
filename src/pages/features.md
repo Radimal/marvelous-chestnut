@@ -9,7 +9,7 @@ sections:
     Say hello to reports in minutes (not days!) that can help inform patient treatment for Vets of all experience levels. If it looks normal to you, you'll know in minutes if it looks normal to Radimal too. If the patient needs treatment immediately, you'll have extra insights for that just as quickly.
 
     * Radimal receives all of your cases automatically from your imaging station
-    * Reports are received in minutes, with the opportunity to ask questions from an attending DAVCM
+    * You'll automatically receive reports via email minutes after taking images, with the opportunity to ask questions from an attending DAVCM
 
     Sign up to enable your practice today!
   image: "/images/radimalonphone-1.png"
