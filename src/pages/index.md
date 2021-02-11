@@ -128,9 +128,7 @@ sections:
     template: section_cta
     section_id: call-to-action
     title: Setup your whole team in minutes
-    subtitle: >-
-      Sign up and schedule your ten minute setup call so we an connect to your
-      imaging machine
+    subtitle: 'Sign up and schedule your ten minute setup call so '
     actions:
       - type: action
         template: action
