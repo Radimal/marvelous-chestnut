@@ -129,8 +129,8 @@ sections:
     section_id: call-to-action
     title: Setup your whole team in minutes
     subtitle: >-
-      Once you sign up, schedule your ten minute setup call so we an connect to
-      your imaging machine. That's it.
+      Sign up and schedule your ten minute setup call so we an connect to your
+      imaging machine. That's it.
     actions:
       - type: action
         template: action
