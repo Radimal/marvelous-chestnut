@@ -48,24 +48,6 @@ sections:
       no_follow: false
   - type: feature_item
     template: feature_item
-    title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
-    image_alt: App users welcoming a new member
-    actions:
-    - type: action
-      template: action
-      label: Learn More
-      url: "/features"
-      style: secondary
-      has_icon: true
-      icon: arrow-right
-      icon_position: right
-      new_window: false
-      no_follow: false
-  - type: feature_item
-    template: feature_item
     title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
