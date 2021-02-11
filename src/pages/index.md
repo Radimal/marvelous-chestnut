@@ -127,7 +127,7 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: Enable your whole team in minutes
+    title: Setup your whole team in minutes
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
