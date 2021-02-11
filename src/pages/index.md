@@ -98,7 +98,7 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: Setup your whole team in minutes
+  title: Get started in minutes
   subtitle: Receive your first report in minutes with a 10-minute setup call
   actions:
   - type: action
