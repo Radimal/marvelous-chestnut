@@ -139,6 +139,7 @@ export function Header(props) {
                         <button
                           style={{ margin: "10px" }}
                           id="login"
+                          className="button"
                           onClick={() => loginWithRedirect()}
                         >
                           Sign In
