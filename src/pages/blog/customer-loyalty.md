@@ -79,11 +79,15 @@ Take some time to make a case log of cases to refer back to. Writing down cases 
 
 ![](/images/coulson.jpg)
 
-[https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "Atlas of Interpretive Radiographic Anatomy in the Dog")[ ]()(insert photo) This book is amazing and shows juvenile bones at age intervals. For example, have a limping 24-week-old puppy and you’re not sure what the elbow should look like? This is your text!
+[https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "Atlas of Interpretive Radiographic Anatomy in the Dog")[ ]()
+
+This book is amazing and shows juvenile bones at age intervals. For example, have a limping 24-week-old puppy and you’re not sure what the elbow should look like? This is your text!
 
 ![](/images/atlas.jpg)
 
-[https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2 "https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2") (insert photo) This is not the textbook from vet school. This is an atlas that shows not only normal radiographs but also common variations that are often mistaken for abnormalities. It’s an amazing reference.
+[https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2 "https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2") 
+
+This is not the textbook from vet school. This is an atlas that shows not only normal radiographs but also common variations that are often mistaken for abnormalities. It’s an amazing reference.
 
 **5. Give yourself some credit, you’re not that old!**
 
