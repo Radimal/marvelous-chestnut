@@ -1,5 +1,5 @@
 ---
-title: How to Chose a the Teleradiology Service That's Right For Your Practice
+title: How to Chose the Teleradiology Service That's Right For Your Practice
 subtitle: ''
 date: 2019-03-27
 author: ''
