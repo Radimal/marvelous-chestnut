@@ -30,7 +30,7 @@ sections:
     template: feature_item
     title: Radiology Reports Delivered in Minutes
     content: Say hello to reports in minutes (not days!) that can help inform patient
-      treatment for Vets of all experience levels. If it looks normal to you, you'll
+      treatment for vets of all experience levels. If it looks normal to you, you'll
       know in minutes if it looks normal to Radimal too. If the patient needs treatment
       immediately, you'll have extra insights for that just as quickly.
     image: images/feature1.png
