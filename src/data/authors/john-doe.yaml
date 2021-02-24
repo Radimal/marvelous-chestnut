@@ -1,8 +1,9 @@
-first_name: John
-last_name: Doe
-bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-photo: images/review1.jpg
+---
+first_name: Andrew
+last_name: Weissman, VMD, DACVR
+bio: 'Andrew got his VMD from the University of Pennsylvania in ''09 before doing
+  a private practice internship in Rhode Island. He did his residency at Tufts University
+  and became a Diplomate of the American College of Veterinary Radiology in 2015.
+  He is the Co-Founder of Radimal and also works at a private practice in New Jersey. '
+photo: ''
 type: person
