@@ -1,8 +1,8 @@
 ---
-title: Practice Your Radiology Skills
+title: Practice Your Imaging Skills
 date: 2020-04-22
 author: ''
-excerpt: Free website to practice radiograph interpretation
+excerpt: Free case-based vet radiology website to practice imaging interpretation
 image: images/9.jpg
 image_alt: People in a conference room
 thumb_image: images/9_thumb.jpg
@@ -51,7 +51,7 @@ subtitle: ''
 
 ---
 
-## Advantages and Disadvantages
+## Our top pick for a free, case-based imaging website
 
 [http://www.veterinaryradiology.net/](http://www.veterinaryradiology.net/ "Veterinary Radiology Website")
 
@@ -63,4 +63,4 @@ This website has it all--
 * Radiographss, ultrasound, CT/MRI
 * Variety of skill level
 
-The website is case-based and has clearly labeled images. Then, you can click on the images and see the findings, diagnoses, AND differentials diagnoses. The list of possible differnetials is so valuable because it helps remind you of what the patient could have, not just the "right" answer for that case. Keeping a broad differnetial list will help prioritize additional diagnostics and treatments in your patients.
+The website is case-based and has clearly labeled images. Then, you can click on the images and see the findings, diagnoses, AND differentials diagnoses. The list of possible differentials is so valuable because it helps remind you of what the patient could have, not just the "right" answer for that case. Keeping a broad differential list will help prioritize additional diagnostics and treatments in your patients.
