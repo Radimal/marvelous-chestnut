@@ -3,7 +3,7 @@ title: 5 Easy Tips to Improve Your Radiographic Interpretations
 subtitle: ''
 date: 2021-02-23T05:00:00Z
 author: ''
-excerpt: No radiologist on staff? Here's how to improve your own skills.
+excerpt: Easy tips that everyone can do to improve, now!
 image: images/3.jpg
 image_alt: A group of people working in a cafe
 thumb_image: images/3_thumb.jpg
@@ -53,7 +53,7 @@ seo:
 template: post
 
 ---
-> No radiologist on staff? Teleradiology report taking 4000 years to get back and Fluffy’s owner wants to know NOW if an explore is the next step? Here are a few tips to help ensure you are set up for success when interpreting your practice’s x-ray studies:
+> No radiologist on staff? Teleradiology report taking 4,000 years to get back and Fluffy’s owner wants to know NOW if an explore is the next step? Here are a few tips to help ensure you are set up for success when interpreting your practice’s x-ray studies:
 
 ## **1. Turn down the lights**
 
@@ -61,7 +61,9 @@ Are you trying to interpret an x-ray in the middle of the treatment area? Try an
 
 ## **2. Yes, we are going to need that additional view!**
 
-All studies should be at least two views, ideally three. If Lucky is trying to murder your staff for that V/D remember sedation is your friend! We don’t need to show another example of a non-displaced spinal fracture in a hit by car dog that you could only see on one view or a foreign body that was only visible on the left lateral projection, etc. This should be part of your standard of care. Take orthogonal projections! Each projection is an opportunity to gain more information to help you guide next steps and make the best treatment plans.  
+All studies should be at least two views, ideally three. If Lucky is trying to murder your staff for that V/D remember sedation is your friend! We don’t need to show another example of a non-displaced spinal fracture in a hit by car dog that you could only see on one view or a foreign body that was only visible on the left lateral projection, etc. This should be part of your standard of care. Take orthogonal projections! Each projection is an opportunity to gain more information to help you guide next steps and make the best treatment plans.
+
+##   
    
 **3. Trained staff and working equipment are invaluable!**
 
@@ -69,12 +71,11 @@ Do your techs have training on appropriate positioning? Get a poster or textbook
    
  Not sure why all of your images are coming out underexposed or burnt out? Reach out to your local vendor and ask for your machine to be serviced.
 
-**4. Ah Ha! you found it !!! - but did you?**
+## **4. Ah Ha! you found it !!! - but did you?**
 
-So, you found the fracture you were expecting based on your PE but missed the nodule on the edge of the image? This error may be explained by “satisfaction of search”, an all too common phenomenon in radiology where once you find a lesion that you think or expect to be the primary problem that you naturally end your radiographic interpretation too early. This can account for false negatives and can lead to some embarrassing moments. It can be easily avoided by having a routine when you read rads and not deviating from it. For example, for thorax we use “heart, lungs, mediastinum, pleural space, musculoskeletal”. Write a list and put it up on the wall where you review x-rays. This will help remind you to evaluate each organ as you interpret the images every time.  
- 
+So, you found the fracture you were expecting based on your PE but missed the nodule on the edge of the image? This error may be explained by “satisfaction of search”, an all too common phenomenon in radiology where once you find a lesion that you think or expect to be the primary problem that you naturally end your radiographic interpretation too early. This can account for false negatives and can lead to some embarrassing moments. It can be easily avoided by having a routine when you read rads and not deviating from it. For example, for thorax we use “heart, lungs, mediastinum, pleural space, musculoskeletal”. Write a list and put it up on the wall where you review x-rays. This will help remind you to evaluate each organ as you interpret the images every time.
 
-**4. Remember that weird case?**
+## **5. Remember that weird case?**
 
 Take some time to make a case log of cases to refer back to. Writing down cases that have clear diagnoses or ones that initially stumped you so that you can compare them to radiographs from a different patient in the future can save you time and help you feel more confident in your assessment. Young dogs with open physes are always good ones to save for comparison at a later date. There are two great textbooks that I recommend:
 
@@ -90,7 +91,7 @@ This is not the textbook from vet school. This is an atlas that shows not only n
 
 [https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2 "https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2") 
 
-**5. Give yourself some credit, you’re not that old!**
+## **6. Give yourself some credit, you’re not that old!**
 
 Nothing can take the place of experience. Have a set way that you read x-rays each time. Are you a new grad? Don’t take a ton of radiographs? Invest in a good atlas (see above) and look through it. Learn from others around you or attend a radiology CE. Radiology is mostly about pattern recognition. The more you see, the more you know!
 
