@@ -53,7 +53,9 @@ seo:
 template: post
 
 ---
-> No radiologist on staff? Teleradiology report taking 4,000 years to get back and Fluffy’s owner wants to know NOW if an explore is the next step? Here are a few tips to help ensure you are set up for success when interpreting your practice’s radiographs:
+> No radiologist on staff? Teleradiology report taking too long to get back? Fluffy’s owner wants to know NOW if he needs emergency surgery? 
+>
+> Here are a few tips to help ensure you are set up for success when interpreting your practice’s radiographs:
 
 ## **1. Turn down the lights**
 
