@@ -78,9 +78,15 @@ So, you found the fracture you were expecting based on your PE but missed the no
 
 Take some time to make a log of cases to refer back to. Writing down cases that have clear diagnoses or ones that initially stumped you so that you can compare them to radiographs from a different patient in the future can save you time and help you feel more confident in your assessment. Young dogs with open physes are always good ones to save for comparison at a later date. 
 
+> 
+
+## **6. Practice, practice, practice!**
+
+Nothing can take the place of experience. Invest in a good atlas (see above) and look through it. Learn from your colleagues' cases or attend a radiology CE.  Even if you send your radiographs out to a teleradiologist, take the time to interpret them yourself before sending them, and then check to see if you were correct. Radiology is mostly about pattern recognition. The more you see, the more you know!
+
 Here are two great textbooks to help your interpretations:
 
-![](/images/atlas.jpg)
+#### ![](/images/atlas.jpg)
 
 > This is not your textbook from vet school. This is an atlas that shows not only normal radiographs but also common variations that are often mistaken for abnormalities. It’s an amazing reference.
 >
@@ -91,11 +97,3 @@ Here are two great textbooks to help your interpretations:
 > This book is particularly helpful in showing normal anatomy in juvenile patients at various ages.  For example, have a limping 16-week-old puppy and you’re not sure what the elbow should look like? Could that opacity be a normal thymus? This is your text!
 >
 > [https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1")[ ]()
-
-## **6. Practice, practice, practice!**
-
-Nothing can take the place of experience. Invest in a good atlas (see above) and look through it. Learn from your colleagues' cases or attend a radiology CE. 
-
-> A great website with cases for all interpretation levels is [www.veterinaryradiology.net](veterinaryradiology.net)
-
- Even if you send your radiographs out to a teleradiologist, take the time to interpret them yourself before sending them, and then check to see if you were correct. Radiology is mostly about pattern recognition. The more you see, the more you know!
