@@ -4,10 +4,10 @@ subtitle: ''
 date: 2021-02-23T05:00:00Z
 author: ''
 excerpt: Easy tips that everyone can do to improve, now!
-image: images/3.jpg
-image_alt: A group of people working in a cafe
-thumb_image: images/3_thumb.jpg
-thumb_image_alt: A group of people working in a cafe
+image: "/images/abd-rad.jpg"
+image_alt: Right lateral abdominal radiograph of a dog
+thumb_image: "/images/abd-rad.jpg"
+thumb_image_alt: Right lateral abdominal radiograph of a dog
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
