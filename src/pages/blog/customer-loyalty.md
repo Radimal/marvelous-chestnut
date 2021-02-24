@@ -1,10 +1,9 @@
 ---
-title: Customer Loyalty Programs That Stick
-subtitle: A story about customer loyalty
-date: '2021-01-03'
+title: 5 Ways to Improve Your Radiographic Skills
+subtitle: ''
+date: 2021-01-03
 author: src/data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
+excerpt: A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
 image: images/3.jpg
 image_alt: A group of people working in a cafe
@@ -14,51 +13,84 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Customer Loyalty Programs That Stick
-  description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+  description: A story about customer loyalty curabitur sed consectetur nisi. Integer
+    sit amet commodo massa.
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Customer Loyalty Programs That Stick
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
-      keyName: property
-    - name: 'og:image'
-      value: images/3.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Customer Loyalty Programs That Stick
-    - name: 'twitter:description'
-      value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
-    - name: 'twitter:image'
-      value: images/3.jpg
-      relativeUrl: true
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: Customer Loyalty Programs That Stick
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: A story about customer loyalty curabitur sed consectetur nisi. Integer
+      sit amet commodo massa.
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: images/3.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: Customer Loyalty Programs That Stick
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: A story about customer loyalty curabitur sed consectetur nisi. Integer
+      sit amet commodo massa.
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: images/3.jpg
+    relativeUrl: true
+    keyName: ''
+  robots: []
 template: post
+
 ---
+## **1. Turn down the lights**
 
-**Loyalty** curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+Are you trying to interpret an x-ray in the middle of the treatment area? Try and find a place where you can briefly dim or turn off the lights. The room doesn't need to be (and ideally shouldn’t be) completely dark. A small amount of ambient or indirect lighting works best. Sit at a chair that puts the screens at eye-level. If necessary, rotate the images so that they’re facing the correct way. Set up your software so that you can see at least 2 images at once so that you can compare the lateral to the VD. Do your best to not get distracted and take 2-3 minutes to interpret the radiographs.
 
-## Customer
+## **2. Yes, we are going to need that additional view!**
 
-Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
+All studies should be at least two views, ideally three. If Lucky is trying to murder your staff for that V/D remember sedation is your friend! We don’t need to show another example of a non-displaced spinal fracture in a hit by car dog that you could only see on one view or a foreign body that was only visible on the left lateral projection, etc. This should be part of your standard of care. Take orthogonal projections! Each projection is an opportunity to gain more information to help you guide next steps and make the best treatment plans.  
+   
+3\. Trained staff and working equipment are invaluable!
 
-## Loyalty Programs
+Do your techs have training on appropriate positioning? Get a poster or textbook that shows them how to position patients. Taking good quality radiographs takes time and experience. Training and learning together with your techs will lead to better quality radiographs and improve patient outcomes.   
+   
+ Not sure why all of your images are coming out underexposed or burnt out? Reach out to your local vendor and ask for your machine to be serviced.
 
-Aenean dui sem, sollicitudin non venenatis eget, gravida rutrum risus. Proin massa leo, convallis id orci at, convallis dignissim mi. Integer et arcu arcu. Sed tristique diam id elit iaculis accumsan. Donec vehicula libero nunc, quis dictum orci pharetra nec. Proin blandit pellentesque sapien et sodales. Phasellus convallis sapien venenatis semper iaculis. Curabitur commodo iaculis mi, nec gravida nunc pellentesque ac. Nullam ac felis est. Donec gravida arcu ipsum, ut pulvinar est scelerisque id. Duis lobortis ante eu ante volutpat, quis pharetra sapien mattis. Sed ex enim, accumsan ut volutpat a, consectetur iaculis urna. Donec tempus enim sed porta euismod.
+**3. Ah Ha! you found it !!! - but did you?**
 
-> The strength of brand loyalty begins with how your product makes people feel. - Jay Samit
+So, you found the fracture you were expecting based on your PE but missed the nodule on the edge of the image? This error may be explained by “satisfaction of search”, an all too common phenomenon in radiology where once you find a lesion that you think or expect to be the primary problem that you naturally end your radiographic interpretation too early. This can account for false negatives and can lead to some embarrassing moments L It can be easily avoided by having a routine when you read rads and not deviating from it. For example, for thorax we use “heart, lungs, mediastinum, pleural space, musculoskeletal”. Write a list and put it up on the wall where you review x-rays. This will help remind you to evaluate each organ as you interpret the images every time.  
+ 
 
-Nam mauris leo, mattis in finibus sit amet, mattis vitae libero. In sed leo purus. Fusce ac suscipit nisl. Vestibulum tristique neque nec lacus finibus porta. In erat libero, pellentesque non sodales quis, mollis a elit. Vestibulum viverra dui ut ornare maximus. Aliquam at odio quis magna convallis euismod.
+**4. Remember that weird case?**
 
-Integer nisi nisi, hendrerit a ultrices ut, facilisis at odio. Suspendisse aliquet sed magna in bibendum. Praesent sit amet tincidunt purus. Cras sollicitudin at ante semper feugiat. Sed sem sem, dignissim id aliquet ac, interdum fringilla ipsum. Proin laoreet metus leo, et tempor felis aliquam at. Cras eget urna vehicula, elementum tellus a, tempor odio. Morbi pretium augue erat, et suscipit metus varius non. Quisque vitae lectus id mi consequat laoreet. Nam non molestie elit. Proin iaculis vel ex non rhoncus. Donec metus velit, blandit quis arcu quis, venenatis sodales velit.
+Take some time to make a case log of cases to refer back to. Writing down cases that have clear diagnoses or ones that initially stumped you so that you can compare them to radiographs from a different patient in the future can save you time and help you feel more confident in your assessment. Young dogs with open physes are always good ones to save for comparison at a later date. There are two great textbooks that I recommend:
+
+![](/images/coulson.jpg)
+
+[https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "Atlas of Interpretive Radiographic Anatomy in the Dog")[ ]()(insert photo) This book is amazing and shows juvenile bones at age intervals. For example, have a limping 24-week-old puppy and you’re not sure what the elbow should look like? This is your text!
+
+![](/images/atlas.jpg)
+
+[https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2 "https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2") (insert photo) This is not the textbook from vet school. This is an atlas that shows not only normal radiographs but also common variations that are often mistaken for abnormalities. It’s an amazing reference.
+
+**5. Give yourself some credit, you’re not that old!**
+
+Nothing can take the place of experience. Have a set way that you read x-rays each time. Are you a new grad? Don’t take a ton of radiographs? Invest in a good atlas (see above) and look through it. Learn from others around you or attend a radiology CE. Radiology is mostly about pattern recognition. The more you see, the more you know!
+
+Develop a relationship with your local radiologist. Having someone you know and can trust is invaluable when interpreting radiographic studies or reading teleradiology reports.
+
+Even if you send your radiographs out to a teleradiologist, take the time to interpret them yourself before sending them and then check to see if you were correct.
+
+Ask a colleague at your practice or reach out to a friend from vet school. The reality is, everyone needs a practice buddy that you can ask questions and share experiences. Sometimes you just need to have someone to ask, “this is normal, right?”.
