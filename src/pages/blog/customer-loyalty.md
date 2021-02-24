@@ -1,10 +1,9 @@
 ---
-title: 5 Ways to Improve Your Radiographic Skills
+title: 5 Easy Tips to Improve Your Radiographic Interpretations
 subtitle: ''
-date: 2021-01-03
-author: src/data/authors/jane-doe.yaml
-excerpt: A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+date: 2021-02-23T05:00:00Z
+author: ''
+excerpt: No radiologist on staff? Here's how to improve your own skills.
 image: images/3.jpg
 image_alt: A group of people working in a cafe
 thumb_image: images/3_thumb.jpg
@@ -54,6 +53,8 @@ seo:
 template: post
 
 ---
+> No radiologist on staff? Teleradiology report taking 4000 years to get back and Fluffy’s owner wants to know NOW if an explore is the next step? Here are a few tips to help ensure you are set up for success when interpreting your practice’s x-ray studies:
+
 ## **1. Turn down the lights**
 
 Are you trying to interpret an x-ray in the middle of the treatment area? Try and find a place where you can briefly dim or turn off the lights. The room doesn't need to be (and ideally shouldn’t be) completely dark. A small amount of ambient or indirect lighting works best. Sit at a chair that puts the screens at eye-level. If necessary, rotate the images so that they’re facing the correct way. Set up your software so that you can see at least 2 images at once so that you can compare the lateral to the VD. Do your best to not get distracted and take 2-3 minutes to interpret the radiographs.
@@ -62,15 +63,15 @@ Are you trying to interpret an x-ray in the middle of the treatment area? Try an
 
 All studies should be at least two views, ideally three. If Lucky is trying to murder your staff for that V/D remember sedation is your friend! We don’t need to show another example of a non-displaced spinal fracture in a hit by car dog that you could only see on one view or a foreign body that was only visible on the left lateral projection, etc. This should be part of your standard of care. Take orthogonal projections! Each projection is an opportunity to gain more information to help you guide next steps and make the best treatment plans.  
    
-3\. Trained staff and working equipment are invaluable!
+**3. Trained staff and working equipment are invaluable!**
 
 Do your techs have training on appropriate positioning? Get a poster or textbook that shows them how to position patients. Taking good quality radiographs takes time and experience. Training and learning together with your techs will lead to better quality radiographs and improve patient outcomes.   
    
  Not sure why all of your images are coming out underexposed or burnt out? Reach out to your local vendor and ask for your machine to be serviced.
 
-**3. Ah Ha! you found it !!! - but did you?**
+**4. Ah Ha! you found it !!! - but did you?**
 
-So, you found the fracture you were expecting based on your PE but missed the nodule on the edge of the image? This error may be explained by “satisfaction of search”, an all too common phenomenon in radiology where once you find a lesion that you think or expect to be the primary problem that you naturally end your radiographic interpretation too early. This can account for false negatives and can lead to some embarrassing moments L It can be easily avoided by having a routine when you read rads and not deviating from it. For example, for thorax we use “heart, lungs, mediastinum, pleural space, musculoskeletal”. Write a list and put it up on the wall where you review x-rays. This will help remind you to evaluate each organ as you interpret the images every time.  
+So, you found the fracture you were expecting based on your PE but missed the nodule on the edge of the image? This error may be explained by “satisfaction of search”, an all too common phenomenon in radiology where once you find a lesion that you think or expect to be the primary problem that you naturally end your radiographic interpretation too early. This can account for false negatives and can lead to some embarrassing moments. It can be easily avoided by having a routine when you read rads and not deviating from it. For example, for thorax we use “heart, lungs, mediastinum, pleural space, musculoskeletal”. Write a list and put it up on the wall where you review x-rays. This will help remind you to evaluate each organ as you interpret the images every time.  
  
 
 **4. Remember that weird case?**
@@ -79,15 +80,15 @@ Take some time to make a case log of cases to refer back to. Writing down cases 
 
 ![](/images/coulson.jpg)
 
-[https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "Atlas of Interpretive Radiographic Anatomy in the Dog")[ ]()
-
 This book is amazing and shows juvenile bones at age intervals. For example, have a limping 24-week-old puppy and you’re not sure what the elbow should look like? This is your text!
+
+[https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "Atlas of Interpretive Radiographic Anatomy in the Dog")[ ]()
 
 ![](/images/atlas.jpg)
 
-[https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2 "https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2") 
-
 This is not the textbook from vet school. This is an atlas that shows not only normal radiographs but also common variations that are often mistaken for abnormalities. It’s an amazing reference.
+
+[https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2 "https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2") 
 
 **5. Give yourself some credit, you’re not that old!**
 
