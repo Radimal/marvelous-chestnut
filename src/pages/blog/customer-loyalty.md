@@ -63,10 +63,9 @@ Are you trying to interpret an x-ray in the middle of the treatment area? Try an
 
 ## **2. Yes, we are going to need that additional view!**
 
-All studies should be at least two views, ideally three. If Lucky is trying to murder your staff for that V/D remember sedation is your friend! We don’t need to show another example of a non-displaced spinal fracture in a hit by car dog that you could only see on one view or a foreign body that was only visible on the left lateral projection, etc. This should be part of your standard of care. Take orthogonal projections! Each projection is an opportunity to gain more information to help you guide next steps and make the best treatment plans.
+All studies should be at least two views, ideally three.  We have all seen an example of a non-displaced spinal fracture that you could only see on one view, or a foreign body that was only visible on the left lateral projection, etc. Orthogonal views are a valuable part of your diagnostic toolkit. Each projection is an opportunity to gain more information to help you guide next steps and make the best treatment plans. Remember, if Lucky is trying to murder your staff for that V/D, remember sedation is your friend!
 
 ##   
-   
 **3. Trained staff and working equipment are invaluable!**
 
 Do your techs have training on appropriate positioning? Get a poster or textbook that shows them how to position patients. Taking good quality radiographs takes time and experience. Training and learning together with your techs will lead to better quality radiographs and improve patient outcomes.   
