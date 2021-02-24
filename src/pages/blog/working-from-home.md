@@ -3,10 +3,10 @@ title: Practice Your Imaging Skills
 date: 2020-04-22
 author: ''
 excerpt: Free case-based vet radiology website to practice imaging interpretation
-image: images/9.jpg
-image_alt: People in a conference room
-thumb_image: images/9_thumb.jpg
-thumb_image_alt: People in a conference room
+image: "/images/pexels.jpeg"
+image_alt: Woman evaluating a cat CT
+thumb_image: "/images/pexels-1.jpeg"
+thumb_image_alt: Woman evaluating a cat CT
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
