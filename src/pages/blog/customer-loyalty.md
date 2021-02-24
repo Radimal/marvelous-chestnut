@@ -3,7 +3,7 @@ title: 6 Easy Tips to Improve Your Radiographic Interpretations
 subtitle: ''
 date: 2021-02-23T05:00:00Z
 author: ''
-excerpt: Easy tips that everyone can do to improve, now!
+excerpt: Easy tips that everyone can do to improve
 image: "/images/abd-rad.jpg"
 image_alt: Right lateral abdominal radiograph of a dog
 thumb_image: "/images/abd-rad.jpg"
