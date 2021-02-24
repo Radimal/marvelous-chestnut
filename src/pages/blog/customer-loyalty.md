@@ -81,7 +81,7 @@ Take some time to make a case log of cases to refer back to. Writing down cases 
 
 ![](/images/coulson.jpg)
 
-This book is amazing and shows juvenile bones at age intervals. For example, have a limping 24-week-old puppy and you’re not sure what the elbow should look like? This is your text!
+This book is amazing and shows juvenile bones at age intervals. For example, have a limping 16-week-old puppy and you’re not sure what the elbow should look like? This is your text!
 
 [https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "Atlas of Interpretive Radiographic Anatomy in the Dog")[ ]()
 
