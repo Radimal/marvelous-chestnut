@@ -66,7 +66,6 @@ Are you trying to interpret an x-ray in the middle of the treatment area? Try an
 All studies should be at least two views, ideally three.  We have all seen an example of a non-displaced spinal fracture that you could only see on one view, or a foreign body that was only visible on the left lateral projection, etc. Orthogonal views are a valuable part of your diagnostic toolkit. Each projection is an opportunity to gain more information to help you guide next steps and make the best treatment plans. Remember, if Lucky is trying to murder your staff for that V/D, remember sedation is your friend!
 
 ##   
-  
 **3. Appropriate positioning is invaluable!**
 
 Do your techs have training in appropriate positioning? Having straight, collimated radiographs makes a huge difference when it comes time for interpretation. Taking good quality radiographs takes time and experience. Get a poster or textbook that shows your staff how to position patients and can serve as a reference while performing studies. Spend time reviewing the studies with your staff and provide feedback (e.g., pull the legs forward) to help them get the studies that you want and need. Training and learning together with your techs will lead to better quality radiographs and improve patient outcomes.   
@@ -76,7 +75,7 @@ Do your techs have training in appropriate positioning? Having straight, collima
 
 So, you found the fracture you were expecting based on your PE but missed the nodule on the edge of the image? This error is often explained by “**satisfaction of search**”, an all-too-common phenomenon in radiology, whereby the reader prematurely ends their radiographic interpretation after finding the lesion that they expect to be the primary problem. This can result in missing important information in your radiographs and can lead to some embarrassing moments. One way to avoid this is to develop a routine when you read cases, and do not deviate from it. For example,  a thorax checklist could be, “heart, lungs, mediastinum, pleural space, musculoskeletal”. Write a list and put it up on the wall where you review x-rays. This will help remind you to evaluate each organ as you interpret the images.
 
-## **5. Remember that weird case?**
+## **5. Catalog that weird case**
 
 Take some time to make a log of cases to refer back to. Writing down cases that have clear diagnoses or ones that initially stumped you so that you can compare them to radiographs from a different patient in the future can save you time and help you feel more confident in your assessment. Young dogs with open physes are always good ones to save for comparison at a later date. 
 
