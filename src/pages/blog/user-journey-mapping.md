@@ -1,12 +1,9 @@
 ---
-title: A Guide To User Journey Mapping
-subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
-date: '2019-03-27'
-author: src/data/authors/jane-doe.yaml
-excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
+title: How to Chose a the Teleradiology Service That's Right For Your Practice
+subtitle: ''
+date: 2019-03-27
+author: ''
+excerpt: Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
 image: images/10.jpg
 image_alt: Business people in a meeting
@@ -18,31 +15,42 @@ seo:
   title: A Guide To User Journey Mapping
   description: A tale about Journey Mapping
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: A Guide To User Journey Mapping
-      keyName: property
-    - name: 'og:description'
-      value: A tale about Journey Mapping
-      keyName: property
-    - name: 'og:image'
-      value: images/10.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: A Guide To User Journey Mapping
-    - name: 'twitter:description'
-      value: A tale about Journey Mapping
-    - name: 'twitter:image'
-      value: images/10.jpg
-      relativeUrl: true
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: A Guide To User Journey Mapping
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: A tale about Journey Mapping
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: images/10.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: A Guide To User Journey Mapping
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: A tale about Journey Mapping
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: images/10.jpg
+    relativeUrl: true
+    keyName: ''
+  robots: []
 template: post
----
 
+---
 Curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
 
 Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
