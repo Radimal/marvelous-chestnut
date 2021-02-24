@@ -5,7 +5,7 @@ date: 2021-02-23T05:00:00Z
 author: ''
 excerpt: Easy tips that everyone can do to improve
 image: "/images/abd-rad.jpg"
-image_alt: Right lateral abdominal radiograph of a dog
+image_alt: Right lateral abdominal radiograph of a cat
 thumb_image: "/images/abd-rad.jpg"
 thumb_image_alt: Right lateral abdominal radiograph of a dog
 seo:
