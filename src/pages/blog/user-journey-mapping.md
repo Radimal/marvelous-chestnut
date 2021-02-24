@@ -5,9 +5,9 @@ date: 2019-03-27
 author: ''
 excerpt: Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
-image: "/images/pexels1-1.jpeg"
+image: "/images/pixels3.jpg"
 image_alt: Business people in a meeting
-thumb_image: "/images/pexels1-2.jpeg"
+thumb_image: "/images/pixels3-1.jpg"
 thumb_image_alt: Business people in a meeting
 seo:
   type: stackbit_page_meta
