@@ -50,8 +50,7 @@ template: post
 subtitle: ''
 
 ---
-
-## Our top pick for a free, case-based imaging website
+## Our top pick for a free, case-based image interpretation website
 
 This website has it all--
 
@@ -61,7 +60,7 @@ This website has it all--
 
 [http://www.veterinaryradiology.net/](http://www.veterinaryradiology.net/ "http://www.veterinaryradiology.net/")
 
-The website is run by Dr. Allison Zwingenberger, who is a veterinary radiologist at the University of California, Davis. 
+The website is run by Dr. Allison Zwingenberger, who is a veterinary radiologist at the University of California, Davis.
 
 > Radiology is mostly about pattern recognition. The more you see, the more you know.
 
@@ -69,6 +68,6 @@ The website is case-based and has clearly labeled images. You can click to see r
 
 What we love about this site:
 
-* There are real, everyday useful cases on here. It's not filled with zebras or archaic information. 
-* The active comments section should encourage you to post your own findings and forces you to justify why you do or don't agree with other people's comments.
-* There are SO many cases. This website has been operational since 2007. 
+* There are real, everyday useful cases on here. It's not filled with zebras or archaic information.
+* The active comments section is a low-risk way to post your own findings and allows you to think about why you do or don't agree with other people's interpretations.
+* There are SO many cases. This website has been operational since 2007.
