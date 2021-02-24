@@ -71,4 +71,4 @@ What we love about this site:
 
 * There are real, everyday useful cases on here. It's not filled with zebras or archaic information. 
 * The active comments section should encourage you to post your own findings and forces you to justify why you do or don't agree with other people's comments.
-* There are SO many cases. This website has been operational since 2007. Your appointment didn't show up? Look at 5 cases and improve your radiology knowledge!
+* There are SO many cases. This website has been operational since 2007. 
