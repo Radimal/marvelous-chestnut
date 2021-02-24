@@ -96,8 +96,8 @@ This book is amazing and shows juvenile bones at age intervals. For example, hav
 
 ## **6. Practice, practice, practice!**
 
-Nothing can take the place of experience. Invest in a good atlas (see above) and look through it. Learn from your colleagues' cases or attend a radiology CE. A great website with cases for all interpretation levels is [www.veterinaryradiology.net](veterinaryradiology.net). Radiology is mostly about pattern recognition. The more you see, the more you know!
+Nothing can take the place of experience. Invest in a good atlas (see above) and look through it. Learn from your colleagues' cases or attend a radiology CE. 
 
-Even if you send your radiographs out to a teleradiologist, take the time to interpret them yourself before sending them and then check to see if you were correct.
+> A great website with cases for all interpretation levels is [www.veterinaryradiology.net](veterinaryradiology.net)
 
-Develop a relationship with your local radiologist. Having someone you know and can trust is invaluable when interpreting radiographic studies or reading teleradiology reports.
+ Even if you send your radiographs out to a teleradiologist, take the time to interpret them yourself before sending them, and then check to see if you were correct. Radiology is mostly about pattern recognition. The more you see, the more you know!
