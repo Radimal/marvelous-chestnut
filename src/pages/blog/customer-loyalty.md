@@ -61,12 +61,12 @@ template: post
 
 Are you trying to interpret an x-ray in the middle of the treatment area? Try and find a place where you can briefly dim or turn off the lights. The room doesn't need to be (and ideally shouldn’t be) completely dark. A small amount of ambient or indirect lighting works best. Sit at a chair that puts the screens at eye-level. If necessary, rotate the images so that they’re facing the correct way. Set up your software so that you can see at least 2 images at once so that you can compare the lateral to the VD. Do your best to not get distracted and take 2-3 minutes to interpret the radiographs.
 
-## **2. Take that additional view!**
+## **2. Take that additional view**
 
 All studies should be at least two views, ideally three.  We have all seen an example of a non-displaced spinal fracture that you could only see on one view, or a foreign body that was only visible on the left lateral projection, etc. Orthogonal views are a valuable part of your diagnostic toolkit. Each projection is an opportunity to gain more information to help you guide next steps and make the best treatment plans. Remember, if Lucky is trying to murder your staff for that V/D, remember sedation is your friend!
 
 ##   
-**3. Appropriate positioning is invaluable!**
+**3. Appropriate positioning is invaluable**
 
 Do your techs have training in appropriate positioning? Having straight, collimated radiographs makes a huge difference when it comes time for interpretation. Taking good quality radiographs takes time and experience. Get a poster or textbook that shows your staff how to position patients and can serve as a reference while performing studies. Spend time reviewing the studies with your staff and provide feedback (e.g., pull the legs forward) to help them get the studies that you want and need. Training and learning together with your techs will lead to better quality radiographs and improve patient outcomes.   
  
