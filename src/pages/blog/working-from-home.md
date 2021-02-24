@@ -1,5 +1,5 @@
 ---
-title: Practice Your Imaging Skills
+title: Practice Your Image Interpretation
 date: 2020-04-22
 author: ''
 excerpt: Free case-based vet radiology website to practice imaging interpretation
