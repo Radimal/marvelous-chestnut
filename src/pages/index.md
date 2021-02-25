@@ -83,7 +83,7 @@ sections:
   - type: section_reviews
     template: section_reviews
     section_id: reviews
-    title: 'Made By Vets, Great For Vets'
+    title: 'Made With Vets, Great For Vets'
     subtitle: >-
       The most exciting part of what we do is seeing the impact it has on real
       vets every day. Whether it's saving a patient treatment decision or saving
