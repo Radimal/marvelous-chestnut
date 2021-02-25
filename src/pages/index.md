@@ -49,11 +49,21 @@ sections:
       icon_position: right
       new_window: false
       no_follow: false
+  - title: 100% Human Supported
+    content: Want to ask a DAVCR a question about a patient's report? Just message
+      us and we'll respond in 1-2 days. Need a full DAVCR report for a patient? A
+      few clicks and we'll have it to you in the same amount of time. We can even
+      do full DAVCR reporting for 100% of your patients.
+    image_alt: ''
+    actions: []
+    type: feature_item
+    image: "/images/feature2.png"
   - type: feature_item
     template: feature_item
-    title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+    title: See Your Practice Like Never Before
+    content: 'Was that an influx of new patients? Hey we get it, you''re busy and
+      don''t have time to check another thing, but we''ll show you how your practice
+      and patients are looking over time. '
     image: images/feature3.png
     image_alt: App user profile preview
     actions:
@@ -67,15 +77,6 @@ sections:
       icon_position: right
       new_window: false
       no_follow: false
-  - title: 100% Human Supported
-    content: Want to ask a DAVCR a question about a patient's report? Just message
-      us and we'll respond in 1-2 days. Need a full DAVCR report for a patient? A
-      few clicks and we'll have it to you in the same amount of time. We can even
-      do full DAVCR reporting for 100% of your patients.
-    image_alt: ''
-    actions: []
-    type: feature_item
-    image: "/images/feature2.png"
 - type: section_reviews
   template: section_reviews
   section_id: reviews
