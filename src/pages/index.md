@@ -103,7 +103,7 @@ sections:
       vel posuere justo laoreet.
   - type: review_item
     template: review_item
-    author: Jonquil Von Haggerston
+    author: Andrew Weissman, VMD, DACVR  Co-founder of Radimal
     avatar: images/review3.jpg
     avatar_alt: Jonquil Von Haggerston's photo
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
