@@ -59,7 +59,7 @@ thumb_image_alt: ''
  5. Is artificial intelligence being used in medicine?
  6. Will Radimal take the place of a radiologist/teleradiologist?
  7. What diseases can Radimal detect?
-    * Radimal currently can detect over 20 diseases in dog. New diseases are being added regularly.
+    * Radimal currently can detect over 20 diseases in dogs. New diseases are being added regularly.
  8. How will I get my patient's report?
     * Your patient's Radimal report will be delivered to your email within minutes!
  9. How do I submit my radiographs to Radimal?
