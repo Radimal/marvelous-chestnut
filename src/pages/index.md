@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: Smart Tools For Happy Vets
     content: >
-      See how the next wave of veterinary technology can empower you, your
+      See how the new wave of veterinary technology can empower you, your
       practice, and your patients
     image: /images/cat-dog.png
     image_alt: animals
