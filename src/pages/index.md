@@ -85,8 +85,8 @@ sections:
     section_id: reviews
     title: 'Made For Vets, Great For Vets'
     subtitle: >-
-      The most exciting part of Radimal is seeing the impact it has on real vets
-      every day. Whether it's saving a patient treatment decision or saving
+      The most exciting part of what we do is seeing the impact it has on real
+      vets every day. Whether it's saving a patient treatment decision or saving
       time, we believe it works because vets tell us it works.
     background: white
     reviews:
