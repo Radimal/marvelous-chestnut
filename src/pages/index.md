@@ -104,7 +104,7 @@ sections:
   - type: review_item
     template: review_item
     author: Andrew Weissman, VMD, DACVR  Co-founder of Radimal
-    avatar: "/images/weissman-andy_233cr.jpg"
+    avatar: "/images/weissman-andy_233cr-3.jpg"
     avatar_alt: Jonquil Von Haggerston's photo
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
       et malesuada fames ac ante ipsum primis in faucibus.
