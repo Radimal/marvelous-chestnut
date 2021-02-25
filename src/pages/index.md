@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: Smart Tools For Happy Vets
     content: |
-      Radimal is a new way to read radiographs and support DVMs of all levels
+      Radimal is the new way to read radiographs and support DVMs of all levels
     image: /images/cat-dog.png
     image_alt: animals
     actions:
