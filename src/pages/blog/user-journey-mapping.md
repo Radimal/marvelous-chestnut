@@ -1,7 +1,7 @@
 ---
 title: How to Chose the Teleradiology Service That's Right For Your Practice
 subtitle: ''
-date: 2019-03-27
+date: 2021-02-15T17:00:00Z
 author: ''
 excerpt: Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
