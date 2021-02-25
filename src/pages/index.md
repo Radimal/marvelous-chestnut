@@ -87,11 +87,11 @@ sections:
   reviews:
   - type: review_item
     template: review_item
-    author: JL, DVM
+    author: Jamie Laity, DVM    Owner of Harbor Point Animal Hospital
     avatar: images/review1.jpg
     avatar_alt: Eric Widget's photo
-    content: Having that comfort and knowing that somebody is verifying that something
-      is normal. that's every vet's greatest fear -- that you're missing something.
+    content: Having that comfort and knowing that Radimal is verifying that something
+      is normal. That's every vet's greatest fear -- that you're missing something.
       So this helps you know that you're giving the best medicine to your patients.
   - type: review_item
     template: review_item
