@@ -1,6 +1,6 @@
 ---
 title: Practice Your Image Interpretation
-date: 2020-04-22
+date: 2020-04-06T19:00:00Z
 author: ''
 excerpt: Free case-based vet radiology website to practice imaging interpretation
 image: "/images/pexels.jpeg"
