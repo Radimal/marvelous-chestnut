@@ -68,3 +68,6 @@ thumb_image_alt: ''
     * The Radimal team (and a DACVR) is available for questions. Click the link at the bottom of your patient's report to ask a question. We'll get back to you right away!
 11. What if I want a radiologist report?
     * All Radimal cases can easily be submitted for our own Radimal teleradiologist report. Just click the "Get consult" button on your patient's report to request a teleradiologist interpretation.
+12. How will I be charged for Radimal reports?
+13. What if Radimal isn't for me?
+    * We think that you will love Radimal and we'll try to support you in any way possible. But if this amazing system isn't for you, we'll cancel your membership at any time with no yearly contract or hidden fees. 
