@@ -6,8 +6,8 @@ sections:
     section_id: hero
     title: Smart Tools For Happy Vets
     content: >
-      Radimal Artifical Intielligence is the empowering new way to read patient
-      rads and support DVMs of all levels
+      Radimal is how vets read rads, with Artifical Intelligence built in,
+      proven helpful to vets of all levels
     image: /images/cat-dog.png
     image_alt: animals
     actions:
