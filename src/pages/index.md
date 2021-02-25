@@ -83,7 +83,7 @@ sections:
   - type: section_reviews
     template: section_reviews
     section_id: reviews
-    title: 'Made For Vets, Loved By Vets'
+    title: 'Made For Vets, Great For Vets'
     subtitle: >-
       The most exciting part of Radimal is seeing the impact it has on real vets
       every day. We
