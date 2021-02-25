@@ -81,8 +81,8 @@ sections:
   section_id: reviews
   title: Made With Vets, Great For Vets
   subtitle: The most exciting part of what we do is seeing the impact it has on real
-    vets every day. Whether it's saving a patient treatment decision or saving time,
-    we believe it works because vets tell us it works.
+    vets every day. Whether it's saving a patient's life or saving time, we believe
+    it works because vets tell us it works.
   background: white
   reviews:
   - type: review_item
@@ -96,7 +96,7 @@ sections:
   - type: review_item
     template: review_item
     author: Carey Guise, VMD  Owner of Holland Veterinary Care
-    avatar: images/review2.jpg
+    avatar: ''
     avatar_alt: Parsley Montana's photo
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
       interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
