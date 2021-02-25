@@ -5,9 +5,8 @@ sections:
     template: section_hero
     section_id: hero
     title: Smart Tools For Happy Vets
-    content: >
-      See how the new wave of AI in veterinary technology can empower you, your
-      practice, and your patients
+    content: |
+      See how Radimal AI can empower you, your practice, and your patients
     image: /images/cat-dog.png
     image_alt: animals
     actions:
