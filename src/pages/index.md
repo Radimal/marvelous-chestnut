@@ -95,7 +95,7 @@ sections:
       So this helps you know that you're giving the best medicine to your patients.
   - type: review_item
     template: review_item
-    author: Parsley Montana
+    author: Carey Guise, VMD  Owner of Holland Veterinary Care
     avatar: images/review2.jpg
     avatar_alt: Parsley Montana's photo
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
