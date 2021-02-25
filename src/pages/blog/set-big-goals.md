@@ -61,7 +61,7 @@ thumb_image_alt: ''
  7. What diseases can Radimal detect?
     * Radimal currently can detect over 20 diseases in dogs. New diseases are being added regularly.
  8. How will I get my patient's report?
-    * Your patient's Radimal report will be delivered to your email within minutes!
+    * Your patient's Radimal report will be delivered to your phone/email within minutes! 
  9. How do I submit my radiographs to Radimal?
     * Your radiographs are automatically sent to Radimal for interpretation. There is literally NOTHING that you or the technical staff  will have to do to send your images.
 10. What if I have questions about my patient's report?
