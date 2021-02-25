@@ -51,9 +51,9 @@ sections:
             new_window: false
             no_follow: false
       - title: 100% Human Supported
-        content: >-
-          Want to ask a DAVCR a question about a patient's report? Just message
-          us and we'll respond quickly. Need a full DAVCR report for a patient?
+        content: >
+          Want to ask a DACVR a question about a patient's report? Just message
+          us and we'll respond quickly. Need a full DACVR report for a patient?
           A few taps and we'll have it to you in the same amount of time. We can
           even do full DAVCR reporting for 100% of your patients.
         image_alt: ''
