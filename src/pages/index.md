@@ -9,7 +9,7 @@ sections:
     and your patients
 
 '
-  image: "/images/hero.svg"
+  image: "/images/cat-dog.png"
   image_alt: animals
   actions:
   - type: action
