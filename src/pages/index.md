@@ -85,8 +85,8 @@ sections:
     section_id: reviews
     title: 'Made For Vets, Loved By Vets'
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      The most exciting part of Radimal is seeing the impact it has on real vets
+      every day. We
     background: white
     reviews:
       - type: review_item
