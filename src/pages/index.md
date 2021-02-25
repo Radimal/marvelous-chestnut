@@ -8,7 +8,7 @@ sections:
   content: 'Radimal is the new way to read radiographs and support DVMs
 
 '
-  image: ''
+  image: "/images/cat-dog.png"
   image_alt: animals
   actions:
   - type: action
