@@ -1,7 +1,7 @@
 ---
 title: Contact Sales
 subtitle: Schedule a call with us to learn more
-image: images/11.jpg
+image: ''
 image_alt: Office desk top view
 seo:
   type: stackbit_page_meta
@@ -9,25 +9,35 @@ seo:
   title: Sign Up
   description: This is the sign up page
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Sign Up
-      keyName: property
-    - name: 'og:description'
-      value: This is the sign up page
-      keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Sign Up
-    - name: 'twitter:description'
-      value: This is the sign up page
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: Sign Up
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: This is the sign up page
+    keyName: property
+    relativeUrl: false
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: Sign Up
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: This is the sign up page
+    keyName: ''
+    relativeUrl: false
+  robots: []
 template: page
+
 ---
-
-
-    <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/radimal/getinfo?embed=true"></div>
-    <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
-
+    <!-- Start of Meetings Embed Script -->
+        <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/radimal/getinfo?embed=true"></div>
+        <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
+      <!-- End of Meetings Embed Script -->
