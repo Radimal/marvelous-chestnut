@@ -35,7 +35,7 @@ sections:
       treatment for vets of all experience levels. If it looks normal to you, you'll
       know in minutes if it looks normal to Radimal too. If the patient needs treatment
       immediately, you'll have extra insights for that just as quickly.
-    image: ''
+    image: "/images/radimalreportipadiphone.png"
     image_alt: App preview on a phone and tablet
     actions:
     - type: action
