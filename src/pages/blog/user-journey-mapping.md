@@ -3,8 +3,8 @@ title: How to Choose the Teleradiology Service That's Right For Your Practice
 subtitle: ''
 date: 2021-02-15T17:00:00.000+00:00
 author: ''
-excerpt: Looking to use a teleradiology company or thinking about changing? Read these
-  helpful tips.
+excerpt: Looking to use a teleradiology company or thinking about changing to a new
+  company? Read these helpful tips.
 image: "/images/pexels1-2.jpeg"
 image_alt: Business people in a meeting
 thumb_image: "/images/pexels1-1.jpeg"
