@@ -142,7 +142,7 @@ export function Header(props) {
                           className="button"
                           onClick={() => loginWithRedirect()}
                         >
-                          Sign In
+                          Create Radimal Account
                         </button>
                       )}
                     </ul>
