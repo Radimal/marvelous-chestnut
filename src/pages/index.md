@@ -90,9 +90,9 @@ sections:
     avatar_alt: Andrew Weissman's Photo
     content: Before helping co-found Radimal, I had learned about the role of AI in
       our industry but didn't fully understand its capability or impact. After a long
-      period of R&D, we finally got to see the reports go out. After talking to all
-      the DVMs who helped us with early stage testing, I knew immediately this would
-      be a gamechanger in our industry.
+      period of R&D, we finally got to see the reports go out. After hearing the amazing
+      feedback from the DVMs who helped us with early stage testing, I knew immediately
+      this would be a gamechanger in our industry.
 - type: section_cta
   template: section_cta
   section_id: call-to-action
