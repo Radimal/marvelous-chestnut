@@ -12,7 +12,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Sign Up",
+                "label": "Contact Sales",
                 "url": "/signup",
                 "style": "link",
                 "has_icon": false,
