@@ -73,7 +73,7 @@ sections:
     avatar_alt: Eric Widget's photo
     content: It's about having that comfort and knowing that Radimal is verifying
       that something is normal. That's every vet's greatest fear - that you're missing
-      something. So this helps you know that you're giving the best medicine to your
+      something. So this helps you know that you're providing the best care to your
       patients.
   - type: review_item
     template: review_item
