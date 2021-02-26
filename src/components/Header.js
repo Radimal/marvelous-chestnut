@@ -142,7 +142,7 @@ export function Header(props) {
                           className="button"
                           onClick={() => loginWithRedirect()}
                         >
-                          Start Free Trial
+                          Create Account
                         </button>
                       )}
                     </ul>
