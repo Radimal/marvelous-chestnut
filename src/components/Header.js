@@ -133,7 +133,7 @@ export function Header(props) {
                             logout({ returnTo: window.location.origin })
                           }
                         >
-                          logout
+                          Logout
                         </button>
                       ) : (
                         <button
