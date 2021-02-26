@@ -1,8 +1,6 @@
 ---
 title: Contact Sales
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Schedule a call with us to learn more
 image: images/11.jpg
 image_alt: Office desk top view
 seo:
