@@ -56,7 +56,7 @@ sections:
     image_alt: ''
     actions: []
     type: feature_item
-    image: "/images/feature2.png"
+    image: "/images/dacvrconvo.png"
   - type: feature_item
     template: feature_item
     title: See Your Practice Like Never Before
