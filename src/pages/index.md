@@ -90,8 +90,8 @@ sections:
     content: Before helping found Radimal, I had learned about the role of AI in our
       industry but didn't fully understand its impact and benefit. After a long period
       of R&D, once I finally got to see the reports go out and talk to all the DVMs
-      who wanted to help with testing, I knew immediately what a gamechanger this
-      is for everyone and am so excited for everyone to try it.
+      who helped us with testing, I knew immediately what a gamechanger this is for
+      everyone and am so excited for everyone to try it.
 - type: section_cta
   template: section_cta
   section_id: call-to-action
