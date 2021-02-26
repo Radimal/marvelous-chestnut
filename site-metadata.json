@@ -30,7 +30,7 @@
             {
                 "type": "footer_text",
                 "template": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "",
                 "image_alt": "Footer logo",
                 "image_url": "/",
                 "content": "Radimal.ai",
