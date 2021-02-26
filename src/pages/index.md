@@ -88,11 +88,11 @@ sections:
     author: Andrew Weissman, VMD, DACVR  Co-founder of Radimal
     avatar: "/images/weissman-andy_233cr-3.jpg"
     avatar_alt: Andrew Weissman's Photo
-    content: Before helping found Radimal, I had learned about the role of AI in our
-      industry but didn't fully understand its impact and benefit. After a long period
-      of R&D, once I finally got to see the reports go out and talk to all the DVMs
-      who helped us with testing, I knew immediately what a gamechanger this is for
-      our industry.
+    content: Before helping co-found Radimal, I had learned about the role of AI in
+      our industry but didn't fully understand its capability or impact. After a long
+      period of R&D, I finally got to see the reports go out. After talking to all
+      the DVMs who helped us with early stage testing, I knew immediately this would
+      be a gamechanger in our industry.
 - type: section_cta
   template: section_cta
   section_id: call-to-action
