@@ -57,25 +57,6 @@ sections:
     actions: []
     type: feature_item
     image: "/images/dacvrconvo.png"
-  - type: feature_item
-    template: feature_item
-    title: See Your Practice Like Never Before
-    content: 'Was that an influx of new patients? Hey we get it, you''re busy and
-      don''t have time to check another thing, but we''ll show you how your practice
-      and patients are looking over time. '
-    image: images/feature3.png
-    image_alt: App user profile preview
-    actions:
-    - type: action
-      template: action
-      label: Learn More
-      url: "/features"
-      style: secondary
-      has_icon: true
-      icon: arrow-right
-      icon_position: right
-      new_window: false
-      no_follow: false
 - type: section_reviews
   template: section_reviews
   section_id: reviews
