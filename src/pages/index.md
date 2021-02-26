@@ -69,7 +69,7 @@ sections:
   - type: review_item
     template: review_item
     author: Jamie Laity, DVM    Owner of Harbor Point Animal Hospital
-    avatar: "/images/mbilxf0a.jpeg"
+    avatar: "/images/jamielaity.png"
     avatar_alt: Eric Widget's photo
     content: Having that comfort and knowing that Radimal is verifying that something
       is normal. That's every vet's greatest fear -- that you're missing something.
