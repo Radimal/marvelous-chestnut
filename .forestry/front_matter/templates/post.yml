@@ -62,6 +62,5 @@ fields:
     required: true
 pages:
 - src/pages/blog/customer-loyalty.md
-- src/pages/blog/set-big-goals.md
 - src/pages/blog/user-journey-mapping.md
 - src/pages/blog/working-from-home.md
