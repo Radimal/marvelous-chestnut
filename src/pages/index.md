@@ -80,7 +80,7 @@ sections:
     author: Carey Guise, VMD  Owner of Holland Veterinary Care
     avatar: ''
     avatar_alt: Parsley Montana's photo
-    content: Whether you already use Teleradiology or not, the Radimal experience
+    content: Whether you already use teleradiology or not, the Radimal experience
       is so immediate. You want to talk about results in the office while the patient
       is there in real time and now you can.
   - type: review_item
