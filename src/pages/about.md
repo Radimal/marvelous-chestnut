@@ -45,8 +45,8 @@ seo:
 template: page
 
 ---
-The delays and uncertainties that we experience in the clinic not only impact our patients but also our own day-to-day opportunity to serve our clients. The use of artificial intelligence enables Radimal to get you the results you need, within minutes, so that you can get them to your clients and patients.
+The delays and uncertainties that we experience in the clinic not only impact our patients but also our own day-to-day opportunity to serve our clients. The use of artificial intelligence enables Radimal to provide the results you need, within minutes, so that you can get them to your clients and patients.
 
 As members of the veterinary community, we experience, first hand, the challenges of every day practice. Radimal is created every day by the collaboration of dedicated veterinary radiologists, DVMs, and experts in artificial intelligence. Radimal is based on the latest in human and animal medical research, as well as our desire to improve patient care, and veterinarian well being, and our unique perspective on how technology can improve the experience for everyone involved.
 
-Radimal has been developed through rigorous training on hundreds of thousands of patient cases and has been trialed in veterinary hospitals across the country. Let's experience this latest intersection between technology and patient care together!
+We developed Radimal through rigorous training on hundreds of thousands of patient cases and then trialed it in veterinary hospitals across the country. Let's experience this latest intersection between technology and patient care together!
