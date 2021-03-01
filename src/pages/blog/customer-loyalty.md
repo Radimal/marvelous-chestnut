@@ -1,7 +1,7 @@
 ---
-title: 6 Easy Tips to Improve Your Radiographic Interpretations
+title: 7 Easy Tips to Improve Your Radiographic Interpretations
 subtitle: ''
-date: 2021-02-23T15:00:00Z
+date: 2021-02-23T15:00:00.000+00:00
 author: ''
 excerpt: Easy tips that everyone can do to improve
 image: "/images/2yo-nm-dsh0001.jpg"
@@ -96,3 +96,7 @@ Here are two great textbooks to help your interpretations:
 > This book is particularly helpful in showing normal anatomy in juvenile patients at various ages.  For example, have a limping 16-week-old puppy and you’re not sure what the elbow should look like? Could that opacity be a normal thymus? This is your text!
 >
 > [https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1")[ ]()
+
+## 7. Have Radimal your radiographs for you
+
+Whether it's a teleradiologist or Radimal AI system, your job is to work with an interpretation to diagnose and treat yoru patient.
