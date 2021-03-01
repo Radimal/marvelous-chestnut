@@ -6,7 +6,7 @@ seo:
   robots: []
   extra: []
 template: page
-title: FAQ
+title: Frequently asked questions
 subtitle: ''
 image: "/images/xrayquestion.png"
 image_alt: ''
