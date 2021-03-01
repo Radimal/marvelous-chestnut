@@ -80,9 +80,9 @@ sections:
     author: Carey Guise, VMD  Owner of Holland Veterinary Care
     avatar: ''
     avatar_alt: Parsley Montana's photo
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+    content: Whether you already use Teleradiology or not, the Radimal experience
+      is so immediate. You want to talk about results in the office while the patient
+      is there in real time and now you can.
   - type: review_item
     template: review_item
     author: Andrew Weissman, VMD, DACVR  Co-founder of Radimal
