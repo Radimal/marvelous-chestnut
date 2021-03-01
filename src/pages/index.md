@@ -82,7 +82,7 @@ sections:
     avatar_alt: Parsley Montana's photo
     content: Whether you already use teleradiology or not, the Radimal experience
       is so immediate. You want to talk about results in the office while the patient
-      is there in real time and now you can.
+      is there ,in real time, and now you can.
   - type: review_item
     template: review_item
     author: Andrew Weissman, VMD, DACVR  Co-founder of Radimal
