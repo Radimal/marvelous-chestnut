@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-image: ''
+image: "/images/dogsmaller.png"
 image_alt: Radimal Pitty
 seo:
   type: stackbit_page_meta
