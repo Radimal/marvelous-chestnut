@@ -92,7 +92,8 @@ sections:
       industry but didn't fully appreciate its impact and benefit to patient care.
       Now, I get to talk to vets every day who share their stories about how Radimal
       reports make a difference to them, their patients and their owners. This is
-      a gamechanger and I'm excited for other DVMs like me to experience it.
+      a gamechanger and I'm excited for other DVMs and DACVRs like me to experience
+      it.
 - type: section_cta
   template: section_cta
   section_id: call-to-action
