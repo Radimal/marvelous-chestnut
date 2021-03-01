@@ -61,9 +61,9 @@ sections:
   template: section_reviews
   section_id: reviews
   title: Made With Vets, Great For Vets
-  subtitle: The most exciting part of what we do is seeing the impact it has on real
-    vets every day. Whether it's saving a patient's life or saving a vet's time, we
-    believe it works because vets tell us it works.
+  subtitle: What motivates us the most is seeing the difference that Radimal makes
+    for real vets every day, whether it's saving a patient's life or saving a vet's
+    time. Radimal works for vets because it was designed by vets.
   background: white
   reviews:
   - type: review_item
