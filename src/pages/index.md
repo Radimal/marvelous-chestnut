@@ -83,7 +83,7 @@ sections:
     content: I was surprised at how fast it was. and the techs didn't even have to
       do anything additional. Whether you already use teleradiology or not, the Radimal
       experience is so immediate. You want to talk about results in the office while
-      the patient is there ,in real time, and now you can.
+      the patient is there, in real time, and now you can.
   - type: review_item
     template: review_item
     author: Andrew Weissman, VMD, DACVR  Co-founder of Radimal
