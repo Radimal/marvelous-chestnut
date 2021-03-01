@@ -2,7 +2,7 @@
 title: About Us
 subtitle: ''
 image: "/images/dog.png"
-image_alt: Team members in a conference room
+image_alt: Radimal Pitty
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
