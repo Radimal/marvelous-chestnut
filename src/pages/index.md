@@ -78,8 +78,8 @@ sections:
   - type: review_item
     template: review_item
     author: Carey Guise, VMD  Owner of Holland Veterinary Care
-    avatar: ''
-    avatar_alt: Parsley Montana's photo
+    avatar: "/images/carieguise.png"
+    avatar_alt: Carey Guise
     content: I was surprised at how fast it was. and the techs didn't even have to
       do anything additional. Whether you already use teleradiology or not, Radimal
       reports are so immediate. You want to talk about results in the office while
