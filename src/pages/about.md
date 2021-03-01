@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-image: ''
+image: "/images/dog.png"
 image_alt: Team members in a conference room
 seo:
   type: stackbit_page_meta
