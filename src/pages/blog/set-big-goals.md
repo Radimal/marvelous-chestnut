@@ -1,10 +1,10 @@
 ---
 title: FAQs
-date: 2021-02-02T00:00:00Z
+date: 2021-02-02T00:00:00.000+00:00
 author: ''
 excerpt: ''
-image: "/images/inkedvd.jpg"
-thumb_image: "/images/inkedvd.jpg"
+image: "/images/xrayquestion.png"
+thumb_image: "/images/xrayquestion.png"
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
@@ -50,7 +50,7 @@ image_alt: ''
 thumb_image_alt: ''
 
 ---
- 1. What is Radimal?
+1. What is Radimal?
     * Radimal is a veterinary-developed artificial intelligence software for interpreting radiographs of companion animals
  2. How does Radimal work?
     * Radimal is an artifical intelligence (AI)-powered system that has been trained on hundreds of thousands of images that are in its database and uses that experience to diagnose your patients quickly and accurately
@@ -70,4 +70,4 @@ thumb_image_alt: ''
     * All Radimal cases can easily be submitted for our own Radimal teleradiologist report. Just click the "Get consult" button on your patient's report to request a teleradiologist interpretation.
 12. How will I be charged for Radimal reports?
 13. What if Radimal isn't for me?
-    * We think that you will love Radimal and we'll try to support you in any way possible. But if this amazing system isn't for you, we'll cancel your membership at any time with no yearly contract or hidden fees. 
+    * We think that you will love Radimal and we'll try to support you in any way possible. But if this amazing system isn't for you, we'll cancel your membership at any time with no yearly contract or hidden fees.
