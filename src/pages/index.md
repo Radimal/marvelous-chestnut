@@ -71,10 +71,10 @@ sections:
     author: Jamie Laity, DVM    Owner of Harbor Point Animal Hospital
     avatar: "/images/jamielaity.png"
     avatar_alt: Eric Widget's photo
-    content: It's about having that comfort and knowing that Radimal is verifying
-      that something is normal. That's every vet's greatest fear - that you're missing
-      something. So this helps you know that you're providing the best care to your
-      patients.
+    content: It's great to have that peace of mind to know that Radimal is verifying
+      that something is normal or not. That's every vet's greatest fear - that you're
+      missing something. Radimal helps me know that we're giving the best possible
+      medicine to our patients.
   - type: review_item
     template: review_item
     author: Carey Guise, VMD  Owner of Holland Veterinary Care
