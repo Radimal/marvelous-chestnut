@@ -96,6 +96,6 @@ Here are two great textbooks to help your interpretations:
 >
 > This book is particularly helpful in showing normal anatomy in juvenile patients at various ages.  For example, have a limping 16-week-old puppy and you’re not sure what the elbow should look like? Could that opacity be a normal thymus? This is your text!
 
-## 7. Have Radimal read your radiographs for you
+## **7.** **Have Radimal read your radiographs for you**
 
-Whether it's a teleradiologist or Radimal AI system, your job is to work with an interpretation to diagnose and treat your patient.
+Whether it's Radimal teleradiology or the Radimal AI system, your job is to work with an interpretation to diagnose and treat your patient. Save yourself the interpretation time and let us help you get your patient that treatment they need.
