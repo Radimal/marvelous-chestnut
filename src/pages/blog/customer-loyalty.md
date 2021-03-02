@@ -98,4 +98,4 @@ Here are two great textbooks to help your interpretations:
 
 ## **7.** **Have Radimal read your radiographs for you**
 
-Whether it's Radimal teleradiology or the Radimal AI system, your job is to work with an interpretation to diagnose and treat your patient. Save yourself the interpretation time and let us help you get your patient that treatment they need.
+Whether it's Radimal teleradiology or the Radimal AI reporting, your job is to work with a radiogrpahic interpretation to diagnose and treat your patient. Save yourself the interpretation time and let us help you get your patient the treatment they need.
