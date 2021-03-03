@@ -13,8 +13,15 @@ export function Header(props) {
   } = useAuth0();
 
   useEffect(() => {
-    getAccessTokenSilently({ audience: process.env.GATSBY_AUTH0_AUDIENCE });
-  }, [getAccessTokenSilently]);
+    (async () => {
+      const accessToken = getAccessTokenSilently({
+        audience: process.env.GATSBY_AUTH0_AUDIENCE,
+      });
+
+      console.log("isAuthenticated=", isAuthenticated);
+      console.log("accessToken=", accessToken);
+    })();
+  }, [getAccessTokenSilently, isAuthenticated]);
 
   console.log("isAuthenticated=", isAuthenticated);
 
