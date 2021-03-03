@@ -6,8 +6,9 @@ import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
 
 export function Header(props) {
-  const { isAuthenticated, loginWithRedirect, logout } = useAuth0();
+  const { isAuthenticated, loginWithRedirect } = useAuth0();
 
+  console.log("isAuthenticated=", isAuthenticated);
 
   return (
     <header id="masthead" className="site-header outer">
