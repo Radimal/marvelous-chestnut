@@ -4,12 +4,10 @@ import { useAuth0 } from "@auth0/auth0-react";
 
 import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
-import { useApi } from "../hooks/use-api";
 
 export function Header(props) {
   const { isAuthenticated, loginWithRedirect, logout } = useAuth0();
 
-  useApi();
 
   return (
     <header id="masthead" className="site-header outer">
@@ -127,13 +125,14 @@ export function Header(props) {
                       )}
                       {isAuthenticated ? (
                         <button
-                          style={{ margin: "10px" }}
-                          id="logout"
+                          style={{ margin: "0 0 0 1.875em" }}
+                          id="login"
+                          className="button"
                           onClick={() =>
-                            logout({ returnTo: window.location.origin })
+                            (window.location.href = "https://vet.radimal.ai")
                           }
                         >
-                          Logout
+                          Go To Console
                         </button>
                       ) : (
                         <button
