@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import _ from "lodash";
 import { useAuth0 } from "@auth0/auth0-react";
 
@@ -6,7 +6,15 @@ import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
 
 export function Header(props) {
-  const { isAuthenticated, loginWithRedirect } = useAuth0();
+  const {
+    isAuthenticated,
+    loginWithRedirect,
+    getAccessTokenSilently,
+  } = useAuth0();
+
+  useEffect(() => {
+    getAccessTokenSilently({ audience: process.env.GATSBY_AUTH0_AUDIENCE });
+  }, [getAccessTokenSilently]);
 
   console.log("isAuthenticated=", isAuthenticated);
 
