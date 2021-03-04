@@ -148,10 +148,6 @@ seo:
       value: summary_large_image
       keyName: ''
       relativeUrl: false
-    - name: 'twitter:description'
-      value: The preview of the Azimuth theme
-      keyName: ''
-      relativeUrl: false
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
