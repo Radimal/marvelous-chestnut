@@ -124,6 +124,12 @@ seo:
     new way to read radiographs and support DVMs. Created by a team of veterinarians
     and software experts.
   extra:
+  - name: og:description
+    value: Discover veterinary radiology reports powered by AI. Radimal is the new
+      way to read radiographs and support DVMs. Created by a team of veterinarians
+      and software experts.
+    keyName: name
+    relativeUrl: false
   - name: og:url
     value: https://radimal.ai
     keyName: name
