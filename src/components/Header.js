@@ -8,10 +8,7 @@ import getCookie from "../utils/getCookie";
 
 export function Header(props) {
   const { loginWithRedirect } = useAuth0();
-
   const isAuthenticated = getCookie("logged_into_radimal") !== null;
-
-  console.log("getCookie=", getCookie("logged_into_radimal"));
 
   return (
     <header id="masthead" className="site-header outer">
@@ -132,9 +129,7 @@ export function Header(props) {
                           style={{ margin: "0 0 0 1.875em" }}
                           id="login"
                           className="button"
-                          onClick={() =>
-                            (window.location.href = "https://vet.radimal.ai")
-                          }
+                          onClick={() => loginWithRedirect()}
                         >
                           Go To Console
                         </button>
