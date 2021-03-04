@@ -137,7 +137,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Radimal - Smart Tools for Happy Veets
       keyName: property
       relativeUrl: false
     - name: 'og:description'
