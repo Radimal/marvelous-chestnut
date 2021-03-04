@@ -129,7 +129,7 @@ seo:
   title: Radimal - Smart Tools for Happy Vets
   description: >-
     Discover veterinary radiology reports powered by AI. Radimal is the new way
-    to read radiographs and support DVMs. Created by a of veterinarians and
+    to read radiographs and support DVMs. Created by a team of veterinarians and
     software experts.
   extra:
     - name: 'og:type'
