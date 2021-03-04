@@ -127,7 +127,10 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Radimal - Smart Tools for Happy Vets
-  description: The preview of the Azimuth theme
+  description: >-
+    Discover veterinary radiology reports powered by AI. Radimal is the new way
+    to read radiographs and support DVMs. Created by a of veterinarians and
+    software experts.
   extra:
     - name: 'og:type'
       value: website
