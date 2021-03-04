@@ -149,7 +149,7 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
-      value: images/hero.png
+      value: images/radimalsocial.png
       relativeUrl: true
       keyName: ''
   robots: []
