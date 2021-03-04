@@ -141,7 +141,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: images/hero.png
+      value: images/radimalsocial.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -149,7 +149,7 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
-      value: images/hero.png
+      value: images/radimalsocial.png
       relativeUrl: true
       keyName: ''
   robots: []
