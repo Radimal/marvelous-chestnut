@@ -1,41 +1,52 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/about.jpg
-image_alt: Team members in a conference room
+subtitle: ''
+image: "/images/team-1.png"
+image_alt: Radimal team
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: About Us
   description: This is the about page
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: About Us
-      keyName: property
-    - name: 'og:description'
-      value: This is the about page
-      keyName: property
-    - name: 'og:image'
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About Us
-    - name: 'twitter:description'
-      value: This is the about page
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: About Us
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: This is the about page
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: images/about.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: About Us
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: This is the about page
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: images/about.jpg
+    relativeUrl: true
+    keyName: ''
+  robots: []
 template: page
+
 ---
+The delays and uncertainties that we experience in the clinic not only impact our patients but also our own day-to-day opportunity to serve our clients. The use of artificial intelligence enables Radimal to provide the results you need, within minutes, so that you can get them to your clients and patients.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+As members of the veterinary community, we experience, first hand, the challenges of every day practice. Radimal is created every day by the collaboration of dedicated veterinary radiologists, DVMs, and experts in artificial intelligence. Radimal is based on the latest in human and animal medical research, as well as our desire to improve patient care, and veterinarian well being, and our unique perspective on how technology can improve the experience for everyone involved.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+We developed Radimal through rigorous training on hundreds of thousands of patient cases and then trialed it in veterinary hospitals across the country. Let's experience this latest intersection between technology and patient care together!

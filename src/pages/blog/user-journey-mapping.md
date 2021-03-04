@@ -3,8 +3,8 @@ title: How to Choose the Teleradiology Service That's Right For Your Practice
 subtitle: ''
 date: 2021-02-15T17:00:00.000+00:00
 author: ''
-excerpt: Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+excerpt: Looking to use a teleradiology company or thinking about changing to a new
+  company? Read these helpful tips.
 image: "/images/pexels1-2.jpeg"
 image_alt: Business people in a meeting
 thumb_image: "/images/pexels1-1.jpeg"
@@ -87,8 +87,7 @@ STAT reports come at a premium with an additional cost of 30 to 100 or more doll
 
 **What Hours is Teleradiology Available?**
 
-Consider your practice and your operating hours. If you are an ER or urgent care facility you are likely working late nights and weekends. Be sure to verify what hours the company is open and able to produce reports. It is wise to specifically ask about overnight and Sunday coverage.  
- 
+Consider your practice and your operating hours. If you are an ER or urgent care facility you are likely working late nights and weekends. Be sure to verify what hours the company is open and able to produce reports. It is wise to specifically ask about overnight and Sunday coverage.
 
 **Are the Radiologists Helpful?**
 
@@ -103,3 +102,5 @@ To determine how the company operates, ask to see a sample report so you can get
 Once you have evaluated different companies using the above criteria, you will be able to select a teleradiology company that works well for your practice and clientele. You will have access to a radiologist, and that is pretty close to having an in-house radiologist down the hall.
 
 Once you start receiving those reports, remember to ask these questions again. Ask yourself if the reports that you receive are helpful. Are these clear reports that you receive on time. Likely they will be great, as you have done your homework ahead of time.
+
+[Sign up ](https://radimal.us.auth0.com/login?state=g6Fo2SBHdHVuMkp0akVRcXE2SFRXdUhNQVVPVVNjeTg2SEVfTqN0aWTZIHJaVEhmZ3BBNDdoLVVNbHZSdEJPSU1mVHZBaHhtNW9Xo2NpZNkgOUtvVzJpeUpBR0hyZGxEemNLZXd6UTlRWndsdHFycUw&client=9KoW2iyJAGHrdlDzcKewzQ9QZwltqrqL&protocol=oauth2&audience=hasura&redirect_uri=https%3A%2F%2Fvet.radimal.ai%2Fdicom-setup&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=My5JdkV6Q3cwZUlTNXdsbWJuZWF6ODlPMTZhLmJqaHZCZmVIWWxjQk53bQ%3D%3D&code_challenge=QnxFu8FbK2yc1qg4aCK88Aznh5bep7F3D0NsDGfplEc&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4yLjAifQ%3D%3D "Sign up")for Radimal today and let our fast fast and reliable reports help you! 

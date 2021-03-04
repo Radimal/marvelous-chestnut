@@ -30,7 +30,7 @@ sections:
   features:
   - type: feature_item
     template: feature_item
-    title: Radiology Reports Delivered in Minutes
+    title: Radiology Reports Delivered in Minutes with Artificial Intelligence
     content: Say hello to reports in minutes (not days) that can help inform patient
       treatment for vets of all experience levels. If it looks normal to you, you'll
       know if it looks normal to Radimal too. If the patient needs treatment immediately,
@@ -61,34 +61,39 @@ sections:
   template: section_reviews
   section_id: reviews
   title: Made With Vets, Great For Vets
-  subtitle: The most exciting part of what we do is seeing the impact it has on real
-    vets every day. Whether it's saving a patient's life or saving a vet's time, we
-    believe it works because vets tell us it works.
+  subtitle: What motivates us the most is seeing the difference that Radimal makes
+    for real vets every day, whether it's saving a patient's life or saving a vet's
+    time. Radimal works for vets because it was designed by vets.
   background: white
   reviews:
   - type: review_item
     template: review_item
     author: Jamie Laity, DVM    Owner of Harbor Point Animal Hospital
-    avatar: "/images/mbilxf0a.jpeg"
+    avatar: "/images/jamielaity.png"
     avatar_alt: Eric Widget's photo
-    content: Having that comfort and knowing that Radimal is verifying that something
-      is normal. That's every vet's greatest fear -- that you're missing something.
-      So this helps you know that you're giving the best medicine to your patients.
+    content: It's great to have that peace of mind to know that Radimal is verifying
+      that something is normal or not. That's every vet's greatest fear - that you're
+      missing something. Radimal helps me know that we're giving the best possible
+      medicine to our patients.
   - type: review_item
     template: review_item
     author: Carey Guise, VMD  Owner of Holland Veterinary Care
-    avatar: ''
-    avatar_alt: Parsley Montana's photo
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+    avatar: "/images/carieguise.png"
+    avatar_alt: Carey Guise
+    content: I was surprised at how fast it was. and the techs didn't even have to
+      do anything additional. Whether you already use teleradiology or not, Radimal
+      reports are so immediate. You want to talk about results in the office while
+      the patient is there, in real time, and now you can.
   - type: review_item
     template: review_item
     author: Andrew Weissman, VMD, DACVR  Co-founder of Radimal
     avatar: "/images/weissman-andy_233cr-3.jpg"
-    avatar_alt: Jonquil Von Haggerston's photo
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+    avatar_alt: Andrew Weissman's Photo
+    content: Before co-founding Radimal I was aware of the growing use of AI in our
+      industry but didn't fully appreciate its impact and benefit to patient care.
+      Now, I get to talk to vets every day who share their stories about how Radimal
+      reports make a difference to them, their patients and their owners. This is
+      a gamechanger and I'm excited for DVMs and DACVRs like me to experience it.
 - type: section_cta
   template: section_cta
   section_id: call-to-action

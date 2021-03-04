@@ -1,15 +1,29 @@
-import React from "react";
+import React, { useEffect } from "react";
 import _ from "lodash";
 import { useAuth0 } from "@auth0/auth0-react";
 
 import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
-import { useApi } from "../hooks/use-api";
 
 export function Header(props) {
-  const { isAuthenticated, loginWithRedirect, logout } = useAuth0();
+  const {
+    isAuthenticated,
+    loginWithRedirect,
+    getAccessTokenSilently,
+  } = useAuth0();
 
-  useApi();
+  useEffect(() => {
+    (async () => {
+      const accessToken = getAccessTokenSilently({
+        audience: process.env.GATSBY_AUTH0_AUDIENCE,
+      });
+
+      console.log("isAuthenticated=", isAuthenticated);
+      console.log("accessToken=", accessToken);
+    })();
+  }, [getAccessTokenSilently, isAuthenticated]);
+
+  console.log("isAuthenticated=", isAuthenticated);
 
   return (
     <header id="masthead" className="site-header outer">
@@ -127,13 +141,14 @@ export function Header(props) {
                       )}
                       {isAuthenticated ? (
                         <button
-                          style={{ margin: "10px" }}
-                          id="logout"
+                          style={{ margin: "0 0 0 1.875em" }}
+                          id="login"
+                          className="button"
                           onClick={() =>
-                            logout({ returnTo: window.location.origin })
+                            (window.location.href = "https://vet.radimal.ai")
                           }
                         >
-                          Logout
+                          Go To Console
                         </button>
                       ) : (
                         <button

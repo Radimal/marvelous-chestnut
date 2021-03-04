@@ -1,6 +1,6 @@
 ---
-title: Practice Your Image Interpretation
-date: 2021-02-08T20:00:00Z
+title: Best Online Resource for Practicing Your Image Interpretation
+date: 2021-02-08T20:00:00.000+00:00
 author: ''
 excerpt: Free case-based vet radiology website to practice imaging interpretation
 image: "/images/pexels.jpeg"
@@ -56,15 +56,15 @@ This website has it all--
 
 * Cats, dogs, equine, exotic
 * Radiographs, ultrasound, CT/MRI
-* Variety of skill level
+* Variety of skill levels
 
 [http://www.veterinaryradiology.net/](http://www.veterinaryradiology.net/ "http://www.veterinaryradiology.net/")
 
-The website is run by Dr. Allison Zwingenberger, who is a veterinary radiologist at the University of California, Davis.
+The website is run by Dr. Allison Zwingenberger, a veterinary radiologist at the University of California, Davis.
 
 > Radiology is mostly about pattern recognition. The more you see, the more you know.
 
-The website is case-based and has clearly labeled images. You can click to see radiographic findings, diagnoses, AND differentials diagnoses. The list of possible differentials is so valuable because it helps remind you of what the patient could have, not just the "right" answer for that case. Keeping a broad differential list will help prioritize additional diagnostics and treatments in your future patients. Also, if you create an account there is an active "comments" section for each case where you can see what other people thought about the case. These comments are often responded to with helpful tips from a radiologist.
+The website is case-based and has clearly labeled images. You can click to see radiographic findings, diagnosis, AND a list of differential diagnoses for that case. In particular, we find that the differential diagnoses section is uniquely valuable,  as it helps to remind you that many clinical diagnoses may look similar on imaging, and prevents you from only focusing on the "right" answer for that particular case. Knowing these broad differential lists will help guide additional diagnostics and treatments in your own patients. Additionally, creating an account on this website provides access to an active "comments" section associated with each study, where users can post their thoughts and questions for the case. These comments are often responded to with helpful tips from a radiologist.
 
 What we love about this site:
 

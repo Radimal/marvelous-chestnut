@@ -37,6 +37,7 @@ fields:
     required: true
 pages:
 - src/pages/about.md
+- src/pages/faq.md
 - src/pages/privacy-policy.md
 - src/pages/signup.md
 - src/pages/style-guide.md
