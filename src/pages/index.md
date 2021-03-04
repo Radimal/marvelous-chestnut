@@ -140,10 +140,6 @@ seo:
       value: Radimal - Smart Tools for Happy Veets
       keyName: property
       relativeUrl: false
-    - name: 'og:description'
-      value: The preview of the Azimuth theme
-      keyName: property
-      relativeUrl: false
     - name: 'og:image'
       value: images/hero.png
       keyName: property
