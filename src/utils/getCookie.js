@@ -1,4 +1,6 @@
 export default (name) => {
+  if (typeof document === `undefined`) return null;
+
   var nameEQ = name + "=";
   var ca = document.cookie.split(";");
   for (var i = 0; i < ca.length; i++) {
