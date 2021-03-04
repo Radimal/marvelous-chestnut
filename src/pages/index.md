@@ -148,10 +148,6 @@ seo:
       value: summary_large_image
       keyName: ''
       relativeUrl: false
-    - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
-      keyName: ''
-      relativeUrl: false
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
       keyName: ''
