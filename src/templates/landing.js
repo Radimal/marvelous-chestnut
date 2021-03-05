@@ -3,6 +3,7 @@ import _ from 'lodash';
 import {graphql} from 'gatsby';
 
 import components, {Layout} from '../components/index';
+import ScriptInjector from "../services/ScriptInjector";
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -17,10 +18,9 @@ export const query = graphql`
 export default class Landing extends React.Component {
     render() {
 
-        if (typeof window !== `undefined`) {
-          console.log(window.location)
-        }
-        
+        const scriptInjector = new ScriptInjector()
+        console.log(scriptInjector.getScripts())
+
         return (
             <Layout {...this.props}>
             {_.map(_.get(this.props, 'pageContext.frontmatter.sections', null), (section, section_idx) => {

@@ -4,6 +4,7 @@ import {graphql} from 'gatsby';
 
 import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
+import ScriptInjector from "../services/ScriptInjector";
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -16,12 +17,11 @@ export const query = graphql`
 `;
 
 export default class Page extends React.Component {
-    render() {
-      
-        if (typeof window !== `undefined`) {
-          console.log(window.location)
-        }
-        
+    render() {      
+
+        const scriptInjector = new ScriptInjector()
+        console.log(scriptInjector.getScripts())
+
         return (
             <Layout {...this.props}>
             <div className="outer">
