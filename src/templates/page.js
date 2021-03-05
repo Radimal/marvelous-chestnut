@@ -17,6 +17,11 @@ export const query = graphql`
 
 export default class Page extends React.Component {
     render() {
+      
+        if (typeof window !== `undefined`) {
+          console.log(window.location)
+        }
+        
         return (
             <Layout {...this.props}>
             <div className="outer">

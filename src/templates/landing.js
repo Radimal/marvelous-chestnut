@@ -16,6 +16,11 @@ export const query = graphql`
 
 export default class Landing extends React.Component {
     render() {
+
+        if (typeof window !== `undefined`) {
+          console.log(window.location)
+        }
+        
         return (
             <Layout {...this.props}>
             {_.map(_.get(this.props, 'pageContext.frontmatter.sections', null), (section, section_idx) => {

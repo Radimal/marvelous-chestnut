@@ -16,9 +16,15 @@ export const query = graphql`
   }
 `;
 
+// const isContactPage = () => typeof window !== `undefined` && window.location.href
 export default class Blog extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
+
+        if (typeof window !== `undefined`) {
+          console.log(window.location)
+        }
+
         return (
             <Layout {...this.props}>
             <div className="outer">
