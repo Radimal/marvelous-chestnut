@@ -27,6 +27,8 @@ export default class Page extends React.Component {
       typeof window !== `undefined` &&
       window.location.pathname.replace(/\/+$/, "") === "/signup";
 
+    console.log("DEBUG")
+
     this.state = {
       showHubspotCalendar,
     };
