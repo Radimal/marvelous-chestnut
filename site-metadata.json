@@ -13,7 +13,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Contact Sales",
-                "url": "/sales",
+                "url": "/signup",
                 "style": "link",
                 "has_icon": false,
                 "icon": "",
