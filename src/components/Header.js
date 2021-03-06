@@ -1,29 +1,14 @@
-import React, { useEffect } from "react";
+import React from "react";
 import _ from "lodash";
 import { useAuth0 } from "@auth0/auth0-react";
 
 import { Link, withPrefix, classNames } from "../utils";
 import Action from "./Action";
+import getCookie from "../utils/getCookie";
 
 export function Header(props) {
-  const {
-    isAuthenticated,
-    loginWithRedirect,
-    getAccessTokenSilently,
-  } = useAuth0();
-
-  useEffect(() => {
-    (async () => {
-      const accessToken = getAccessTokenSilently({
-        audience: process.env.GATSBY_AUTH0_AUDIENCE,
-      });
-
-      console.log("isAuthenticated=", isAuthenticated);
-      console.log("accessToken=", accessToken);
-    })();
-  }, [getAccessTokenSilently, isAuthenticated]);
-
-  console.log("isAuthenticated=", isAuthenticated);
+  const { loginWithRedirect } = useAuth0();
+  const isAuthenticated = getCookie("logged_into_radimal") !== null;
 
   return (
     <header id="masthead" className="site-header outer">
@@ -144,9 +129,7 @@ export function Header(props) {
                           style={{ margin: "0 0 0 1.875em" }}
                           id="login"
                           className="button"
-                          onClick={() =>
-                            (window.location.href = "https://vet.radimal.ai")
-                          }
+                          onClick={() => loginWithRedirect()}
                         >
                           Go To Console
                         </button>
