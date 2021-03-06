@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-image: "/images/team-1.png"
+image: ''
 image_alt: Radimal team
 seo:
   type: stackbit_page_meta
