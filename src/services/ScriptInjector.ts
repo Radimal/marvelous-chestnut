@@ -15,7 +15,7 @@ const termlyPrivacyPolicy: Script = {
 
 const termlyCookiePolicy: Script = {
   src: `https://app.termly.io/embed-policy.min.js`,
-  iframe: `<div name="termly-embed" data-id="e35d31ac-a55e-4ee8-8013-e373a980e1fa" data-type="iframe"></div>`,
+  iframe: `<div name="termly-embed" data-id="82207b25-088b-4c2e-84c3-872dfd427c69" data-type="iframe"></div>`,
 };
 
 export default class ScriptInjector {
