@@ -47,6 +47,7 @@ export default class Body extends React.Component {
               )}
             />
           )}
+
           {_.map(
             _.get(this.props, "pageContext.frontmatter.seo.extra", null),
             (meta, meta_idx) => {

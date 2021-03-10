@@ -4,6 +4,7 @@ import { graphql } from "gatsby";
 
 import { Layout } from "../components/index";
 import { htmlToReact, withPrefix } from "../utils";
+import ScriptInjector from "../services/ScriptInjector";
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -15,36 +16,29 @@ export const query = graphql`
   }
 `;
 
-const HUBSPOT_SCRIPT_SRC =
-  "https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js";
-
-const HUBSPOT_IFRAME = `<div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/radimal/getinfo?embed=true"></div>`;
-
 export default class Page extends React.Component {
   constructor(props) {
     super(props);
-    const showHubspotCalendar =
-      typeof window !== `undefined` &&
-      window.location.pathname.replace(/\/+$/, "") === "/signup";
 
-    console.log("DEBUG")
+    const scriptInjector = new ScriptInjector();
+    const scriptForPage = scriptInjector.scriptForPage();
 
     this.state = {
-      showHubspotCalendar,
+      scriptForPage,
     };
   }
 
   componentDidMount() {
-    if (!this.state.showHubspotCalendar) return;
+    if (!this.state.scriptForPage) return;
 
     const script = document.createElement("script");
-    script.src = HUBSPOT_SCRIPT_SRC;
+    script.src = this.state.scriptForPage.src;
     document.body.appendChild(script);
     this.setState({ script });
   }
 
   componentWillUnmount() {
-    if (!this.state.showHubspotCalendar) return;
+    if (!this.state.scriptForPage) return;
 
     document.body.removeChild(this.state.script);
   }
@@ -93,8 +87,12 @@ export default class Page extends React.Component {
                 {htmlToReact(_.get(this.props, "pageContext.html", null))}
               </div>
 
-              {this.state.showHubspotCalendar && (
-                <div dangerouslySetInnerHTML={{ __html: HUBSPOT_IFRAME }} />
+              {this.state.scriptForPage && (
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: this.state.scriptForPage.iframe,
+                  }}
+                />
               )}
             </article>
           </div>

@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-image: "/images/team-1.png"
+image: ''
 image_alt: Radimal team
 seo:
   type: stackbit_page_meta
@@ -45,8 +45,6 @@ seo:
 template: page
 
 ---
-The delays and uncertainties that we experience in the clinic not only impact our patients but also our own day-to-day opportunity to serve our clients. The use of artificial intelligence enables Radimal to provide the results you need, within minutes, so that you can get them to your clients and patients.
+As a radiologist for over a decade, I have a personal understanding of the juggling act clinicians perform every day. Between seeing appointments, running and interpreting diagnostics, managing clients, callbacks, and procedures...our days are hectic. Add to that the mental load of the cases we take home with us: Did I miss a lung nodule? Should I have started that coughing cat on antibiotics? I’ve been there. Teleradiology has opened up access to a radiologist for everyone, but waiting for radiology reports can be prohibitive when it comes to making on-the-spot clinical decisions. That’s why we developed Radimal. We provide the clinical information your patient needs and the peace of mind that you deserve.
 
-As members of the veterinary community, we experience, first hand, the challenges of every day practice. Radimal is created every day by the collaboration of dedicated veterinary radiologists, DVMs, and experts in artificial intelligence. Radimal is based on the latest in human and animal medical research, as well as our desire to improve patient care, and veterinarian well being, and our unique perspective on how technology can improve the experience for everyone involved.
-
-We developed Radimal through rigorous training on hundreds of thousands of patient cases and then trialed it in veterinary hospitals across the country. Let's experience this latest intersection between technology and patient care together!
+> Radimal will give you the clinical information that your patient needs and the peace of mind that you deserve. Our technology is there to support you - quickly and reliably - in interpreting your radiographs, enabling you to treat your patients quickly and with confidence.
