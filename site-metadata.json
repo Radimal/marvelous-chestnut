@@ -111,11 +111,11 @@
           {
             "type": "action",
             "template": "action",
-            "label": "LinkedIn",
-            "url": "https://www.linkedin.com/",
+            "label": "Facebook",
+            "url": "https://www.facebook.com/RadimalAI",
             "style": "link",
             "has_icon": true,
-            "icon": "linkedin",
+            "icon": "facebook",
             "icon_position": "left",
             "new_window": false,
             "no_follow": false
