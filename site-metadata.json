@@ -99,11 +99,11 @@
           {
             "type": "action",
             "template": "action",
-            "label": "Twitter",
-            "url": "https://twitter.com/",
+            "label": "Instagram",
+            "url": "https://www.instagram.com/radimal.ai/",
             "style": "link",
             "has_icon": true,
-            "icon": "twitter",
+            "icon": "instagram",
             "icon_position": "left",
             "new_window": false,
             "no_follow": false
@@ -175,7 +175,9 @@
       }
     ],
     "content": "&copy; Radimal. All rights reserved.",
-    "links": []
+    "links": [
+
+    ]
   },
   "domain": "https://radimal.ai",
   "favicon": "/images/favicon-1.png"
