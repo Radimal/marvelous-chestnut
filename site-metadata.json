@@ -68,8 +68,8 @@
           {
             "type": "action",
             "template": "action",
-            "label": "Sign Up",
-            "url": "/signup",
+            "label": "Help",
+            "url": "help.radimal.ai",
             "style": "link",
             "has_icon": false,
             "icon": "",
