@@ -18,6 +18,11 @@ const termlyCookiePolicy: Script = {
   iframe: `<div name="termly-embed" data-id="82207b25-088b-4c2e-84c3-872dfd427c69" data-type="iframe"></div>`,
 };
 
+const termlyTermsPolicy: Script = {
+  src: `https://app.termly.io/embed-policy.min.js`,
+  iframe: `<div name="termly-embed" data-id="220bf62e-c67c-4d78-9406-6b46a33b75b5" data-type="iframe"></div>`,
+};
+
 export default class ScriptInjector {
   pathname?: string;
 
@@ -34,6 +39,8 @@ export default class ScriptInjector {
       return termlyPrivacyPolicy;
     } else if (this.pathname === "/cookie-policy") {
       return termlyCookiePolicy;
+    } else if (this.pathname === "/terms-of-service") {
+      return termlyTermsPolicy;
     }
   }
 }
