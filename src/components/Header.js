@@ -1,48 +1,34 @@
-import React from "react";
-import _ from "lodash";
-import { useAuth0 } from "@auth0/auth0-react";
+import React from "react"
+import _ from "lodash"
+import { useAuth0 } from "@auth0/auth0-react"
 
-import { Link, withPrefix, classNames } from "../utils";
-import Action from "./Action";
-import getCookie from "../utils/getCookie";
+import { Link, withPrefix, classNames } from "../utils"
+import Action from "./Action"
+import getCookie from "../utils/getCookie"
 
 export function Header(props) {
-  const { loginWithRedirect } = useAuth0();
-  const isAuthenticated = getCookie("logged_into_radimal") !== null;
+  const { loginWithRedirect } = useAuth0()
+  const isAuthenticated = getCookie("logged_into_radimal") !== null
 
   return (
     <header id="masthead" className="site-header outer">
       <div className="inner">
         <div className="site-header-inside">
           <div className="site-branding">
-            {_.get(
-              props,
-              "pageContext.site.siteMetadata.header.logo_img",
-              null
-            ) && (
+            {_.get(props, "pageContext.site.siteMetadata.header.logo_img", null) && (
               <p className="site-logo">
                 <Link to={withPrefix("/")}>
                   <img
                     src={withPrefix(
-                      _.get(
-                        props,
-                        "pageContext.site.siteMetadata.header.logo_img",
-                        null
-                      )
+                      _.get(props, "pageContext.site.siteMetadata.header.logo_img", null)
                     )}
-                    alt={_.get(
-                      props,
-                      "pageContext.site.siteMetadata.header.logo_img_alt",
-                      null
-                    )}
+                    alt={_.get(props, "pageContext.site.siteMetadata.header.logo_img_alt", null)}
                   />
                 </Link>
               </p>
             )}
-            {_.get(props, "pageContext.frontmatter.template", null) ===
-              "landing" ||
-            _.get(props, "pageContext.frontmatter.template", null) ===
-              "blog" ? (
+            {_.get(props, "pageContext.frontmatter.template", null) === "landing" ||
+            _.get(props, "pageContext.frontmatter.template", null) === "blog" ? (
               <h1
                 className={classNames("site-title", {
                   "screen-reader-text": _.get(
@@ -72,22 +58,10 @@ export function Header(props) {
               </p>
             )}
           </div>
-          {_.get(
-            props,
-            "pageContext.site.siteMetadata.header.nav_links",
-            null
-          ) &&
-            _.get(
-              props,
-              "pageContext.site.siteMetadata.header.has_nav",
-              null
-            ) && (
+          {_.get(props, "pageContext.site.siteMetadata.header.nav_links", null) &&
+            _.get(props, "pageContext.site.siteMetadata.header.has_nav", null) && (
               <React.Fragment>
-                <nav
-                  id="main-navigation"
-                  className="site-navigation"
-                  aria-label="Main Navigation"
-                >
+                <nav id="main-navigation" className="site-navigation" aria-label="Main Navigation">
                   <div className="site-nav-inside">
                     <button id="menu-close" className="menu-toggle">
                       <span className="screen-reader-text">Open Menu</span>
@@ -95,22 +69,11 @@ export function Header(props) {
                     </button>
                     <ul className="menu">
                       {_.map(
-                        _.get(
-                          props,
-                          "pageContext.site.siteMetadata.header.nav_links",
-                          null
-                        ),
+                        _.get(props, "pageContext.site.siteMetadata.header.nav_links", null),
                         (action, action_idx) => {
-                          let page_url = _.trim(
-                            _.get(props, "pageContext.url", null),
-                            "/"
-                          );
-                          let action_url = _.trim(
-                            _.get(action, "url", null),
-                            "/"
-                          );
-                          let action_style =
-                            _.get(action, "style", null) || "link";
+                          let page_url = _.trim(_.get(props, "pageContext.url", null), "/")
+                          let action_url = _.trim(_.get(action, "url", null), "/")
+                          let action_style = _.get(action, "style", null) || "link"
                           return (
                             <li
                               key={action_idx}
@@ -121,28 +84,13 @@ export function Header(props) {
                             >
                               <Action {...props} action={action} />
                             </li>
-                          );
+                          )
                         }
                       )}
-                      {isAuthenticated ? (
-                        <button
-                          style={{ margin: "0 0 0 1.875em" }}
-                          id="login"
-                          className="button"
-                          onClick={() => loginWithRedirect()}
-                        >
-                          Go To Console
-                        </button>
-                      ) : (
-                        <button
-                          style={{ margin: "0 0 0 1.875em" }}
-                          id="login"
-                          className="button"
-                          onClick={() => loginWithRedirect()}
-                        >
-                          Start Free Trial
-                        </button>
-                      )}
+
+                      <button id="login" className="button" onClick={() => loginWithRedirect()}>
+                        {isAuthenticated ? "Go To Console" : "Start Free Trial"}
+                      </button>
                     </ul>
                   </div>
                 </nav>
@@ -155,5 +103,5 @@ export function Header(props) {
         </div>
       </div>
     </header>
-  );
+  )
 }

@@ -106,7 +106,15 @@
   }
 }
 
+#login {
+  margin: 0 0 0 1.875em;
+}
+
 @media only screen and (max-width: 800px) {
+  #login {
+    margin: 0;
+  }
+
   .site {
     overflow: hidden;
     position: relative;
@@ -121,8 +129,7 @@
       opacity: 0;
       position: absolute;
       top: 0;
-      -webkit-transition: opacity 0.15s ease-in-out,
-        visibility 0s ease-in-out 0.15s;
+      -webkit-transition: opacity 0.15s ease-in-out, visibility 0s ease-in-out 0.15s;
       transition: opacity 0.15s ease-in-out, visibility 0s ease-in-out 0.15s;
       visibility: hidden;
       width: 100%;
