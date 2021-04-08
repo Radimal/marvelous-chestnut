@@ -5,10 +5,7 @@ sections:
     template: section_contact
     section_id: contact
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: "\n\nWe love helping practices seeking support with cases being read by a Radimal DACVR\n\nReports typically returned the same day\_\n48-hour turnaround or it’s on us :)\n\n**Reading Hours (EST)**\n\n8am-8pm Monday-Friday\n8am-2pm Saturday\nexcept major holidays\n\nAny case (including STAT) submitted outside of normal working hours will be read the following business day. \n\n\n\n\n\n"
     background: gray
     form_id: contactForm
     form_fields:
