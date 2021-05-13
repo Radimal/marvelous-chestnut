@@ -19,9 +19,8 @@ sections:
   background: gray
   features:
   - title: Full Consult Reports in 48 Hours, Guaranteed
-    content: Easy to read reports delivered directly to your email and Radimal Cases
-      Dashboard. Use the dashboard to quickly request reports for any patient or share
-      with clients.
+    content: Easy to read, delivered directly to your email and Radimal Cases Dashboard.
+      Quickly request a Full Consult for any patient or share with clients.
     image_alt: Radimal radiology report
     actions: []
     type: feature_item
