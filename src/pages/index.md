@@ -21,11 +21,11 @@ sections:
         template: feature_item
         title: Radimal AI Reports Delivered in Minutes
         content: >
-          Say hello to reports in fast reports from our AI system that can help
-          inform patient treatment for vets of all experience levels. If it
-          looks normal to you, you'll know if it looks normal to Radimal too. If
-          the patient needs treatment immediately, you'll have extra insights
-          for that just as quickly.
+          Say hello to fast reports from our AI system that can help inform
+          patient treatment for vets of all experience levels. If it looks
+          normal to you, you'll know if it looks normal to Radimal too. If the
+          patient needs treatment immediately, you'll have extra insights for
+          that just as quickly.
         image: /images/radimalreportipadiphone.png
         image_alt: App preview on a phone and tablet
         actions: []
