@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: 'Teleradiology, Redefined'
     content: |
-      ## Radimal is the new AI-powered radiology solution for veterinary teams
+      ### Radimal is the new AI-powered radiology solution for veterinary teams
     image: /images/cat-dog.png
     image_alt: animals
     actions: []
