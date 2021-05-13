@@ -19,7 +19,7 @@ sections:
     features:
       - type: feature_item
         template: feature_item
-        title: Radiology Reports Delivered in Minutes with Artificial Intelligence
+        title: Radimal AI Reports Delivered in Minutes
         content: >-
           Say hello to reports in minutes (not days) that can help inform
           patient treatment for vets of all experience levels. If it looks
