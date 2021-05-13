@@ -17,7 +17,7 @@ sections:
     subtitle: ''
     background: gray
     features:
-      - title: Full Consult Reports in 48 Hours Guaranteed
+      - title: 'Full Consult Reports in 48 Hours, Guaranteed'
         content: >-
           Easy to read, great for sharing, delivered directly to your email and
           Radimal Cases Dashboard where you can also easily request reports for
