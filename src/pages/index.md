@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: 'Teleradiology, Redefined'
     content: |
-      Radimal is the new way to read radiographs and support DVMs
+      Radimal is the fast, easy to use imaging service for DVMs
     image: /images/cat-dog.png
     image_alt: animals
     actions: []
