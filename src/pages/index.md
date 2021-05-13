@@ -4,7 +4,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: 'Teleradiology, Redefined'
+    title: 'Teleradiology,Redefined'
     content: |
       Radimal is the new AI-powered radiology solution for DVMs
     image: /images/cat-dog.png
