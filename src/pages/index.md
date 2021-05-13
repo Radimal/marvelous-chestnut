@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: 'Teleradiology, Redefined'
     content: |
-      Radimal is the fast, easy to use imaging service for DVMs
+      Radimal is the most advanced imaging service for DVMs
     image: /images/cat-dog.png
     image_alt: animals
     actions: []
