@@ -51,7 +51,7 @@ But, when you work in veterinary medicine, apprehension and ambiguity do more th
 
 When you head home at night, you aren’t obsessing over how you worded an email—you’re second-guessing whether you diagnosed heart failure correctly or if you should’ve performed a different test.
 
-The mental burden and strain for people who work in veterinary medicine is real. Combine that skyrocketing stress with a high degree of empathy and huge student debt load, and it’s no wonder that the suicide rate among veterinary professionals is so high.
+The mental burden and strain for people who work in veterinary medicine are real. Combine that skyrocketing stress with a high degree of empathy and huge student debt load, and it’s no wonder that the suicide rate among veterinary professionals is so high.
 
 In fact, [data from the Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/media/releases/2018/p1220-veterinarians-suicide.html) found that male veterinarians were 2.1 times as likely to die from suicide when compared with the general population. Female veterinarians were 3.5 times as likely.
 
