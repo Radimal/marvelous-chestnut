@@ -18,7 +18,7 @@ seo:
     keyName: property
     relativeUrl: false
   - name: og:description
-    value: This is the about page
+    value: Why We Started Radimal
     keyName: property
     relativeUrl: false
   - name: og:image
