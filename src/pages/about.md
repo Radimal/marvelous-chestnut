@@ -7,7 +7,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: About Us
-  description: This is the about page
+  description: Radimal - About Us
   extra:
   - name: og:type
     value: website
