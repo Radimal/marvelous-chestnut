@@ -1,7 +1,7 @@
 ---
 title: Why We Started Radimal
 subtitle: "(and Why It’s About So Much More Than Radiology Reports)"
-image: "/images/schittpreview.png"
+image: ''
 image_alt: ''
 seo:
   type: stackbit_page_meta
@@ -46,6 +46,8 @@ template: page
 
 ---
 Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).
+
+![](/images/giphy.gif)
 
 But, when you work in veterinary medicine, apprehension and ambiguity do more than keep you up at night. They can quite literally mean the difference between life and death for your patients.
 
