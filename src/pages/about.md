@@ -22,7 +22,7 @@ seo:
     keyName: property
     relativeUrl: false
   - name: og:image
-    value: images/about.jpg
+    value: images/schittpreview.png
     keyName: property
     relativeUrl: true
   - name: twitter:card
