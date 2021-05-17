@@ -1,7 +1,7 @@
 ---
 title: Why We Started Radimal
 subtitle: "(and Why It’s About So Much More Than Radiology Reports)"
-image: ''
+image: "/images/schittpreview.png"
 image_alt: ''
 seo:
   type: stackbit_page_meta
