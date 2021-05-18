@@ -123,7 +123,7 @@
           {
             "type": "action",
             "template": "action",
-            "label": "GitHub",
+            "label": "Twitter",
             "url": "https://twitter.com/radimalai",
             "style": "link",
             "has_icon": true,
