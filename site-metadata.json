@@ -1,182 +1,184 @@
 {
-    "title": "Radimal.ai",
-    "palette": "blue",
-    "base_font": "system-sans",
-    "header": {
-        "type": "header",
-        "template": "header",
-        "logo_img": "/images/logo.png",
-        "logo_img_alt": "Radimal",
-        "has_nav": true,
+  "title": "Radimal.ai",
+  "palette": "blue",
+  "base_font": "system-sans",
+  "header": {
+    "type": "header",
+    "template": "header",
+    "logo_img": "/images/logo.png",
+    "logo_img_alt": "Radimal",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Schedule a Demo",
+        "url": "/signup",
+        "style": "link",
+        "has_icon": false,
+        "icon": "",
+        "icon_position": "",
+        "new_window": false,
+        "no_follow": false
+      }
+    ]
+  },
+  "footer": {
+    "type": "footer",
+    "template": "footer",
+    "sections": [
+      {
+        "type": "footer_text",
+        "template": "footer_text",
+        "image": "",
+        "image_alt": "Footer logo",
+        "image_url": "/",
+        "content": "Smart Tools for Happy Vets ❤️",
+        "title": ""
+      },
+      {
+        "type": "footer_nav",
+        "template": "footer_nav",
+        "title": "Company",
         "nav_links": [
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Schedule a Demo",
-                "url": "/signup",
-                "style": "link",
-                "has_icon": false,
-                "icon": "",
-                "icon_position": "",
-                "new_window": false,
-                "no_follow": false
-            }
+          {
+            "type": "action",
+            "template": "action",
+            "label": "About Us",
+            "url": "/about",
+            "style": "link",
+            "has_icon": false,
+            "icon": "",
+            "icon_position": "",
+            "new_window": false,
+            "no_follow": false
+          },
+          {
+            "type": "action",
+            "template": "action",
+            "label": "Blog",
+            "url": "/blog",
+            "style": "link",
+            "has_icon": false,
+            "icon": "",
+            "icon_position": "",
+            "new_window": false,
+            "no_follow": false
+          },
+          {
+            "type": "action",
+            "template": "action",
+            "label": "Help",
+            "url": "http://help.radimal.ai",
+            "style": "link",
+            "has_icon": false,
+            "icon": "",
+            "icon_position": "",
+            "new_window": true,
+            "no_follow": true
+          },
+          {
+            "type": "action",
+            "template": "action",
+            "label": "FAQ",
+            "url": "/faq",
+            "style": "link",
+            "has_icon": false,
+            "icon": "",
+            "icon_position": "",
+            "new_window": false,
+            "no_follow": false
+          }
         ]
-    },
-    "footer": {
-        "type": "footer",
-        "template": "footer",
-        "sections": [
-            {
-                "type": "footer_text",
-                "template": "footer_text",
-                "image": "",
-                "image_alt": "Footer logo",
-                "image_url": "/",
-                "content": "Smart Tools for Happy Vets ❤️",
-                "title": ""
-            },
-            {
-                "type": "footer_nav",
-                "template": "footer_nav",
-                "title": "Company",
-                "nav_links": [
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "label": "About Us",
-                        "url": "/about",
-                        "style": "link",
-                        "has_icon": false,
-                        "icon": "",
-                        "icon_position": "",
-                        "new_window": false,
-                        "no_follow": false
-                    },
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "label": "Blog",
-                        "url": "/blog",
-                        "style": "link",
-                        "has_icon": false,
-                        "icon": "",
-                        "icon_position": "",
-                        "new_window": false,
-                        "no_follow": false
-                    },
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "label": "Help",
-                        "url": "http://help.radimal.ai",
-                        "style": "link",
-                        "has_icon": false,
-                        "icon": "",
-                        "icon_position": "",
-                        "new_window": true,
-                        "no_follow": true
-                    },
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "label": "FAQ",
-                        "url": "/faq",
-                        "style": "link",
-                        "has_icon": false,
-                        "icon": "",
-                        "icon_position": "",
-                        "new_window": false,
-                        "no_follow": false
-                    }
-                ]
-            },
-            {
-                "type": "footer_nav",
-                "template": "footer_nav",
-                "title": "Community",
-                "nav_links": [
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "label": "Instagram",
-                        "url": "https://www.instagram.com/radimal.ai/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "instagram",
-                        "icon_position": "left",
-                        "new_window": false,
-                        "no_follow": false
-                    },
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "label": "Facebook",
-                        "url": "https://www.facebook.com/RadimalAI",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "facebook",
-                        "icon_position": "left",
-                        "new_window": false,
-                        "no_follow": false
-                    },
-                    {
-                        "type": "action",
-                        "template": "action",
-                        "label": "GitHub",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "github",
-                        "icon_position": "left",
-                        "new_window": false,
-                        "no_follow": false
-                    }
-                ]
-            }
-        ],
-        "has_nav": true,
+      },
+      {
+        "type": "footer_nav",
+        "template": "footer_nav",
+        "title": "Community",
         "nav_links": [
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Terms of Service",
-                "url": "/terms-of-service",
-                "style": "link",
-                "has_icon": false,
-                "icon": "",
-                "icon_position": "",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link",
-                "has_icon": false,
-                "icon": "",
-                "icon_position": "",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Cookie Policy",
-                "url": "/cookie-policy",
-                "style": "link",
-                "has_icon": false,
-                "icon": "",
-                "icon_position": "",
-                "new_window": false,
-                "no_follow": false
-            }
-        ],
-        "content": "&copy; Radimal. All rights reserved.",
-        "links": []
-    },
-    "domain": "https://radimal.ai",
-    "favicon": "/images/favicon-1.png"
+          {
+            "type": "action",
+            "template": "action",
+            "label": "Instagram",
+            "url": "https://www.instagram.com/radimal.ai/",
+            "style": "link",
+            "has_icon": true,
+            "icon": "instagram",
+            "icon_position": "left",
+            "new_window": false,
+            "no_follow": false
+          },
+          {
+            "type": "action",
+            "template": "action",
+            "label": "Facebook",
+            "url": "https://www.facebook.com/RadimalAI",
+            "style": "link",
+            "has_icon": true,
+            "icon": "facebook",
+            "icon_position": "left",
+            "new_window": false,
+            "no_follow": false
+          },
+          {
+            "type": "action",
+            "template": "action",
+            "label": "GitHub",
+            "url": "https://twitter.com/radimalai",
+            "style": "link",
+            "has_icon": true,
+            "icon": "twitter",
+            "icon_position": "left",
+            "new_window": false,
+            "no_follow": false
+          }
+        ]
+      }
+    ],
+    "has_nav": true,
+    "nav_links": [
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Terms of Service",
+        "url": "/terms-of-service",
+        "style": "link",
+        "has_icon": false,
+        "icon": "",
+        "icon_position": "",
+        "new_window": false,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Privacy Policy",
+        "url": "/privacy-policy",
+        "style": "link",
+        "has_icon": false,
+        "icon": "",
+        "icon_position": "",
+        "new_window": false,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "Cookie Policy",
+        "url": "/cookie-policy",
+        "style": "link",
+        "has_icon": false,
+        "icon": "",
+        "icon_position": "",
+        "new_window": false,
+        "no_follow": false
+      }
+    ],
+    "content": "&copy; Radimal. All rights reserved.",
+    "links": [
+
+    ]
+  },
+  "domain": "https://radimal.ai",
+  "favicon": "/images/favicon-1.png"
 }
