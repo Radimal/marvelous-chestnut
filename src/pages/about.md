@@ -1,6 +1,6 @@
 ---
 title: Why We Started Radimal
-subtitle: (and Why It’s About So Much More Than Radiology Reports)
+subtitle: "(and Why It’s About So Much More Than Radiology Reports)"
 image: ''
 image_alt: ''
 seo:
@@ -9,40 +9,42 @@ seo:
   title: About Us
   description: Radimal - About Us
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-      relativeUrl: false
-    - name: 'og:title'
-      value: About Us
-      keyName: property
-      relativeUrl: false
-    - name: 'og:description'
-      value: Why We Started Radimal
-      keyName: property
-      relativeUrl: false
-    - name: 'og:image'
-      value: images/schittpreview.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:title'
-      value: About Us
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:description'
-      value: This is the about page
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:image'
-      value: images/radimalsocial.png
-      relativeUrl: true
-      keyName: ''
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: About Us
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: Why We Started Radimal
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: images/schittpreview.png
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: Why We Started Radimal (and Why It’s About So Much More Than Radiology
+      Reports)
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: This is the about page
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: images/radimalsocial.png
+    relativeUrl: true
+    keyName: ''
   robots: []
 template: page
+
 ---
 Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).
 
