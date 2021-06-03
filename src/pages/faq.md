@@ -35,4 +35,4 @@ image_alt: ''
    All Radimal cases can easily be submitted for an in-house Radimal radiology report. During account setup you'll have the opportunity to send all cases for full radiologist reporting or you can select select cases on an individual basis. Any time you want to request a report, simply click "Get consult" on your patient's report.
 8. How can I try Radimal?
 
-   Sign up for [free 30-day trial account](https://radimal.us.auth0.com/login?state=g6Fo2SBHdjhzMGZxdG10NHgtd1ltMzNqem5iNDQ1c2dlUm1QdKN0aWTZIC1vdXp3bW9JWXVMY2laTFU2eWdlNUdTTFFhSkJKOVFro2NpZNkgOUtvVzJpeUpBR0hyZGxEemNLZXd6UTlRWndsdHFycUw&client=9KoW2iyJAGHrdlDzcKewzQ9QZwltqrqL&protocol=oauth2&audience=hasura&redirect_uri=https%3A%2F%2Fvet.radimal.ai%2Fdicom-setup&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=bXRpRFdKLjlIX3Z2eG4zRFgxM3FpNTQxd2xncHZnanBsMElHeUkzLThmOQ%3D%3D&code_challenge=RglltWywPJEpkkk7jddFlY8vTHQG8Dq_e8JDmO7Ebn0&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4yLjAifQ%3D%3D "free 30-day trial account").
+   [Schedule a demo with us to learn more.](https://www.radimal.ai/signup/)
