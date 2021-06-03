@@ -103,4 +103,4 @@ Radimal recently launched in 2020, and we’re looking forward to making a real 
 
 While these problems don’t have quick or easy solutions, we’re thrilled to be a part of taking a step in the right direction toward happier vets and healthier pets.
 
-**Curious about Radimal?** [**Start your free 30-day trial today**](https://login.radimal.ai/login?state=hKFo2SBVaFRWR0FsaWppQUM5eU14T2s2TFNKaUQ1RlNucm5Pd6FupWxvZ2luo3RpZNkgNzFWZVR3dVZiZnpRTkRwanVYWFBONXU5ZDBoZ0ROR1GjY2lk2SA5S29XMml5SkFHSHJkbER6Y0tld3pROVFad2x0cXJxTA&client=9KoW2iyJAGHrdlDzcKewzQ9QZwltqrqL&protocol=oauth2&audience=hasura&redirect_uri=https%3A%2F%2Fvet.radimal.ai%2Fcases&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=Nmg4YTg2dXVoZjhNeTBBRW9ndXdIMFhMaS1SWnNDU2oxMnNVS3JvVy1kQw%3D%3D&code_challenge=qSvIdLoPW3rBEXVbHtLtJBdfFxokdXyycfSc6UphAIQ&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4yLjAifQ%3D%3D)**.**
+**Curious about Radimal?** [**Start your free 30-day trial today**](https://vet.radimal.ai/)**.**
