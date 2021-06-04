@@ -52,7 +52,7 @@ sections:
   - type: section_reviews
     template: section_reviews
     section_id: reviews
-    title: 'Made With Vets, Great For Vets'
+    title: 'Made with Vets, Great for Vets'
     subtitle: >-
       What motivates us the most is seeing the difference that Radimal makes for
       real vets every day, whether it's saving a patient's life or saving a
