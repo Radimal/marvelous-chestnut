@@ -1,24 +1,25 @@
 ---
 title: Why We Started Radimal
 subtitle: "(and Why It’s About So Much More Than Radiology Reports)"
-image: "/images/schittpreview.png"
+image: ''
 image_alt: ''
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: About Us
-  description: This is the about page
+  description: Radimal - About Us
   extra:
   - name: og:type
     value: website
     keyName: property
     relativeUrl: false
   - name: og:title
-    value: About Us
+    value: Why We Started Radimal (and Why It’s About So Much More Than Radiology
+      Reports)
     keyName: property
     relativeUrl: false
   - name: og:description
-    value: This is the about page
+    value: Why We Started Radimal
     keyName: property
     relativeUrl: false
   - name: og:image
@@ -30,7 +31,8 @@ seo:
     keyName: ''
     relativeUrl: false
   - name: twitter:title
-    value: About Us
+    value: Why We Started Radimal (and Why It’s About So Much More Than Radiology
+      Reports)
     keyName: ''
     relativeUrl: false
   - name: twitter:description
@@ -38,23 +40,22 @@ seo:
     keyName: ''
     relativeUrl: false
   - name: twitter:image
-    value: images/about.jpg
+    value: images/radimalsocial.png
     relativeUrl: true
     keyName: ''
   robots: []
 template: page
 
 ---
-Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).  
-  
+Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).
+
 ![](/images/giphy.gif)
 
-  
 But, when you work in veterinary medicine, apprehension and ambiguity do more than keep you up at night. They can quite literally mean the difference between life and death for your patients.
 
 When you head home at night, you aren’t obsessing over how you worded an email—you’re second-guessing whether you diagnosed heart failure correctly or if you should’ve performed a different test.
 
-The mental burden and strain for people who work in veterinary medicine is real. Combine that skyrocketing stress with a high degree of empathy and huge student debt load, and it’s no wonder that the suicide rate among veterinary professionals is so high.
+The mental burden and strain for people who work in veterinary medicine are real. Combine that skyrocketing stress with a high degree of empathy and huge student debt load, and it’s no wonder that the suicide rate among veterinary professionals is so high.
 
 In fact, [data from the Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/media/releases/2018/p1220-veterinarians-suicide.html) found that male veterinarians were 2.1 times as likely to die from suicide when compared with the general population. Female veterinarians were 3.5 times as likely.
 
@@ -102,5 +103,4 @@ Radimal recently launched in 2020, and we’re looking forward to making a real 
 
 While these problems don’t have quick or easy solutions, we’re thrilled to be a part of taking a step in the right direction toward happier vets and healthier pets.
 
-  
-**Curious about Radimal?** [**Start your free 30-day trial today**](https://login.radimal.ai/login?state=hKFo2SBVaFRWR0FsaWppQUM5eU14T2s2TFNKaUQ1RlNucm5Pd6FupWxvZ2luo3RpZNkgNzFWZVR3dVZiZnpRTkRwanVYWFBONXU5ZDBoZ0ROR1GjY2lk2SA5S29XMml5SkFHSHJkbER6Y0tld3pROVFad2x0cXJxTA&client=9KoW2iyJAGHrdlDzcKewzQ9QZwltqrqL&protocol=oauth2&audience=hasura&redirect_uri=https%3A%2F%2Fvet.radimal.ai%2Fcases&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=Nmg4YTg2dXVoZjhNeTBBRW9ndXdIMFhMaS1SWnNDU2oxMnNVS3JvVy1kQw%3D%3D&code_challenge=qSvIdLoPW3rBEXVbHtLtJBdfFxokdXyycfSc6UphAIQ&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4yLjAifQ%3D%3D)**.**
+**Curious about Radimal?** [Schedule a demo with us to learn more](https://www.radimal.ai/signup/)**.**

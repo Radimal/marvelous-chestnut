@@ -6,9 +6,9 @@ author: ''
 excerpt: Looking to use a teleradiology company or thinking about changing to a new
   company? Read these helpful tips.
 image: "/images/pexels1-2.jpeg"
-image_alt: Business people in a meeting
+image_alt: Dog with stethoscope
 thumb_image: "/images/pexels1-1.jpeg"
-thumb_image_alt: Business people in a meeting
+thumb_image_alt: Dog with stethoscope
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
@@ -103,4 +103,4 @@ Once you have evaluated different companies using the above criteria, you will b
 
 Once you start receiving those reports, remember to ask these questions again. Ask yourself if the reports that you receive are helpful. Are these clear reports that you receive on time. Likely they will be great, as you have done your homework ahead of time.
 
-[Sign up ](https://radimal.us.auth0.com/login?state=g6Fo2SBHdHVuMkp0akVRcXE2SFRXdUhNQVVPVVNjeTg2SEVfTqN0aWTZIHJaVEhmZ3BBNDdoLVVNbHZSdEJPSU1mVHZBaHhtNW9Xo2NpZNkgOUtvVzJpeUpBR0hyZGxEemNLZXd6UTlRWndsdHFycUw&client=9KoW2iyJAGHrdlDzcKewzQ9QZwltqrqL&protocol=oauth2&audience=hasura&redirect_uri=https%3A%2F%2Fvet.radimal.ai%2Fdicom-setup&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=My5JdkV6Q3cwZUlTNXdsbWJuZWF6ODlPMTZhLmJqaHZCZmVIWWxjQk53bQ%3D%3D&code_challenge=QnxFu8FbK2yc1qg4aCK88Aznh5bep7F3D0NsDGfplEc&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4yLjAifQ%3D%3D "Sign up")for Radimal today and let our fast fast and reliable reports help you! 
+[Sign up ](https://radimal.us.auth0.com/login?state=g6Fo2SBHdHVuMkp0akVRcXE2SFRXdUhNQVVPVVNjeTg2SEVfTqN0aWTZIHJaVEhmZ3BBNDdoLVVNbHZSdEJPSU1mVHZBaHhtNW9Xo2NpZNkgOUtvVzJpeUpBR0hyZGxEemNLZXd6UTlRWndsdHFycUw&client=9KoW2iyJAGHrdlDzcKewzQ9QZwltqrqL&protocol=oauth2&audience=hasura&redirect_uri=https%3A%2F%2Fvet.radimal.ai%2Fdicom-setup&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=My5JdkV6Q3cwZUlTNXdsbWJuZWF6ODlPMTZhLmJqaHZCZmVIWWxjQk53bQ%3D%3D&code_challenge=QnxFu8FbK2yc1qg4aCK88Aznh5bep7F3D0NsDGfplEc&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMS4yLjAifQ%3D%3D "Sign up")for Radimal today and let our fast fast and reliable reports help you!
