@@ -128,9 +128,8 @@ seo:
       relativeUrl: false
     - name: 'og:description'
       value: >-
-        Discover veterinary radiology reports powered by AI. Radimal is the new
-        way to read radiographs and support DVMs. Created by a team of
-        veterinarians and software experts.
+        Teleradiology, Redefined. Experience the new AI-powered radiology
+        solution for veterinary teams.
       keyName: name
       relativeUrl: false
     - name: 'og:url'
