@@ -5,7 +5,31 @@ sections:
     template: section_contact
     section_id: contact
     title: Contact
-    content: "\n\nWe love helping practices seeking support with cases being read by a Radimal DACVR\n\nReports typically returned the same day\_\n48-hour turnaround or it’s on us :)\n\n**Reading Hours (EST)**\n\n8am-8pm Monday-Friday\n8am-2pm Saturday\nexcept major holidays\n\nAny case (including STAT) submitted outside of normal working hours will be read the following business day. \n\n\n\n\n\n"
+    content: >
+      We love helping practices seeking support with cases being read by a
+      Radimal DACVR
+
+
+      Reports typically returned the same day
+
+
+      48-hour turnaround or it’s on us :)
+
+
+      **Reading Hours (EST)**
+
+
+      Monday-Friday 8am-8pm
+
+
+      Saturday 8am-2pm Saturday
+
+
+      except major holidays
+
+
+      Any case submitted outside of normal working hours will be read the
+      following business day.
     background: gray
     form_id: contactForm
     form_fields:
