@@ -1,6 +1,5 @@
 ---
 image: ''
-image_alt: Office desk top view
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
