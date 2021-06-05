@@ -22,7 +22,7 @@ sections:
       Monday-Friday 8am-8pm
 
 
-      Saturday 8am-2pm Saturday
+      Saturday 8am-2pm
 
 
       except major holidays
