@@ -80,7 +80,7 @@
                     {
                         "type": "action",
                         "template": "action",
-                        "label": "FAQ",
+                        "label": "FAQs",
                         "url": "/faq",
                         "style": "link",
                         "has_icon": false,
