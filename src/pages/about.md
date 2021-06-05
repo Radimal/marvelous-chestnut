@@ -10,7 +10,7 @@ seo:
   description: Radimal - About Us
   extra:
   - name: og:type
-    value: website
+    value: profile
     keyName: property
     relativeUrl: false
   - name: og:title
