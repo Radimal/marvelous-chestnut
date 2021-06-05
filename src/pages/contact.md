@@ -19,9 +19,11 @@ sections:
       **Reading Hours (EST)**
 
 
-      8am-8pm Monday-Friday
+      Monday-Friday 8am-8pm
 
-      8am-2pm Saturday
+
+      Saturday 8am-2pm Saturday
+
 
       except major holidays
 
