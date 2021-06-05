@@ -14,9 +14,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:title'
-      value: >-
-        Why We Started Radimal (and Why It’s About So Much More Than Radiology
-        Reports)
+      value: Why We Started Radimal
       keyName: property
       relativeUrl: false
     - name: 'og:description'
