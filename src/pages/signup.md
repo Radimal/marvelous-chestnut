@@ -1,5 +1,4 @@
 ---
-subtitle: Schedule a call with us to learn more
 image: ''
 image_alt: Office desk top view
 seo:
