@@ -38,7 +38,7 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:description'
-      value: This is the about page
+      value: Why We Started Radimal
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
