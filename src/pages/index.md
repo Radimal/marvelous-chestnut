@@ -156,6 +156,12 @@ seo:
       value: images/radimalsocial.png
       relativeUrl: true
       keyName: ''
+    - name: 'twitter:description'
+      value: >-
+        Teleradiology, Redefined. Experience the new AI-powered radiology
+        solution for veterinary teams
+      keyName: name
+      relativeUrl: false
   robots: []
 template: landing
 ---
