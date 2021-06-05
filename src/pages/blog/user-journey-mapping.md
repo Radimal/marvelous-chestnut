@@ -1,13 +1,14 @@
 ---
-title: How to Choose the Teleradiology Service That's Right For Your Practice
+title: How to Choose the Teleradiology Service That's Right for Your Practice
 subtitle: ''
-date: 2021-02-15T17:00:00.000+00:00
+date: '2021-02-15T17:00:00.000+00:00'
 author: ''
-excerpt: Looking to use a teleradiology company or thinking about changing to a new
+excerpt: >-
+  Looking to use a teleradiology company or thinking about changing to a new
   company? Read these helpful tips.
-image: "/images/pexels1-2.jpeg"
+image: /images/pexels1-2.jpeg
 image_alt: Dog with stethoscope
-thumb_image: "/images/pexels1-1.jpeg"
+thumb_image: /images/pexels1-1.jpeg
 thumb_image_alt: Dog with stethoscope
 seo:
   type: stackbit_page_meta
@@ -15,41 +16,40 @@ seo:
   title: A Guide To User Journey Mapping
   description: A tale about Journey Mapping
   extra:
-  - name: og:type
-    value: website
-    keyName: property
-    relativeUrl: false
-  - name: og:title
-    value: A Guide To User Journey Mapping
-    keyName: property
-    relativeUrl: false
-  - name: og:description
-    value: A tale about Journey Mapping
-    keyName: property
-    relativeUrl: false
-  - name: og:image
-    value: images/10.jpg
-    keyName: property
-    relativeUrl: true
-  - name: twitter:card
-    value: summary_large_image
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:title
-    value: A Guide To User Journey Mapping
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:description
-    value: A tale about Journey Mapping
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:image
-    value: images/10.jpg
-    relativeUrl: true
-    keyName: ''
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
+    - name: 'og:title'
+      value: A Guide To User Journey Mapping
+      keyName: property
+      relativeUrl: false
+    - name: 'og:description'
+      value: A tale about Journey Mapping
+      keyName: property
+      relativeUrl: false
+    - name: 'og:image'
+      value: images/10.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:title'
+      value: A Guide To User Journey Mapping
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:description'
+      value: A tale about Journey Mapping
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:image'
+      value: images/10.jpg
+      relativeUrl: true
+      keyName: ''
   robots: []
 template: post
-
 ---
 If you work in an emergency or specialty referral hospital you may be lucky enough to work with an in-house radiologist. For the record, everyone else reading this article is jealous of your ability to walk down the hall and get an immediate radiology consult.
 
