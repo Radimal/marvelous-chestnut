@@ -36,7 +36,7 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:description'
-      value: Why We Started Radimal
+      value: (and Why It’s About So Much More Than Radiology Reports)
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
