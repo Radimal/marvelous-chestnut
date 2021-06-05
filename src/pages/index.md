@@ -153,7 +153,7 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
-      value: images/radimalsocial.png
+      value: /_static/app-assets/Radimal%20logo.png
       relativeUrl: true
       keyName: ''
     - name: 'twitter:description'
