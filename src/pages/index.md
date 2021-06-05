@@ -145,7 +145,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /_static/app-assets/Radimal%20Logo%20Square%20150x150.jpg
+      value: /_static/app-assets/logowwhitespace.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
