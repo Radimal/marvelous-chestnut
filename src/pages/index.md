@@ -28,7 +28,7 @@ sections:
         image: /images/feature3_telerad-1.png
       - type: feature_item
         template: feature_item
-        title: Radimal AI Reports Delivered in Minutes
+        title: 'Radimal AI: Reports Delivered in Minutes'
         content: >
           Say hello to fast reports from our AI system that can help inform
           patient treatment for vets of all experience levels. If it looks
