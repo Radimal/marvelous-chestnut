@@ -153,7 +153,7 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
-      value: /_static/app-assets/cool-basil.png
+      value: /_static/app-assets/unique-tulip.png
       relativeUrl: true
       keyName: ''
     - name: 'twitter:description'
