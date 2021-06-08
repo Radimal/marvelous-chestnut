@@ -145,7 +145,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /_static/app-assets/logowwhitespace.png
+      value: /_static/app-assets/oval-hickory.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -153,7 +153,7 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
-      value: /_static/app-assets/cool-basil.png
+      value: /_static/app-assets/unique-tulip.png
       relativeUrl: true
       keyName: ''
     - name: 'twitter:description'
