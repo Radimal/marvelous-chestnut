@@ -39,9 +39,8 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
-      value: >-
-        https://cdn.forestry.io/res2/xQ2MWoFKPpV8jsmqR0-RthN0wYncn95oicaZcj7fzAw/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUmtGWk1IY3dQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNjJj/Yzg3MDM5NzI5YWMy/NjkwNzZhODNjN2My/OTE3NGJhNzk4Mjg4/Yy9sb2dvd3doaXRl/c3BhY2UucG5n
-      relativeUrl: false
+      value: /_static/app-assets/Radimal%20Twitter%20Preview.png
+      relativeUrl: true
       keyName: ''
   robots: []
 template: page
