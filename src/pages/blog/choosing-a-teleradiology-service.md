@@ -2,7 +2,9 @@
 title: How to Choose the Teleradiology Service That's Right for Your Practice
 subtitle: lorem-ipsum
 date: '2021-06-09'
-excerpt: lorem-ipsum
+excerpt: >-
+  Looking to use a teleradiology company or thinking about changing to a new
+  company? Read these helpful tips.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
