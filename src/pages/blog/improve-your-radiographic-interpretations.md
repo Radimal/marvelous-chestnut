@@ -19,6 +19,10 @@ seo:
       value: 7 Easy Tips to Improve Your Radiographic Interpretations
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /_static/app-assets/FB%20Preview%20X-ray.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 date: '2021-04-17'
