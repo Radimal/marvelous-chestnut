@@ -13,7 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-date: '2021-02-09'
+date: '2021-02-19'
 ---
 ## Lorem ipsum
 
