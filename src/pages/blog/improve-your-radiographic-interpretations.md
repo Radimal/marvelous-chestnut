@@ -5,7 +5,6 @@ excerpt: >-
   interpreting your practice’s radiographs.
 seo:
   title: 7 Easy Tips to Improve Your Radiographic Interpretations
-  description: lorem-ipsum
   robots: []
   extra: []
   type: stackbit_page_meta
