@@ -5,7 +5,7 @@ title: >-
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
-  title: lorem-ipsum
+  title: Why We Started Radimal
   description: lorem-ipsum
   robots: []
   extra: []
