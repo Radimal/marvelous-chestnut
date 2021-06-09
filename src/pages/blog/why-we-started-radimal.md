@@ -2,8 +2,6 @@
 title: >-
   Why We Started Radimal (and Why It’s About So Much More Than Radiology
   Reports)
-image_alt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
 seo:
   title: Why We Started Radimal
   robots: []
