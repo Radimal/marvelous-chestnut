@@ -1,7 +1,9 @@
 ---
 title: 7 Easy Tips to Improve Your Radiographic Interpretations
 subtitle: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Here are a few tips to help ensure you are set up for success when
+  interpreting your practice’s radiographs.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
