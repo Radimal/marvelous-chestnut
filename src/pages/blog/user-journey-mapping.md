@@ -24,10 +24,6 @@ seo:
       value: How to Choose the Teleradiology Service That's Right for Your Practice
       keyName: property
       relativeUrl: false
-    - name: 'og:description'
-      value: A tale about Journey Mapping
-      keyName: property
-      relativeUrl: false
     - name: 'og:image'
       value: images/10.jpg
       keyName: property
