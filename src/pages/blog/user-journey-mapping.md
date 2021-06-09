@@ -13,40 +13,33 @@ thumb_image_alt: Dog with stethoscope
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: A Guide To User Journey Mapping
-  description: A tale about Journey Mapping
+  title: How to Choose the Teleradiology Service That's Right for Your Practice
   extra:
     - name: 'og:type'
-      value: website
+      value: article
       keyName: property
       relativeUrl: false
     - name: 'og:title'
-      value: A Guide To User Journey Mapping
-      keyName: property
-      relativeUrl: false
-    - name: 'og:description'
-      value: A tale about Journey Mapping
+      value: How to Choose the Teleradiology Service That's Right for Your Practice
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: images/10.jpg
+      value: >-
+        https://cdn.forestry.io/res2/T3_cgw4ZrvNxha0Rnky_QKTEpkfaouXg9ThWT-1fLAY/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUlVaYUwxRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMzdj/NDI3MThkM2VmY2Y1/NmY5YzJlZmFhZjMy/ZGE2Y2U0ODhjOTQw/Ni9wZXhlbHMxLmpw/ZWc
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
       keyName: ''
       relativeUrl: false
     - name: 'twitter:title'
-      value: A Guide To User Journey Mapping
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:description'
-      value: A tale about Journey Mapping
+      value: How to Choose the Teleradiology Service That's Right for Your Practice
       keyName: ''
       relativeUrl: false
     - name: 'twitter:image'
-      value: images/10.jpg
-      relativeUrl: true
+      value: >-
+        https://cdn.forestry.io/res2/T3_cgw4ZrvNxha0Rnky_QKTEpkfaouXg9ThWT-1fLAY/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUlVaYUwxRnZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMzdj/NDI3MThkM2VmY2Y1/NmY5YzJlZmFhZjMy/ZGE2Y2U0ODhjOTQw/Ni9wZXhlbHMxLmpw/ZWc
+      relativeUrl: false
       keyName: ''
   robots: []
 template: post
