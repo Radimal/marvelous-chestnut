@@ -16,6 +16,10 @@ seo:
       value: article
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Why We Started Radimal
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 date: '2021-05-24'
