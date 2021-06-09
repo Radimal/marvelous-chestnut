@@ -1,7 +1,6 @@
 ---
 title: 7 Easy Tips to Improve Your Radiographic Interpretations
 subtitle: lorem-ipsum
-date: '2021-06-09'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
