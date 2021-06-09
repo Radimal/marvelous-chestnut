@@ -8,7 +8,11 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: How to Choose the Teleradiology Service That's Right for Your Practice
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: How to Choose the Teleradiology Service That's Right for Your Practice
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 date: '2021-02-19'
