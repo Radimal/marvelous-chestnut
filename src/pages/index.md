@@ -94,7 +94,7 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: Get started Free for 30 Days
+    title: 'Get started: Free for 30 days'
     subtitle: Receive your first report in minutes with one quick setup call
     actions:
       - type: action
