@@ -1,7 +1,6 @@
 ---
 title: Why We Started Radimal
 subtitle: (and Why It’s About So Much More Than Radiology Reports)
-date: '2021-06-09'
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
