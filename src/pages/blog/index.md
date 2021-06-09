@@ -14,5 +14,9 @@ seo:
       value: Blog - Radimal.ai
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 ---
