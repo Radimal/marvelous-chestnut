@@ -13,6 +13,10 @@ seo:
       value: How to Choose the Teleradiology Service That's Right for Your Practice
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 date: '2021-02-19'
