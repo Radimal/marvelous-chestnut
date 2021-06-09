@@ -75,10 +75,10 @@ sections:
         avatar: /images/carieguise.png
         avatar_alt: Carey Guise
         content: >-
-          I was surprised at how fast it was. and the techs didn't even have to
+          I was surprised at how fast it was and the techs didn't even have to
           do anything additional. Whether you already use teleradiology or not,
-          Radimal reports are so immediate. You want to talk about results in
-          the office while the patient is there, in real time, and now you can.
+          Radimal reports are so immediate. I want to discuss results in the
+          office while the patient is there, in real time, and now I can.
       - type: review_item
         template: review_item
         author: 'Andrew Weissman, VMD, DACVR  Co-founder of Radimal'
