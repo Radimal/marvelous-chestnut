@@ -24,6 +24,10 @@ seo:
       value: (and Why It’s About So Much More Than Radiology Reports)
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: (and Why It’s About So Much More Than Radiology Reports)
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 date: '2021-05-24'
