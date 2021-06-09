@@ -2,7 +2,7 @@
 title: Blog
 template: blog
 seo:
-  title: lorem-ipsum
+  title: Blog - Radimal.ai
   description: lorem-ipsum
   robots: []
   extra: []
