@@ -164,6 +164,10 @@ seo:
         solution for veterinary teams
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Radimal - Smart Tools for Happy Vets
+      keyName: name
+      relativeUrl: false
   robots: []
 template: landing
 ---
