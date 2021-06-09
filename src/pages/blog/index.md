@@ -23,5 +23,9 @@ seo:
         https://cdn.forestry.io/res2/ccCC1OWNEFJVQJ5VuzQJbfJtyCwEwKt3rT0lGGQZNV8/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUW10T05rRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNjMy/MGRkMzg1NjgwODQ1/ZTE1Y2MzOTQ3NDMx/MGQ3YzJhMDViYzY1/NC9SYWRpbWFsJTIw/VHdpdHRlciUyMFBy/ZXZpZXcucG5n
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Blog - Radimal.ai
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 ---
