@@ -27,6 +27,10 @@ seo:
       value: /_static/app-assets/Twitter%20Preview%20X-ray.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 date: '2021-04-17'
