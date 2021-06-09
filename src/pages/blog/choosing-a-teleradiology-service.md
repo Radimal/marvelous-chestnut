@@ -6,7 +6,7 @@ excerpt: >-
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
-  title: lorem-ipsum
+  title: How to Choose the Teleradiology Service That's Right for Your Practice
   description: lorem-ipsum
   robots: []
   extra: []
