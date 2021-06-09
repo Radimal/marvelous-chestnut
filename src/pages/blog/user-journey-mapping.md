@@ -17,7 +17,7 @@ seo:
   description: A tale about Journey Mapping
   extra:
     - name: 'og:type'
-      value: website
+      value: article
       keyName: property
       relativeUrl: false
     - name: 'og:title'
