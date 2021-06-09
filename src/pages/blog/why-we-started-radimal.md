@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Why We Started Radimal
 subtitle: lorem-ipsum
 date: '2021-06-09'
 excerpt: lorem-ipsum
