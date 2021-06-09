@@ -66,7 +66,7 @@ sections:
         avatar_alt: Jamie Laity
         content: >-
           It's great to have that peace of mind to know that Radimal is
-          verifying that something is normal or not. That's every vet's greatest
+          verifying if something is normal or not. That's every vet's greatest
           fear - that you're missing something. Radimal helps me know that we're
           giving the best possible medicine to our patients.
       - type: review_item
