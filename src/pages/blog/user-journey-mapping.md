@@ -13,7 +13,7 @@ thumb_image_alt: Dog with stethoscope
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: A Guide To User Journey Mapping
+  title: How to Choose the Teleradiology Service That's Right for Your Practice
   description: A tale about Journey Mapping
   extra:
     - name: 'og:type'
