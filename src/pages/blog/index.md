@@ -27,5 +27,9 @@ seo:
       value: Blog - Radimal.ai
       keyName: name
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 ---
