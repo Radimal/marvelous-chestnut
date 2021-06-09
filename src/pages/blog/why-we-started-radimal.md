@@ -10,6 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+date: '2021-05-23'
 ---
 Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).
 
