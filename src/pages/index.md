@@ -63,7 +63,7 @@ sections:
         template: review_item
         author: 'Jamie Laity, DVM    Owner of Harbor Point Animal Hospital'
         avatar: /images/jamielaity.png
-        avatar_alt: Eric Widget's photo
+        avatar_alt: Jamie Laity
         content: >-
           It's great to have that peace of mind to know that Radimal is
           verifying that something is normal or not. That's every vet's greatest
