@@ -1,6 +1,6 @@
 ---
 title: Why We Started Radimal
-subtitle: (And Why It’s About So Much More Than Radiology Reports)
+subtitle: (and Why It’s About So Much More Than Radiology Reports)
 image: ''
 image_alt: ''
 seo:
