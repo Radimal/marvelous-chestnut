@@ -161,7 +161,7 @@ seo:
     - name: 'twitter:description'
       value: >-
         Teleradiology, Redefined. Experience the new AI-powered radiology
-        solution for veterinary teams
+        solution for veterinary teams.
       keyName: name
       relativeUrl: false
     - name: 'twitter:title'
