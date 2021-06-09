@@ -43,8 +43,6 @@ Here are two great textbooks to help your interpretations:
 #### ![](https://preview--marvelous-chestnut-1649c.stackbit.dev/images/atlas.jpg)
 
 > [Atlas of Normal Radiographic Anatomy & Anatomic Variants](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr\_1\_2?dchild=1\&keywords=thrall+normal+radiographic+anatomy\&qid=1613996919\&sr=8-2)
->
->
 
 ## ![](https://preview--marvelous-chestnut-1649c.stackbit.dev/images/coulson.jpg)
 
