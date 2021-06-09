@@ -33,7 +33,7 @@ seo:
       keyName: ''
       relativeUrl: false
     - name: 'twitter:title'
-      value: A Guide To User Journey Mapping
+      value: How to Choose the Teleradiology Service That's Right for Your Practice
       keyName: ''
       relativeUrl: false
     - name: 'twitter:description'
