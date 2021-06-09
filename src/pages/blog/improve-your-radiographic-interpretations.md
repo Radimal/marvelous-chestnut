@@ -6,7 +6,11 @@ excerpt: >-
 seo:
   title: 7 Easy Tips to Improve Your Radiographic Interpretations
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: 7 Easy Tips to Improve Your Radiographic Interpretations
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 date: '2021-04-17'
