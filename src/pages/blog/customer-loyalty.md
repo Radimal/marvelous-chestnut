@@ -1,57 +1,61 @@
 ---
 title: 7 Easy Tips to Improve Your Radiographic Interpretations
 subtitle: ''
-date: 2021-02-23T15:00:00.000+00:00
+date: '2021-02-23T15:00:00.000+00:00'
 author: ''
-excerpt: Easy tips that everyone can do to improve
-image: "/images/2yo-nm-dsh0001.jpg"
+excerpt: >-
+  Here are a few tips to help ensure you are set up for success when
+  interpreting your practice’s radiographs
+image: /images/2yo-nm-dsh0001.jpg
 image_alt: Right lateral abdominal radiograph of a cat
-thumb_image: "/images/2yo-nm-dsh0001.jpg"
+thumb_image: /images/2yo-nm-dsh0001.jpg
 thumb_image_alt: Right lateral abdominal radiograph of a cat
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Customer Loyalty Programs That Stick
-  description: A story about customer loyalty curabitur sed consectetur nisi. Integer
-    sit amet commodo massa.
+  description: >-
+    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
+    amet commodo massa.
   extra:
-  - name: og:type
-    value: website
-    keyName: property
-    relativeUrl: false
-  - name: og:title
-    value: Customer Loyalty Programs That Stick
-    keyName: property
-    relativeUrl: false
-  - name: og:description
-    value: A story about customer loyalty curabitur sed consectetur nisi. Integer
-      sit amet commodo massa.
-    keyName: property
-    relativeUrl: false
-  - name: og:image
-    value: images/3.jpg
-    keyName: property
-    relativeUrl: true
-  - name: twitter:card
-    value: summary_large_image
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:title
-    value: Customer Loyalty Programs That Stick
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:description
-    value: A story about customer loyalty curabitur sed consectetur nisi. Integer
-      sit amet commodo massa.
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:image
-    value: images/3.jpg
-    relativeUrl: true
-    keyName: ''
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
+    - name: 'og:title'
+      value: Customer Loyalty Programs That Stick
+      keyName: property
+      relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        A story about customer loyalty curabitur sed consectetur nisi. Integer
+        sit amet commodo massa.
+      keyName: property
+      relativeUrl: false
+    - name: 'og:image'
+      value: images/3.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:title'
+      value: Customer Loyalty Programs That Stick
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        A story about customer loyalty curabitur sed consectetur nisi. Integer
+        sit amet commodo massa.
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:image'
+      value: images/3.jpg
+      relativeUrl: true
+      keyName: ''
   robots: []
 template: post
-
 ---
 > No radiologist on staff? Teleradiology report taking too long to get back? Fluffy’s owner wants to know NOW if he needs emergency surgery?
 >
