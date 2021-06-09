@@ -49,6 +49,7 @@ excerpt: >-
   difference in the lives, workload, and mental health of veterinary
   professionals.
 thumb_image: /images/I Am a Doctor Blog Feed.png
+thumb_image_alt: I actually am a doctor
 ---
 Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).
 
