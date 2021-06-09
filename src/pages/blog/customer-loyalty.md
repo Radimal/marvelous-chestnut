@@ -5,7 +5,7 @@ date: '2021-02-23T15:00:00.000+00:00'
 author: ''
 excerpt: >-
   Here are a few tips to help ensure you are set up for success when
-  interpreting your practice’s radiographs
+  interpreting your practice’s radiographs.
 image: /images/2yo-nm-dsh0001.jpg
 image_alt: Right lateral abdominal radiograph of a cat
 thumb_image: /images/2yo-nm-dsh0001.jpg
