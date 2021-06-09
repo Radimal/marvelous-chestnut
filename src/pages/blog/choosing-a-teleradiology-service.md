@@ -29,6 +29,10 @@ seo:
       value: /_static/app-assets/FB%20dog%20preview.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /_static/app-assets/Twitter%20dog%20preview.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 date: '2021-02-19'
