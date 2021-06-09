@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to Choose the Teleradiology Service That's Right for Your Practice
 subtitle: lorem-ipsum
 date: '2021-06-09'
 excerpt: lorem-ipsum
