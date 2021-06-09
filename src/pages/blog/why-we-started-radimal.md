@@ -15,7 +15,6 @@ excerpt: >-
   Radimal recently launched in 2020, and we’re looking forward to making a real
   difference in the lives, workload, and mental health of veterinary
   professionals.
-image: /images/giphy.gif
 ---
 Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).
 
