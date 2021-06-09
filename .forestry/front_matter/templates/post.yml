@@ -60,7 +60,6 @@ fields:
     config:
       required: true
 pages:
-  - src/pages/blog/user-journey-mapping.md
   - src/pages/blog/working-from-home.md
   - src/pages/blog/why-we-started-radimal.md
   - src/pages/blog/improve-your-radiographic-interpretations.md
