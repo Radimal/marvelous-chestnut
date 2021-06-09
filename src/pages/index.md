@@ -66,7 +66,7 @@ sections:
         avatar_alt: Jamie Laity
         content: >-
           It's great to have that peace of mind to know that Radimal is
-          verifying that something is normal or not. That's every vet's greatest
+          verifying if something is normal or not. That's every vet's greatest
           fear - that you're missing something. Radimal helps me know that we're
           giving the best possible medicine to our patients.
       - type: review_item
@@ -75,10 +75,10 @@ sections:
         avatar: /images/carieguise.png
         avatar_alt: Carey Guise
         content: >-
-          I was surprised at how fast it was. and the techs didn't even have to
+          I was surprised at how fast it was and the techs didn't even have to
           do anything additional. Whether you already use teleradiology or not,
-          Radimal reports are so immediate. You want to talk about results in
-          the office while the patient is there, in real time, and now you can.
+          Radimal reports are so immediate. I want to discuss results in the
+          office while the patient is there, in real time, and now I can.
       - type: review_item
         template: review_item
         author: 'Andrew Weissman, VMD, DACVR  Co-founder of Radimal'
@@ -94,7 +94,7 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: Get started Free for 30 Days
+    title: 'Get Started: Free for 30 Days'
     subtitle: Receive your first report in minutes with one quick setup call
     actions:
       - type: action
