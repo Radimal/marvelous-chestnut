@@ -7,7 +7,11 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: Why We Started Radimal
   robots: []
-  extra: []
+  extra:
+    - name: 'twitter:title'
+      value: Why We Started Radimal
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 date: '2021-05-24'
