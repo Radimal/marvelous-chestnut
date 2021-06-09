@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 date: '2021-02-19'
+image: /images/pexels.png
 ---
 If you work in an emergency or specialty referral hospital you may be lucky enough to work with an in-house radiologist. For the record, everyone else reading this article is jealous of your ability to walk down the hall and get an immediate radiology consult.
 
