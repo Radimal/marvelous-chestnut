@@ -20,6 +20,10 @@ seo:
       value: Why We Started Radimal
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: (and Why It’s About So Much More Than Radiology Reports)
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 date: '2021-05-24'
