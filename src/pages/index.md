@@ -63,7 +63,7 @@ sections:
         template: review_item
         author: 'Jamie Laity, DVM    Owner of Harbor Point Animal Hospital'
         avatar: /images/jamielaity.png
-        avatar_alt: Eric Widget's photo
+        avatar_alt: Jamie Laity
         content: >-
           It's great to have that peace of mind to know that Radimal is
           verifying that something is normal or not. That's every vet's greatest
@@ -83,7 +83,7 @@ sections:
         template: review_item
         author: 'Andrew Weissman, VMD, DACVR  Co-founder of Radimal'
         avatar: /images/weissman-andy_233cr-3.jpg
-        avatar_alt: Andrew Weissman's Photo
+        avatar_alt: Andrew Weissman
         content: >-
           Before co-founding Radimal I was aware of the growing use of AI in our
           industry but didn't fully appreciate its impact and benefit to patient

@@ -1,65 +1,45 @@
 ---
 title: 7 Easy Tips to Improve Your Radiographic Interpretations
-subtitle: ''
-date: '2021-02-23T15:00:00.000+00:00'
-author: ''
 excerpt: >-
   Here are a few tips to help ensure you are set up for success when
   interpreting your practice’s radiographs.
-image: /images/2yo-nm-dsh0001.jpg
-image_alt: Right lateral abdominal radiograph of a cat
-thumb_image: /images/2yo-nm-dsh0001.jpg
-thumb_image_alt: Right lateral abdominal radiograph of a cat
 seo:
-  type: stackbit_page_meta
-  template: stackbit_page_meta
-  title: Customer Loyalty Programs That Stick
-  description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+  title: 7 Easy Tips to Improve Your Radiographic Interpretations
+  robots: []
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-      relativeUrl: false
     - name: 'og:title'
-      value: Customer Loyalty Programs That Stick
+      value: 7 Easy Tips to Improve Your Radiographic Interpretations
       keyName: property
       relativeUrl: false
-    - name: 'og:description'
-      value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
+    - name: 'og:type'
+      value: article
       keyName: property
+      relativeUrl: false
+    - name: 'twitter:title'
+      value: 7 Easy Tips to Improve Your Radiographic Interpretations
+      keyName: name
       relativeUrl: false
     - name: 'og:image'
-      value: images/3.jpg
+      value: /_static/app-assets/FB%20Preview%20X-ray.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
+      value: /_static/app-assets/Twitter%20Preview%20X-ray.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-      keyName: ''
+      keyName: name
       relativeUrl: false
-    - name: 'twitter:title'
-      value: Customer Loyalty Programs That Stick
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:description'
-      value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:image'
-      value: images/3.jpg
-      relativeUrl: true
-      keyName: ''
-  robots: []
+  type: stackbit_page_meta
 template: post
+date: '2021-04-17'
+image: /images/2yo-nm-dsh0001.jpg
+image_alt: animal x-ray
+thumb_image_alt: animal x-ray
+thumb_image: /images/2yo-nm-dsh0001.jpg
 ---
-> No radiologist on staff? Teleradiology report taking too long to get back? Fluffy’s owner wants to know NOW if he needs emergency surgery?
->
-> Here are a few tips to help ensure you are set up for success when interpreting your practice’s radiographs:
+No radiologist on staff? Teleradiology report taking too long to get back? Fluffy’s owner wants to know NOW if he needs emergency surgery? Here are a few tips to help ensure you are set up for success when interpreting your practice’s radiographs:
 
 ## **1. Turn down the lights**
 
@@ -81,25 +61,22 @@ So, you found the fracture you were expecting based on your PE but missed the no
 
 Take some time to make a log of cases to refer back to. Writing down cases that have clear diagnoses or ones that initially stumped you so that you can compare them to radiographs from a different patient in the future can save you time and help you feel more confident in your assessment. Young dogs with open physes are always good ones to save for comparison at a later date.
 
-> 
-
 ## **6. Practice, practice, practice!**
 
 Nothing can take the place of experience. Invest in a good atlas (see above) and look through it. Learn from your colleagues' cases or attend a radiology CE.  Even if you send your radiographs out to a teleradiologist, take the time to interpret them yourself before sending them, and then check to see if you were correct. Radiology is mostly about pattern recognition. The more you see, the more you know!
 
 Here are two great textbooks to help your interpretations:
 
-#### ![](/images/atlas.jpg)
+#### ![](https://preview--marvelous-chestnut-1649c.stackbit.dev/images/atlas.jpg)
 
-> [Atlas of Normal Radiographic Anatomy & Anatomic Variants](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr_1_2?dchild=1&keywords=thrall+normal+radiographic+anatomy&qid=1613996919&sr=8-2 "Atlas of Normal Radiographic Anatomy & Anatomic Variants")  
-> This is not your textbook from vet school. This is an atlas that shows not only normal radiographs but also common variations that are often mistaken for abnormalities. It’s an amazing reference.
+> [Atlas of Normal Radiographic Anatomy & Anatomic Variants](https://www.amazon.com/Radiographic-Anatomic-Variants-Robertson-2010-12-21/dp/B01JNZZWF0/ref=sr\_1\_2?dchild=1\&keywords=thrall+normal+radiographic+anatomy\&qid=1613996919\&sr=8-2)
 
-## ![](/images/coulson.jpg)
+## ![](https://preview--marvelous-chestnut-1649c.stackbit.dev/images/coulson.jpg)
 
-> [Atlas of Interpretive Radiographic Anatomy](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr_1_1?dchild=1&keywords=thrall+radiograph&qid=1613996619&sr=8-1 "Atlas of Interpretive Radiographic Anatomy")
+> [Atlas of Interpretive Radiographic Anatomy](https://www.amazon.com/Atlas-Interpretative-Radiographic-Anatomy-Dog/dp/1405138998/ref=sr\_1\_1?dchild=1\&keywords=thrall+radiograph\&qid=1613996619\&sr=8-1)
 >
 > This book is particularly helpful in showing normal anatomy in juvenile patients at various ages.  For example, have a limping 16-week-old puppy and you’re not sure what the elbow should look like? Could that opacity be a normal thymus? This is your text!
 
 ## **7.** **Have Radimal read your radiographs for you**
 
-Whether it's Radimal teleradiology or the Radimal AI reporting, your job is to work with a radiogrpahic interpretation to diagnose and treat your patient. Save yourself the interpretation time and let us help you get your patient the treatment they need.
+Whether it's Radimal teleradiology or the Radimal AI reporting, your job is to work with a radiographic interpretation to diagnose and treat your patient. Save yourself the interpretation time and let us help you get your patient the treatment they need.
