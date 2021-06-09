@@ -36,6 +36,7 @@ template: post
 date: '2021-04-17'
 image: /images/2yo-nm-dsh0001.jpg
 image_alt: animal x-ray
+thumb_image_alt: animal x-ray
 ---
 No radiologist on staff? Teleradiology report taking too long to get back? Fluffy’s owner wants to know NOW if he needs emergency surgery? Here are a few tips to help ensure you are set up for success when interpreting your practice’s radiographs:
 
