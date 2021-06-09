@@ -21,7 +21,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:title'
-      value: A Guide To User Journey Mapping
+      value: How to Choose the Teleradiology Service That's Right for Your Practice
       keyName: property
       relativeUrl: false
     - name: 'og:description'
