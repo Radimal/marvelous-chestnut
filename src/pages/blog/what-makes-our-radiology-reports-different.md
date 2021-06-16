@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2021-06-16'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: sample Radimal report
 seo:
   title: What Makes Our Radiology Reports Different
   robots: []
