@@ -17,6 +17,10 @@ seo:
       value: article
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: What Makes Our Radiology Reports Different
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
