@@ -62,9 +62,9 @@ Those statistics are alarming, and they bring us right to the heart of why we st
 
 Radimal provides solutions for the numerous radiology problems that veterinarians encounter. We’re sure at least one of these scenarios sounds familiar:
 
-* You’re a general practitioner who takes X-rays in-house and needs to review them yourself, even though you may have limited radiology training
-* You send X-rays to a teleradiology company, but they’re backlogged and you can’t get the reports you need until days (or even weeks) later
-* You feel like you’re shooting in the dark with X-rays, and it’s having an impact not only on your patient care but also your mental health and stress levels
+*   You’re a general practitioner who takes X-rays in-house and needs to review them yourself, even though you may have limited radiology training
+*   You send X-rays to a teleradiology company, but they’re backlogged and you can’t get the reports you need until days (or even weeks) later
+*   You feel like you’re shooting in the dark with X-rays, and it’s having an impact not only on your patient care but also your mental health and stress levels
 
 Radimal builds software that uses artificial intelligence (AI) to analyze X-rays and provide radiology reports within minutes (not days).
 
@@ -100,4 +100,4 @@ Radimal recently launched in 2020, and we’re looking forward to making a real 
 
 While these problems don’t have quick or easy solutions, we’re thrilled to be a part of taking a step in the right direction toward happier vets and healthier pets.
 
-**Curious about Radimal?** [Schedule a demo with us to learn more](https://www.radimal.ai/signup/)**.**
+**Curious about Radimal?** [Schedule a demo with us to learn more](https://www.radimal.ai/signup?utm_source=blog)**.**
