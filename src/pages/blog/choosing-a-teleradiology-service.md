@@ -91,4 +91,4 @@ Once you have evaluated different companies using the above criteria, you will b
 
 Once you start receiving those reports, remember to ask these questions again. Ask yourself if the reports that you receive are helpful. Are these clear reports that you receive on time. Likely they will be great, as you have done your homework ahead of time.
 
-[Sign up](https://www.radimal.ai/signup/) for Radimal today and let our fast fast and reliable reports help you!
+[Sign up](https://www.radimal.ai/signup?utm_source=blog) for Radimal today and let our fast fast and reliable reports help you!
