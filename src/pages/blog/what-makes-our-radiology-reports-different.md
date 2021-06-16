@@ -6,7 +6,7 @@ excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
-  title: lorem-ipsum
+  title: What Makes Our Radiology Reports Different
   description: lorem-ipsum
   robots: []
   extra: []
