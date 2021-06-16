@@ -13,6 +13,10 @@ seo:
       value: What Makes Our Radiology Reports Different
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
