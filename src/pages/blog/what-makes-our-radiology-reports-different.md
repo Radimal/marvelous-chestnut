@@ -1,6 +1,5 @@
 ---
 title: What Makes Our Radiology Reports Different
-subtitle: lorem-ipsum
 date: '2021-06-16'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
