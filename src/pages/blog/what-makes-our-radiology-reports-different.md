@@ -21,6 +21,10 @@ seo:
       value: What Makes Our Radiology Reports Different
       keyName: name
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
