@@ -25,7 +25,7 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'og:image'
-      value: /_static/app-assets/FB%20report%20preview.png
+      value: /_static/app-assets/FB%20report%20preview%202.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
