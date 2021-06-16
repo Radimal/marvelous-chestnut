@@ -90,4 +90,4 @@ A value-packed radiology report isn’t one that’s pages long. Instead, it’s
 
 That’s what we kept in mind when creating Radimal and our reports. You deserve accuracy, clarity, and peace of mind—and it doesn’t take walls of text to make that happen. 
 
-Ready to see for yourself why Radimal is different? [**Schedule a demo with us to learn more**](https://www.radimal.ai/signup).
+Ready to see for yourself why Radimal is different? [**Schedule a demo with us to learn more**](https://www.radimal.ai/signup?utm_source=blog).
