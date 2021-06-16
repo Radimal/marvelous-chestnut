@@ -1,7 +1,7 @@
 ---
 title: What Makes Our Radiology Reports Different
 date: '2021-06-16'
-excerpt: lorem-ipsum
+excerpt: "We don’t believe that a longer report is a better report. A shorter, more concise, and more targeted report gets you the information you need right away so you can spend less time reading and more time treating your patients.\_"
 image_alt: lorem-ipsum
 thumb_image_alt: sample Radimal report
 seo:
