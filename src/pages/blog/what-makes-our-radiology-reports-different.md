@@ -48,7 +48,7 @@ Sound familiar? It’s a common complaint among vets, and it’s exactly why we 
 
 We don’t believe that a longer report is a better report. A shorter, more concise, and more targeted report gets you the information you need right away so you can spend less time reading and more time treating your patients.
 
-![](https://cdn.forestry.io/res2/hZ0vJtgdX06bXHkNT3FF4XkXMoBaEPrF8yEryQ1BgOE/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDU3pNeVRGRTBQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZjFi/NGY2MWZmNzYyZTVk/YWQ2MzY0ZjkwYjAw/MDI2ZTBhYWFhNWZm/Mi9TaW1wbGUlMjBH/SUYuZ2lm)
+![](/\_static/app-assets/Creek%20simple.gif)
 
 So, what can you expect to see in our radiology reports? Here’s a quick look at what each one has: 
 
