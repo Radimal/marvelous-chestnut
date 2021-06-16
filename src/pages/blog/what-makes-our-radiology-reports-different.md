@@ -35,6 +35,7 @@ seo:
       relativeUrl: true
   type: stackbit_page_meta
 template: post
+thumb_image: /images/Blog feed preview.png
 ---
 ## Lorem ipsum
 
