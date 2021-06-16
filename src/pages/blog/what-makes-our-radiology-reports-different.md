@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
   type: stackbit_page_meta
 template: post
-thumb_image: /images/Blog feed preview.png
+thumb_image: /images/Blog feed report 2.png
 ---
 Imagine that you have a patient—let’s say it’s a dog—that has been experiencing persistent vomiting. You take some rads in-house and then send them out to a teleradiology company to get an idea of what’s going on. 
 
