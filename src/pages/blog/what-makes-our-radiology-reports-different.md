@@ -8,7 +8,11 @@ thumb_image_alt: lorem-ipsum
 seo:
   title: What Makes Our Radiology Reports Different
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: What Makes Our Radiology Reports Different
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
