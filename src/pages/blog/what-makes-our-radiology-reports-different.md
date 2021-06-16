@@ -25,6 +25,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /_static/app-assets/FB%20report%20preview.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 ---
