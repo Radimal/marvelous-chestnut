@@ -9,16 +9,7 @@ sections:
       ### Experience the new AI-powered radiology solution for veterinary teams
     image: /images/cat-dog.png
     image_alt: animals
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: section_features
     template: section_features
     section_id: features
