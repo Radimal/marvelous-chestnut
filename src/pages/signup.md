@@ -33,5 +33,7 @@ seo:
   robots: []
 template: page
 title: Contact Us
-subtitle: 'Ready to learn more? Setup 15 minutes to '
+subtitle: >-
+  Ready to learn more? Setup 15 minutes to have your questions answered and see
+  a demo
 ---
