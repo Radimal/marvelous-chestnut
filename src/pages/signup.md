@@ -33,5 +33,5 @@ seo:
   robots: []
 template: page
 title: Contact Us
-subtitle: Ready to learn more? Setup a 15 minute info call
+subtitle: Ready to learn more? Schedule a 15 minute info call
 ---
