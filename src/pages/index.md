@@ -17,7 +17,7 @@ sections:
     subtitle: ''
     background: gray
     features:
-      - title: "STAT Reports\_ with Guaranteed Turnaround"
+      - title: "STAT and 48Hour Reports\_ with Guaranteed Turnaround"
         content: >
           Choose from 1Hour, 2Hour, and 48Hour - once you submit, your
           turnaround time is guaranteed. Easy to read, delivered directly to
