@@ -17,7 +17,7 @@ sections:
     subtitle: ''
     background: gray
     features:
-      - title: 'Guaranteed 1Hour + 2Hour STAT, and 48Hour Consults'
+      - title: STAT Reports now available.
         content: >-
           Easy to read, delivered directly to your email and Radimal Cases
           Dashboard. Quickly request a Full Consult for any patient or share
