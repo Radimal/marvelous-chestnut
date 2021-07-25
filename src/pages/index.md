@@ -17,11 +17,11 @@ sections:
     subtitle: ''
     background: gray
     features:
-      - title: 'Full Consult Reports in 48 Hours, Guaranteed'
-        content: >-
-          Easy to read, delivered directly to your email and Radimal Cases
-          Dashboard. Quickly request a Full Consult for any patient or share
-          with clients.
+      - title: 'STAT Reports now available, with guaranteed turnaround.'
+        content: >
+          Choose from 1Hour, 2Hour, and 48Hour. Easy to read, delivered directly
+          to your email and Radimal Cases Dashboard. Quickly request a Full
+          Consult for any patient or share with clients.
         image_alt: Radimal radiology report
         actions: []
         type: feature_item
