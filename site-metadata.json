@@ -12,7 +12,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Schedule Demo",
+                "label": "Contact Us",
                 "url": "/signup",
                 "style": "link",
                 "has_icon": false,
