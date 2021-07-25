@@ -32,5 +32,5 @@ seo:
       relativeUrl: false
   robots: []
 template: page
-title: Learn More - Radimal
+title: Contact Us - Radimal
 ---
