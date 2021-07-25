@@ -17,7 +17,7 @@ sections:
     subtitle: ''
     background: gray
     features:
-      - title: STAT Reports now available.
+      - title: 'STAT Reports now available, guaranteed.'
         content: >-
           Easy to read, delivered directly to your email and Radimal Cases
           Dashboard. Quickly request a Full Consult for any patient or share
