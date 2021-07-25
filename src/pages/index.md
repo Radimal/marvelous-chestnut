@@ -19,10 +19,10 @@ sections:
     features:
       - title: STAT Reports with Guaranteed Turnaround
         content: >
-          Choose from 1Hour, 2Hour, and 48Hour - once you submit your turnaround
-          time is guaranteed. Easy to read, delivered directly to your email and
-          Radimal Cases Dashboard. Quickly request a Full Consult for any
-          patient or share with clients.
+          Choose from 1Hour, 2Hour, and 48Hour - once you submit, your
+          turnaround time is guaranteed. Easy to read, delivered directly to
+          your email and Radimal Cases Dashboard. Quickly request a Full Consult
+          for any patient or share with clients.
         image_alt: Radimal radiology report
         actions: []
         type: feature_item
