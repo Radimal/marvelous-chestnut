@@ -28,7 +28,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: AI-Enabled
-        subtitle: AI-Enable Your Practice
+        subtitle: Welcome to the future
         price: $199/m
         details: |
           *   Ulimited AI screening for all patients
