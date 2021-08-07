@@ -49,11 +49,9 @@ sections:
         title: Enterprise
         subtitle: For very large businesses
         price: Custom
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: >
+          *   Contact us for practices and organizations with more than 10
+          doctors
         actions:
           - type: action
             template: action
