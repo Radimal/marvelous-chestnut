@@ -118,7 +118,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
-    pricing_plans:
+    pricing_plans: [
       - type: pricing_plan
         template: pricing_plan
         title: Basic
