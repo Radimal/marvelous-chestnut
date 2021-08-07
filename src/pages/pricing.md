@@ -28,7 +28,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Professional
-        subtitle: AI-Enable Your Practices
+        subtitle: AI-Enable Your Practice
         price: $199/m
         details: |
           *   Ulimited AI screening for all patients
