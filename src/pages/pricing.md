@@ -47,7 +47,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Enterprise
-        subtitle: For very large businesses
+        subtitle: For larger organizations
         price: Custom
         details: >
           *   Contact us for practices and organizations with more than 10
