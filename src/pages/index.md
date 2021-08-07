@@ -119,7 +119,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-              - type: pricing_plan
+      - type: pricing_plan
         template: pricing_plan
         title: Basic
         subtitle: Get the Reports You Need
