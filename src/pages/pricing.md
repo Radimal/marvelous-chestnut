@@ -11,7 +11,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Basic
-        subtitle: For small businesses
+        subtitle: Get the Reports You Need
         price: $0/m
         details: |
           *   $69 48-Hour consultation
