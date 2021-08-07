@@ -12,7 +12,7 @@ sections:
         template: pricing_plan
         title: Basic
         subtitle: For small businesses
-        price: $5/m
+        price: $0/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
