@@ -168,7 +168,7 @@ sections:
             template: action
             label: Order Now
             url: /signup
-            style: secondary
+            style: secondary]
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
