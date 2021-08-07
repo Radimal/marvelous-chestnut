@@ -13,11 +13,12 @@ sections:
         title: Basic
         subtitle: For small businesses
         price: $0/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   $69 48-Hour consultation
+          *   $109 2-Hour STAT consultation
+          *   $149 1-Hour STAT consultation
+          *   Chat with specialists for any questions
+          *   All patients appear in dashboard
         actions:
           - type: action
             template: action
