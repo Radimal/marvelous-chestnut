@@ -28,7 +28,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: AI-Enabled
-        subtitle: Welcome to the future
+        subtitle: Get 6 months free
         price: $199/m
         details: |
           *   Ulimited AI screening for all patients
