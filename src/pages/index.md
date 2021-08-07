@@ -114,6 +114,12 @@ sections:
     title: Latest Posts
     background: gray
     subtitle: ''
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
