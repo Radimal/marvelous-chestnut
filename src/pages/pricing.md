@@ -27,7 +27,7 @@ sections:
             style: secondary
       - type: pricing_plan
         template: pricing_plan
-        title: Professional
+        title: AI-Enabled
         subtitle: AI-Enable Your Practice
         price: $199/m
         details: |
