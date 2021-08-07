@@ -29,7 +29,7 @@ sections:
         template: pricing_plan
         title: Professional
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: $199/m
         details: |
           *   Ulimited AI screening for all patients
           *   $69 48-Hour consultation
