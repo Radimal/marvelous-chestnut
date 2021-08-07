@@ -31,6 +31,7 @@ sections:
         subtitle: For medium-sized businesses
         price: $49/m
         details: |
+          *   Ulimited AI screening for all patients
           *   $69 48-Hour consultation
           *   $109 2-Hour STAT consultation
           *   $149 1-Hour STAT consultation
