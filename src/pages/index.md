@@ -153,7 +153,7 @@ sections:
             style: primary
       - type: pricing_plan
         template: pricing_plan
-        title: Enterprise
+        title: Practice Groups
         subtitle: For larger organizations
         price: Custom
         details: >
