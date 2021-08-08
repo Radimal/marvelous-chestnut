@@ -108,12 +108,6 @@ sections:
         icon_position: ''
         new_window: false
         no_follow: false
-  - type: section_posts
-    template: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    background: gray
-    subtitle: ''
   - type: section_pricing
     template: section_pricing
     section_id: pricing
@@ -171,6 +165,12 @@ sections:
             label: Order Now
             url: /signup
             style: secondary
+  - type: section_posts
+    template: section_posts
+    section_id: recent-posts
+    title: Latest Posts
+    background: gray
+    subtitle: ''
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
