@@ -120,7 +120,7 @@ sections:
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
     background: gray
-    pricing_plans: [
+    pricing_plans:
       - type: pricing_plan
         template: pricing_plan
         title: Basic
