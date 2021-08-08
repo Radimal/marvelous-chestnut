@@ -108,7 +108,6 @@ sections:
         icon_position: ''
         new_window: false
         no_follow: false
-
   - type: section_posts
     template: section_posts
     section_id: recent-posts
