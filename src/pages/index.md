@@ -139,9 +139,9 @@ sections:
         price: $199/m
         details: |
           *   Ulimited AI screening for all patients
-          *   $69 48-Hour consultation
-          *   $109 2-Hour STAT consultation
-          *   $149 1-Hour STAT consultation
+          *   **$69 48-Hour Guaranteed**
+          *   **$129 2-Hour Guaranteed STAT**
+          *   **$199 1-Hour Guaranteed STAT**
           *   Chat with specialists for any questions
           *   All patients appear in dashboard
         highlight: true
