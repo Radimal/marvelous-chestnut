@@ -108,7 +108,7 @@ sections:
         icon_position: ''
         new_window: false
         no_follow: false
-- type: section_pricing
+  - type: section_pricing
     template: section_pricing
     section_id: pricing
     title: Pricing Plans
