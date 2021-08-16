@@ -128,7 +128,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Order Now
+            label: Get Started
             url: /signup
             style: secondary
       - type: pricing_plan
