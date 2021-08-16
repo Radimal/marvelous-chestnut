@@ -112,7 +112,7 @@ sections:
     template: section_pricing
     section_id: pricing
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: 
     background: gray
     pricing_plans:
       - type: pricing_plan
