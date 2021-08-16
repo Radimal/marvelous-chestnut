@@ -112,7 +112,7 @@ sections:
     template: section_pricing
     section_id: pricing
     title: Pricing Plans
-    subtitle: 
+    subtitle: All patients import to dashboard at no cost
     background: gray
     pricing_plans:
       - type: pricing_plan
