@@ -108,6 +108,63 @@ sections:
         icon_position: ''
         new_window: false
         no_follow: false
+- type: section_pricing
+    template: section_pricing
+    section_id: pricing
+    title: Pricing Plans
+    subtitle: You can have a separate pricing page or list everything on the home page.
+    background: gray
+    pricing_plans:
+      - type: pricing_plan
+        template: pricing_plan
+        title: Basic
+        subtitle: Get the Reports You Need
+        price: $0/m
+        details: |
+          *   $69 48-Hour consultation
+          *   $109 2-Hour STAT consultation
+          *   $149 1-Hour STAT consultation
+          *   Chat with specialists for any questions
+          *   All patients appear in dashboard
+        actions:
+          - type: action
+            template: action
+            label: Order Now
+            url: /signup
+            style: secondary
+      - type: pricing_plan
+        template: pricing_plan
+        title: AI-Enabled
+        subtitle: Get 6 months free
+        price: $199/m
+        details: |
+          *   Ulimited AI screening for all patients
+          *   $69 48-Hour consultation
+          *   $109 2-Hour STAT consultation
+          *   $149 1-Hour STAT consultation
+          *   Chat with specialists for any questions
+          *   All patients appear in dashboard
+        highlight: true
+        actions:
+          - type: action
+            template: action
+            label: Order Now
+            url: /signup
+            style: primary
+      - type: pricing_plan
+        template: pricing_plan
+        title: Enterprise
+        subtitle: For larger organizations
+        price: Custom
+        details: >
+          *   Contact us for practices and organizations with more than 10
+          doctors
+        actions:
+          - type: action
+            template: action
+            label: Order Now
+            url: /signup
+            style: secondary
   - type: section_posts
     template: section_posts
     section_id: recent-posts
