@@ -142,7 +142,6 @@ sections:
           *   $109 2-Hour STAT consultation
           *   $149 1-Hour STAT consultation
           *   Chat with specialists for any questions
-          *   All patients appear in dashboard
         highlight: true
         actions:
           - type: action
