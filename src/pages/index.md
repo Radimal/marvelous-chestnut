@@ -137,7 +137,7 @@ sections:
         subtitle: Get 6 months free
         price: $199/m
         details: |
-          *   Unlimited AI screening for all patients
+          *   **Unlimited AI screening for all patients**
           *   $69 48-Hour consultation
           *   $109 2-Hour STAT consultation
           *   $149 1-Hour STAT consultation
