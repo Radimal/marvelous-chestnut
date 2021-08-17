@@ -119,7 +119,7 @@ sections:
         template: pricing_plan
         title: Basic
         subtitle: Get the Reports You Need
-        price: $0/m
+        price: $0/month
         details: |
           *   $69 48-Hour consultation
           *   $109 2-Hour STAT consultation
