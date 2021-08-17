@@ -135,7 +135,7 @@ sections:
         template: pricing_plan
         title: AI-Enabled
         subtitle: Get 6 months free
-        price: $199/m
+        price: $199/month
         details: |
           *   **Unlimited AI screening for all patients**
           *   $69 48-Hour consultation
