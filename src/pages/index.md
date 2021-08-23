@@ -134,7 +134,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: AI-Enabled
-        subtitle: Get 6 months free
+        subtitle: First 6 months FREE
         price: $199/month
         details: |
           *   **Unlimited AI screening for all patients (up to 3 doctors)**
