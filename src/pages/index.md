@@ -138,9 +138,9 @@ sections:
         price: $199/month
         details: |
           *   **Unlimited AI screening for all patients (up to 3 doctors)**
-          *   $69 48-Hour consultation
-          *   $109 2-Hour STAT consultation
-          *   $149 1-Hour STAT consultation
+          *   $75 48-Hour consultation
+          *   $129 2-Hour STAT consultation
+          *   $189 1-Hour STAT consultation
           *   Chat with specialists for any questions
         highlight: true
         actions:
