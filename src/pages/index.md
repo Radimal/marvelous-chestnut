@@ -121,9 +121,9 @@ sections:
         subtitle: Get the Reports You Need
         price: $0/month
         details: |
-          *   $69 48-Hour consultation
-          *   $109 2-Hour STAT consultation
-          *   $149 1-Hour STAT consultation
+          *   $75 48-Hour consultation
+          *   $129 2-Hour STAT consultation
+          *   $189 1-Hour STAT consultation
           *   Chat with specialists for any questions
         actions:
           - type: action
