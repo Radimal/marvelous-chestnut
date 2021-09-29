@@ -53,7 +53,7 @@ thumb_image_alt: I actually am a doctor
 ---
 Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).
 
-![](https://preview--marvelous-chestnut-1649c.stackbit.dev/images/giphy.gif)
+![](https://media3.giphy.com/media/orUBPAFddnyo5HhQNC/giphy.gif?cid=790b76110b76c08b8a7dd293fec78d23179afadf177767b8&rid=giphy.gif&ct=g)
 
 But, when you work in veterinary medicine, apprehension and ambiguity do more than keep you up at night. They can quite literally mean the difference between life and death for your patients.
 
