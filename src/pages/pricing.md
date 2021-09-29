@@ -11,13 +11,14 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Basic
-        subtitle: For small businesses
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        subtitle: Get the Reports You Need
+        price: $0/m
+        details: |
+          *   $69 48-Hour consultation
+          *   $109 2-Hour STAT consultation
+          *   $149 1-Hour STAT consultation
+          *   Chat with specialists for any questions
+          *   All patients appear in dashboard
         actions:
           - type: action
             template: action
@@ -26,15 +27,16 @@ sections:
             style: secondary
       - type: pricing_plan
         template: pricing_plan
-        title: Professional
-        subtitle: For medium-sized businesses
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        title: AI-Enabled
+        subtitle: Get 6 months free
+        price: $199/m
+        details: |
+          *   Ulimited AI screening for all patients
+          *   $69 48-Hour consultation
+          *   $109 2-Hour STAT consultation
+          *   $149 1-Hour STAT consultation
+          *   Chat with specialists for any questions
+          *   All patients appear in dashboard
         highlight: true
         actions:
           - type: action
@@ -45,13 +47,11 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Enterprise
-        subtitle: For very large businesses
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        subtitle: For larger organizations
+        price: Custom
+        details: >
+          *   Contact us for practices and organizations with more than 10
+          doctors
         actions:
           - type: action
             template: action
