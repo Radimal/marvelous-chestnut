@@ -1,6 +1,6 @@
 ---
 title: Why We Started Radimal
-subtitle: (and Why It’s About So Much More Than Radiology Reports)
+subtitle: "(and Why It’s About So Much More Than Radiology Reports)"
 image: ''
 image_alt: ''
 seo:
@@ -9,44 +9,47 @@ seo:
   title: About Us
   description: Radimal - About Us
   extra:
-    - name: 'og:type'
-      value: profile
-      keyName: property
-      relativeUrl: false
-    - name: 'og:title'
-      value: Why We Started Radimal
-      keyName: property
-      relativeUrl: false
-    - name: 'og:description'
-      value: (and Why It’s About So Much More Than Radiology Reports)
-      keyName: property
-      relativeUrl: false
-    - name: 'og:image'
-      value: /_static/app-assets/FB%20Image%20Preview%20600%20x%20314.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:title'
-      value: Why We Started Radimal
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:description'
-      value: (and Why It’s About So Much More Than Radiology Reports)
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:image'
-      value: /_static/app-assets/Radimal%20Twitter%20Preview.png
-      relativeUrl: true
-      keyName: ''
+  - name: og:type
+    value: profile
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: Why We Started Radimal
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: "(and Why It’s About So Much More Than Radiology Reports)"
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: "/_static/app-assets/FB%20Image%20Preview%20600%20x%20314.png"
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: Why We Started Radimal
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: "(and Why It’s About So Much More Than Radiology Reports)"
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: "/_static/app-assets/Radimal%20Twitter%20Preview.png"
+    relativeUrl: true
+    keyName: ''
   robots: []
 template: page
+
 ---
 Uncertainty at work isn’t a novel emotion. Plenty of people deal with challenging projects, unclear decisions, and even a little bit of [imposter syndrome](https://www.apa.org/science/about/psa/2018/09/imposter-syndrome).
 
-![](/images/giphy.gif)
+![](/images/giphy-2.gif)
+
+![](/images/Blog feed report 2.png)
 
 But, when you work in veterinary medicine, apprehension and ambiguity do more than keep you up at night. They can quite literally mean the difference between life and death for your patients.
 
@@ -62,9 +65,9 @@ Those statistics are alarming, and they bring us right to the heart of why we st
 
 Radimal provides solutions for the numerous radiology problems that veterinarians encounter. We’re sure at least one of these scenarios sounds familiar:
 
-*   You’re a general practitioner who takes X-rays in-house and needs to review them yourself, even though you may have limited radiology training
-*   You send X-rays to a teleradiology company, but they’re backlogged and you can’t get the reports you need until days (or even weeks) later
-*   You feel like you’re shooting in the dark with X-rays, and it’s having an impact not only on your patient care but also your mental health and stress levels
+* You’re a general practitioner who takes X-rays in-house and needs to review them yourself, even though you may have limited radiology training
+* You send X-rays to a teleradiology company, but they’re backlogged and you can’t get the reports you need until days (or even weeks) later
+* You feel like you’re shooting in the dark with X-rays, and it’s having an impact not only on your patient care but also your mental health and stress levels
 
 Radimal builds software that uses artificial intelligence (AI) to analyze X-rays and provide radiology reports within minutes (not days).
 
