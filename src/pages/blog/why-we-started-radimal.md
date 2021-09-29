@@ -85,7 +85,7 @@ Rather, Radimal AI provides added peace of mind for veterinarians. When they do 
 
 Think of Radimal AI as another tool in your toolkit—an extra gut check to confirm your own findings so that you can go home at night feeling confident in your decisions.
 
-![](https://preview--marvelous-chestnut-1649c.stackbit.dev/images/giphy-1.gif)
+![](https://media3.giphy.com/media/E72zBwfDfxRwLu5vbB/giphy.gif?cid=790b7611e10f1a28f599a02467d3ef99227e013cbbde1ff8&rid=giphy.gif&ct=g)
 
 ## **Who’s behind Radimal?**
 
