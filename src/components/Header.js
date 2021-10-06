@@ -89,7 +89,7 @@ export function Header(props) {
                       )}
 
                       <button id="login" className="button" onClick={() => loginWithRedirect()}>
-                        {isAuthenticated ? "Go To Console" : "Get Started"}
+                        {isAuthenticated ? "View Dashboard" : "Get Started"}
                       </button>
                     </ul>
                   </div>
