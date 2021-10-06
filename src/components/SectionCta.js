@@ -5,13 +5,9 @@ import {htmlToReact} from '../utils';
 import CtaButtons from './CtaButtons';
 import { useAuth0 } from "@auth0/auth0-react"
 
-import { Link, withPrefix, classNames } from "../utils"
-import Action from "./Action"
-import getCookie from "../utils/getCookie"
-
-export function Header(props) {
-  const { loginWithRedirect } = useAuth0()
+  
 export default class SectionCta extends React.Component {
+    const { loginWithRedirect } = useAuth0()
     render() {
         let section = _.get(this.props, 'section', null);
         return (
