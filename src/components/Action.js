@@ -5,8 +5,9 @@ import { useAuth0 } from "@auth0/auth0-react"
 import {Link, withPrefix, classNames} from '../utils';
 import Icon from './Icon';
 import getCookie from "../utils/getCookie"
+const { loginWithRedirect } = useAuth0()
 export default class Action extends React.Component {
-    const { loginWithRedirect } = useAuth0()
+    
     render() {
         let action = _.get(this.props, 'action', null);
         let action_style = _.get(action, 'style', null) || 'link';
