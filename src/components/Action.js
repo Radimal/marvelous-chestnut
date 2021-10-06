@@ -1,9 +1,11 @@
 import React from 'react';
 import _ from 'lodash';
+import { useAuth0 } from "@auth0/auth0-react"
 
 import {Link, withPrefix, classNames} from '../utils';
 import Icon from './Icon';
 
+const { loginWithRedirect } = useAuth0()
 export default class Action extends React.Component {
     render() {
         let action = _.get(this.props, 'action', null);
@@ -11,7 +13,7 @@ export default class Action extends React.Component {
         let action_icon = _.get(action, 'icon', null) || 'arrow-left';
         let action_icon_pos = _.get(action, 'icon_position', null) || 'left';
         return (
-            <Link onClick=
+            <Link onClick={() => loginWithRedirect()}></Link>
             <Link to={withPrefix(_.get(action, 'url', null))}
               {...(_.get(action, 'new_window', null) ? ({target: '_blank'}) : null)}
               {...((_.get(action, 'new_window', null) || _.get(action, 'no_follow', null)) ? ({rel: (_.get(action, 'new_window', null) ? ('noopener ') : '') + (_.get(action, 'no_follow', null) ? ('nofollow') : '')}) : null)}
