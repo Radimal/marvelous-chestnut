@@ -27,7 +27,7 @@ export default class SectionCta extends React.Component {
                   </div>
                   {_.get(section, 'actions', null) && (
                   <div className="cell block-buttons">                    
-                    <CtaButtons {...this.props} onClick={() => loginWithRedirect()} actions={_.get(section, 'actions', null)} />
+                    <CtaButtons {...this.props} onClick={() => loginWithRedirect()}  />
                   </div>
                   )}
                 </div>
