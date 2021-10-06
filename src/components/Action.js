@@ -23,8 +23,8 @@ export default class Action extends React.Component {
             <span className={classNames({'order-first': action_icon_pos === 'right'})}>{_.get(action, 'label', null)}</span>
             </Link>
         );
-        return (
-            <Link onClick={() => loginWithRedirect()}></Link>
-        );
+        // return (
+        //     <Link onClick={() => loginWithRedirect()}></Link>
+        // );
     }
 }
