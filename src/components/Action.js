@@ -1,11 +1,11 @@
 import React from 'react';
 import _ from 'lodash';
-import { useAuth0 } from "@auth0/auth0-react"
+// import { useAuth0 } from "@auth0/auth0-react"
 
 import {Link, withPrefix, classNames} from '../utils';
 import Icon from './Icon';
 
-const { loginWithRedirect } = useAuth0()
+// const { loginWithRedirect } = useAuth0()
 export default class Action extends React.Component {
     render() {
         let action = _.get(this.props, 'action', null);
