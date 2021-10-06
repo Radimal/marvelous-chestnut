@@ -4,7 +4,7 @@ import { useAuth0 } from "@auth0/auth0-react"
 
 import {Link, withPrefix, classNames} from '../utils';
 import Icon from './Icon';
-
+import getCookie from "../utils/getCookie"
 export default class Action extends React.Component {
     const { loginWithRedirect } = useAuth0()
     render() {
