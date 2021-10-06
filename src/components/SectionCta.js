@@ -3,12 +3,8 @@ import _ from 'lodash';
 
 import {htmlToReact} from '../utils';
 import CtaButtons from './CtaButtons';
-import { useAuth0 } from "@auth0/auth0-react"
 
-const { loginWithRedirect } = useAuth0()
-  
 export default class SectionCta extends React.Component {
-    
     render() {
         let section = _.get(this.props, 'section', null);
         return (
@@ -27,7 +23,7 @@ export default class SectionCta extends React.Component {
                   </div>
                   {_.get(section, 'actions', null) && (
                   <div className="cell block-buttons">                    
-                    <CtaButtons {...this.props} onClick={() => loginWithRedirect()}  />
+                    <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
                   </div>
                   )}
                 </div>
