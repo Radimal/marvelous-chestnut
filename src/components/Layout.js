@@ -15,7 +15,6 @@ export default class Body extends React.Component {
     return (
       <React.Fragment>
         <Helmet>
-          <!--script src="https://www.googleoptimize.com/optimize.js?id=OPT-5PFCLT4"></script-->
           <title>
             {_.get(this.props, "pageContext.frontmatter.seo.title", null)
               ? _.get(this.props, "pageContext.frontmatter.seo.title", null)
