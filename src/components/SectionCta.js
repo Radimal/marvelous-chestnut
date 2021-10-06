@@ -5,9 +5,10 @@ import {htmlToReact} from '../utils';
 import CtaButtons from './CtaButtons';
 import { useAuth0 } from "@auth0/auth0-react"
 
+const { loginWithRedirect } = useAuth0()
   
 export default class SectionCta extends React.Component {
-    const { loginWithRedirect } = useAuth0()
+    
     render() {
         let section = _.get(this.props, 'section', null);
         return (
