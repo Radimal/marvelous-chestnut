@@ -96,7 +96,7 @@ sections:
     template: section_cta
     section_id: call-to-action
     title: Get your first 3 reports FREE
-    subtitle: Receive your first report in minutes with one quick setup call
+    subtitle: Receive your first report in minutes with easy setup
     actions:
       - type: action
         template: action
