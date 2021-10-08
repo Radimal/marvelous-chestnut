@@ -100,7 +100,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Start Now
+        label: Get Started
         url: /signup
         style: primary
         has_icon: false
