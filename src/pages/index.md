@@ -145,6 +145,8 @@ sections:
 
 
 
+
+
           Radiologist consultation pricing, per study
 
           *   $75 48-Hour
