@@ -24,17 +24,17 @@ sections:
           label: Get Started
           url: /signup
           style: secondary
-- type: pricing_plan
-    template: pricing_plan
-    title: AI-Enabled
-    subtitle: First 6 months FREE
-    price: $199/month
-    details: |
-    *   **Unlimited AI screening for all patients (up to 3 doctors)**
-    *   $75 48-Hour consultation
-    *   $129 2-Hour STAT consultation
-    *   $189 1-Hour STAT consultation
-    *   Chat with specialists for any questions
+  - type: pricing_plan
+      template: pricing_plan
+      title: AI-Enabled
+      subtitle: First 6 months FREE
+      price: $199/month
+      details: |
+      *   **Unlimited AI screening for all patients (up to 3 doctors)**
+      *   $75 48-Hour consultation
+      *   $129 2-Hour STAT consultation
+      *   $189 1-Hour STAT consultation
+     *   Chat with specialists for any questions
     highlight: true
     actions:
     - type: action
