@@ -21,9 +21,9 @@ sections:
     actions:
     - type: action
     template: action
-          label: Get Started
-          url: /signup
-          style: secondary
+    label: Get Started
+    url: /signup
+    style: secondary
   - type: pricing_plan
       template: pricing_plan
       title: AI-Enabled
