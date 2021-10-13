@@ -143,6 +143,11 @@ sections:
         price: $199/month
         details: |
           *   **Unlimited AI screening for all patients (up to 3 doctors)**
+
+          \-------------------------------------
+
+          Radiologist consultation pricing, per study
+
           *   $75 48-Hour consultation
           *   $129 2-Hour STAT consultation
           *   $189 1-Hour STAT consultation
