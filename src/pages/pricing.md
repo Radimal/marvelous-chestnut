@@ -15,8 +15,8 @@ sections:
         price: $0/month
         details: |
 
-          \<!---->
-          \<!---->
+          <!---->
+          <!---->
 
           Radiologist consultation pricing, per study
 
