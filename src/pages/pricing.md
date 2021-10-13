@@ -1,47 +1,45 @@
 ---
 title: Pricing
 sections:
-  - type: section_pricing
+- type: section_pricing
     template: section_pricing
     section_id: pricing
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: All patients import to dashboard at no cost
     background: gray
     pricing_plans:
       - type: pricing_plan
         template: pricing_plan
         title: Basic
         subtitle: Get the Reports You Need
-        price: $0/m
+        price: $0/month
         details: |
-          *   $69 48-Hour consultation
-          *   $109 2-Hour STAT consultation
-          *   $149 1-Hour STAT consultation
+          *   $75 48-Hour consultation
+          *   $129 2-Hour STAT consultation
+          *   $189 1-Hour STAT consultation
           *   Chat with specialists for any questions
-          *   All patients appear in dashboard
         actions:
           - type: action
             template: action
-            label: Order Now
+            label: Get Started
             url: /signup
             style: secondary
       - type: pricing_plan
         template: pricing_plan
         title: AI-Enabled
-        subtitle: Get 6 months free
-        price: $199/m
+        subtitle: First 6 months FREE
+        price: $199/month
         details: |
-          *   Ulimited AI screening for all patients
-          *   $69 48-Hour consultation
-          *   $109 2-Hour STAT consultation
-          *   $149 1-Hour STAT consultation
+          *   **Unlimited AI screening for all patients (up to 3 doctors)**
+          *   $75 48-Hour consultation
+          *   $129 2-Hour STAT consultation
+          *   $189 1-Hour STAT consultation
           *   Chat with specialists for any questions
-          *   All patients appear in dashboard
         highlight: true
         actions:
           - type: action
             template: action
-            label: Order Now
+            label: Get Started
             url: /signup
             style: primary
       - type: pricing_plan
@@ -55,7 +53,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Order Now
+            label: Contact Us
             url: /signup
             style: secondary
   - type: section_faq
