@@ -2,28 +2,28 @@
 title: Pricing
 sections:
 - type: section_pricing
-template: section_pricing
-section_id: pricing
-title: Pricing Plans
-subtitle: All patients import to dashboard at no cost
-background: gray
-pricing_plans:
-- type: pricing_plan
-    template: pricing_plan
-    title: Basic
-    subtitle: Get the Reports You Need
-    price: $0/month
-    details: |
-    *   $75 48-Hour consultation
-    *   $129 2-Hour STAT consultation
-    *   $189 1-Hour STAT consultation
-    *   Chat with specialists for any questions
-    actions:
-    - type: action
-        template: action
-        label: Get Started
-        url: /signup
-        style: secondary
+  template: section_pricing
+  section_id: pricing
+  title: Pricing Plans
+  subtitle: All patients import to dashboard at no cost
+  background: gray
+  pricing_plans:
+  - type: pricing_plan
+      template: pricing_plan
+      title: Basic
+      subtitle: Get the Reports You Need
+      price: $0/month
+      details: |
+      *   $75 48-Hour consultation
+      *   $129 2-Hour STAT consultation
+      *   $189 1-Hour STAT consultation
+      *   Chat with specialists for any questions
+      actions:
+      - type: action
+          template: action
+          label: Get Started
+          url: /signup
+          style: secondary
 - type: pricing_plan
     template: pricing_plan
     title: AI-Enabled
