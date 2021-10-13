@@ -143,6 +143,8 @@ sections:
         details: |
           *   **Unlimited AI screening for all patients (up to 3 doctors)**
 
+
+
           Radiologist consultation pricing, per study
 
           *   $75 48-Hour
