@@ -119,7 +119,6 @@ sections:
         template: pricing_plan
         title: Basic
         subtitle: Get the Reports You Need
-        price: $0/month
         details: |
           Radiologist consultation pricing, per study
 
