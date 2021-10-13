@@ -121,13 +121,13 @@ sections:
         subtitle: Get the Reports You Need
         price: $0/month
         details: |
-          Radiologist consultation pricing, per patient:
+          Radiologist consultation pricing, per study:
 
           *   $75 48-Hour
+
           *   $129 2-Hour STAT
+
           *   $189 1-Hour STAT
-
-
 
           *   Chat with specialists for any questions
         actions:
