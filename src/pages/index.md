@@ -145,9 +145,6 @@ sections:
 
           <!---->
 
-          *
-
-
 
 
           Radiologist consultation pricing, per study
