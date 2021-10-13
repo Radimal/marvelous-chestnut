@@ -1,8 +1,8 @@
 ---
 title: Pricing
 sections:
-    - type: section_pricing
-    template: section_pricing
+  - type: section_pricing
+        template: section_pricing
     section_id: pricing
     title: Pricing Plans
     subtitle: All patients import to dashboard at no cost
