@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sections:
-  - type: section_pricing
+- type: section_pricing
     template: section_pricing
     section_id: pricing
     title: Pricing Plans
