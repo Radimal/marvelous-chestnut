@@ -17,9 +17,9 @@ sections:
     subtitle: ''
     background: gray
     features:
-      - title: STAT and 48Hour Reports with Guaranteed Turnaround
+      - title: STAT and 48-Hour Reports with Guaranteed Turnaround
         content: >
-          Choose from 1Hour, 2Hour, and 48Hour - once you submit, your
+          Choose from 1-Hour, 2-Hour, and 48-Hour - once you submit, your
           turnaround time is guaranteed. Easy to read, delivered directly to
           your email and Radimal Cases Dashboard. Quickly request a Full Consult
           for any patient or share with clients.
