@@ -88,7 +88,16 @@ export function Header(props) {
                         }
                       )}
 
-                      <button id="login" className="button" onClick={() => loginWithRedirect()}>
+                      <button
+                        id="login"
+                        className="button"
+                        onClick={() => {
+                          if (isAuthenticated) {
+                            window.location.href = "https://vet.radimal.ai"
+                          } else {
+                            loginWithRedirect({ screen_hint: "signup" })
+                          }
+                        }}>
                         {isAuthenticated ? "View Dashboard" : "Get Started"}
                       </button>
                     </ul>

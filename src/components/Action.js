@@ -17,7 +17,7 @@ export default function Action(props) {
 
   return shouldAuthenticate ? (
     <Link
-      onClick={loginWithRedirect}
+      onClick={() => loginWithRedirect({ screen_hint: "signup" })}
       className={classNames({
         button: action_style === "primary" || action_style === "secondary",
         secondary: action_style === "secondary",
