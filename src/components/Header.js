@@ -4,11 +4,12 @@ import { useAuth0 } from "@auth0/auth0-react"
 
 import { Link, withPrefix, classNames } from "../utils"
 import Action from "./Action"
-import getCookie from "../utils/getCookie"
+// import getCookie from "../utils/getCookie"
 
 export function Header(props) {
   const { loginWithRedirect } = useAuth0()
-  const isAuthenticated = getCookie("logged_into_radimal") !== null
+
+  // const isAuthenticated = getCookie("logged_into_radimal") !== null
 
   return (
     <header id="masthead" className="site-header outer">
@@ -19,9 +20,7 @@ export function Header(props) {
               <p className="site-logo">
                 <Link to={withPrefix("/")}>
                   <img
-                    src={withPrefix(
-                      _.get(props, "pageContext.site.siteMetadata.header.logo_img", null)
-                    )}
+                    src={withPrefix(_.get(props, "pageContext.site.siteMetadata.header.logo_img", null))}
                     alt={_.get(props, "pageContext.site.siteMetadata.header.logo_img_alt", null)}
                   />
                 </Link>
@@ -31,30 +30,18 @@ export function Header(props) {
             _.get(props, "pageContext.frontmatter.template", null) === "blog" ? (
               <h1
                 className={classNames("site-title", {
-                  "screen-reader-text": _.get(
-                    props,
-                    "pageContext.site.siteMetadata.header.logo_img",
-                    null
-                  ),
+                  "screen-reader-text": _.get(props, "pageContext.site.siteMetadata.header.logo_img", null),
                 })}
               >
-                <Link to={withPrefix("/")}>
-                  {_.get(props, "pageContext.site.siteMetadata.title", null)}
-                </Link>
+                <Link to={withPrefix("/")}>{_.get(props, "pageContext.site.siteMetadata.title", null)}</Link>
               </h1>
             ) : (
               <p
                 className={classNames("site-title", {
-                  "screen-reader-text": _.get(
-                    props,
-                    "pageContext.site.siteMetadata.header.logo_img",
-                    null
-                  ),
+                  "screen-reader-text": _.get(props, "pageContext.site.siteMetadata.header.logo_img", null),
                 })}
               >
-                <Link to={withPrefix("/")}>
-                  {_.get(props, "pageContext.site.siteMetadata.title", null)}
-                </Link>
+                <Link to={withPrefix("/")}>{_.get(props, "pageContext.site.siteMetadata.title", null)}</Link>
               </p>
             )}
           </div>
@@ -68,37 +55,33 @@ export function Header(props) {
                       <span className="icon-close" aria-hidden="true" />
                     </button>
                     <ul className="menu">
-                      {_.map(
-                        _.get(props, "pageContext.site.siteMetadata.header.nav_links", null),
-                        (action, action_idx) => {
-                          let page_url = _.trim(_.get(props, "pageContext.url", null), "/")
-                          let action_url = _.trim(_.get(action, "url", null), "/")
-                          let action_style = _.get(action, "style", null) || "link"
-                          return (
-                            <li
-                              key={action_idx}
-                              className={classNames("menu-item", {
-                                "current-menu-item": page_url === action_url,
-                                "menu-button": action_style !== "link",
-                              })}
-                            >
-                              <Action {...props} action={action} />
-                            </li>
-                          )
-                        }
-                      )}
+                      {_.map(_.get(props, "pageContext.site.siteMetadata.header.nav_links", null), (action, action_idx) => {
+                        let page_url = _.trim(_.get(props, "pageContext.url", null), "/")
+                        let action_url = _.trim(_.get(action, "url", null), "/")
+                        let action_style = _.get(action, "style", null) || "link"
+                        return (
+                          <li
+                            key={action_idx}
+                            className={classNames("menu-item", {
+                              "current-menu-item": page_url === action_url,
+                              "menu-button": action_style !== "link",
+                            })}
+                          >
+                            <Action {...props} action={action} />
+                          </li>
+                        )
+                      })}
 
                       <button
                         id="login"
-                        className="button"
-                        onClick={() => {
-                          if (isAuthenticated) {
-                            window.location.href = "https://vet.radimal.ai"
-                          } else {
-                            loginWithRedirect({ screen_hint: "signup" })
-                          }
-                        }}>
-                        {isAuthenticated ? "View Dashboard" : "Get Started"}
+                        className={classNames({ secondary: true, button: true })}
+                        onClick={() => loginWithRedirect({ screen_hint: "signup" })}
+                      >
+                        Sign Up
+                      </button>
+
+                      <button id="login" className="button" onClick={() => loginWithRedirect({ screen_hint: "login" })}>
+                        Log In
                       </button>
                     </ul>
                   </div>
