@@ -39,5 +39,6 @@ pages:
 - src/pages/about.md
 - src/pages/faq.md
 - src/pages/privacy-policy.md
+- src/pages/radimal-demo.md
 - src/pages/signup.md
 - src/pages/terms-of-service.md
